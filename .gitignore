@@ -1,0 +1,109 @@
+# Node
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Models (too large for git — download on first run)
+models/*/model.safetensors
+models/*/pytorch_model.bin
+models/*/tf_model.h5
+*.bin
+*.safetensors
+
+# Keep config files for models
+!models/*/config.json
+!models/*/tokenizer*
+!models/*/vocab*
+!models/*/special_tokens*
+
+# Environment
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+logs/
+backend_startup.log
+
+# Redis
+dump.rdb
+
+# Data
+data/*.json
+!data/README.md
+data/traces/
+backend/data/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Colab outputs
+*.zip
+stage1_logical_detector.pt
+
+# Model weights (large files)
+models/*/model.safetensors
+models/*/pytorch_model.bin
+models/*/*.bin
+models/*/*.safetensors
+models/*/*.h5
+models/
+
+
+# Keep model configs
+!models/*/config.json
+!models/*/tokenizer*
+!models/*/vocab*
+!models/*/special_tokens*
+
+# Docker
+deployment/entrypoint.sh
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Archives
+*.tar.gz
+*.zip
+*.rar
+
+# Generated PDFs
+*.pdf
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+*.onnx.data
+
+
+# MISC
+
+docs/slides
+
+# Legacy research subproject (not part of production code)
+/logical-fallacy/
