@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ArgCheck</title>
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    :root {
+      --bg: #0d0d0d;
+      --card: #1a1a1a;
+      --card-alt: #222;
+      --card-hover: #2a2a2a;
+      --border: #2a2a2a;
+      --border-strong: #333;
+      --text: #d4d4d4;
+      --text-secondary: #9ca3af;
+      --text-muted: #6b7280;
+      --input-bg: #0d0d0d;
+      --input-border: #333;
+      --placeholder: #555;
+      --high: #059669;
+      --med: #d97706;
+      --low: #dc2626;
+      --high-bar: #10b981;
+      --med-bar: #f59e0b;
+      --low-bar: #ef4444;
+      --green: #34d399;
+      --green-bg: #064e3b;
+      --badge-red-bg: #450a0a;
+      --badge-red-text: #fca5a5;
+      --badge-red-border: #ef4444;
+      --badge-blue-bg: #172554;
+      --badge-blue-text: #93c5fd;
+      --badge-blue-border: #3b82f6;
+      --badge-amber-bg: #451a03;
+      --badge-amber-text: #fcd34d;
+      --badge-amber-border: #f59e0b;
+      --badge-purple-bg: #2e1065;
+      --badge-purple-text: #d8b4fe;
+      --badge-purple-border: #a855f7;
+      --badge-green-bg: #022c22;
+      --badge-green-text: #6ee7b7;
+      --badge-green-border: #10b981;
+      --mock-bg: rgba(120, 53, 15, 0.3);
+      --mock-text: #fbbf24;
+      --mock-border: #92400e;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f8f9fa;
+        --card: #ffffff;
+        --card-alt: #f1f3f5;
+        --card-hover: #e9ecef;
+        --border: #e2e8f0;
+        --border-strong: #d1d5db;
+        --text: #1a1a2e;
+        --text-secondary: #64748b;
+        --text-muted: #94a3b8;
+        --input-bg: #ffffff;
+        --input-border: #d1d5db;
+        --placeholder: #9ca3af;
+        --high: #059669;
+        --med: #d97706;
+        --low: #dc2626;
+        --high-bar: #10b981;
+        --med-bar: #f59e0b;
+        --low-bar: #ef4444;
+        --green: #059669;
+        --green-bg: #d1fae5;
+        --badge-red-bg: #fee2e2;
+        --badge-red-text: #991b1b;
+        --badge-red-border: #ef4444;
+        --badge-blue-bg: #dbeafe;
+        --badge-blue-text: #1e40af;
+        --badge-blue-border: #3b82f6;
+        --badge-amber-bg: #fef3c7;
+        --badge-amber-text: #92400e;
+        --badge-amber-border: #f59e0b;
+        --badge-purple-bg: #f3e8ff;
+        --badge-purple-text: #6b21a8;
+        --badge-purple-border: #a855f7;
+        --badge-green-bg: #d1fae5;
+        --badge-green-text: #047857;
+        --badge-green-border: #10b981;
+        --mock-bg: rgba(120, 53, 15, 0.15);
+        --mock-text: #92400e;
+        --mock-border: #92400e;
+      }
+    }
+    body {
+      width:380px; min-height:440px;
+      font-family: ui-monospace, SFMono-Regular, "Fira Code", "Cascadia Code", Menlo, Consolas, monospace;
+      background:var(--bg); color:var(--text); font-size:12px;
+    }
+    .top {
+      background:var(--card); border-bottom:1px solid var(--border);
+      padding:10px 14px; display:flex; align-items:center; gap:8px;
+    }
+    .top h1 { font-size:13px; font-weight:600; color:var(--text-secondary); letter-spacing:0.04em; }
+    .top .ver { margin-left:auto; font-size:10px; color:var(--text-muted); }
+    .server {
+      display:flex; gap:6px; padding:8px 14px 0 14px; align-items:center;
+    }
+    .server input {
+      flex:1; background:var(--input-bg); border:1px solid var(--input-border);
+      color:var(--text); font-size:10px; font-family:inherit; padding:5px 8px;
+    }
+    .server input:focus { outline:none; border-color:var(--text-secondary); }
+    .server .health {
+      font-size:9px; padding:4px 8px; border:1px solid var(--border);
+      color:var(--text-muted); white-space:nowrap;
+    }
+    .server .health.online { color:var(--green); border-color:var(--badge-green-border); background:var(--badge-green-bg); }
+    .server .health.offline { color:var(--badge-red-text); border-color:var(--badge-red-border); background:var(--badge-red-bg); }
+    .server .health.saving { color:var(--badge-amber-text); border-color:var(--badge-amber-border); background:var(--badge-amber-bg); }
+    .body { padding:12px 14px; }
+    textarea {
+      width:100%; min-height:96px; background:var(--input-bg);
+      border:1px solid var(--input-border); border-radius:0;
+      padding:8px 10px; color:var(--text); font-size:11px;
+      font-family:inherit; resize:vertical; line-height:1.6;
+    }
+    textarea:focus { outline:none; border-color:var(--text-secondary); }
+    textarea::placeholder { color:var(--placeholder); }
+    .btn {
+      width:100%; padding:8px 12px; border:1px solid var(--text-secondary);
+      background:transparent; color:var(--text-secondary); font-size:11px;
+      font-family:inherit; font-weight:600; letter-spacing:0.06em;
+      text-transform:uppercase; cursor:pointer; transition:all 0.15s; margin-top:8px;
+    }
+    .btn:hover { background:var(--text-secondary); color:var(--card); }
+    .btn:disabled { opacity:0.3; cursor:not-allowed; }
+    .btn:disabled:hover { background:transparent; color:var(--text-secondary); }
+    .bar {
+      margin-top:10px; padding:8px; background:var(--card-alt);
+      border:1px solid var(--border); font-size:10px; text-align:center;
+      color:var(--text-muted); display:none;
+    }
+    .error {
+      color:var(--badge-red-text); padding:8px 10px; background:var(--badge-red-bg);
+      border-left:2px solid var(--badge-red-border); margin-top:10px; font-size:11px;
+      line-height:1.5; display:none;
+    }
+    .error.visible { display:block; }
+    .result { margin-top:10px; display:none; }
+    .result.visible { display:block; }
+    .score-row {
+      display:flex; align-items:center; gap:8px; margin-bottom:10px;
+      padding-bottom:8px; border-bottom:1px solid var(--border);
+    }
+    .score-pct { font-size:22px; font-weight:700; min-width:44px; }
+    .score-pct.high { color:var(--high-bar); }
+    .score-pct.medium { color:var(--med-bar); }
+    .score-pct.low { color:var(--low-bar); }
+    .score-track { flex:1; height:4px; background:var(--border); }
+    .score-fill { height:100%; transition:width 0.4s; }
+    .score-fill.high { background:var(--high-bar); }
+    .score-fill.medium { background:var(--med-bar); }
+    .score-fill.low { background:var(--low-bar); }
+    .score-label { font-size:10px; color:var(--text-muted); letter-spacing:0.03em; }
+    .badges { display:flex; flex-wrap:wrap; gap:4px; margin-bottom:8px; }
+    .badge {
+      display:inline-block; padding:1px 6px; font-size:9px; letter-spacing:0.05em;
+      border:1px solid var(--badge-blue-border); background:var(--badge-blue-bg); color:var(--badge-blue-text);
+    }
+    .badge.degraded { border-color:var(--badge-amber-border); background:var(--badge-amber-bg); color:var(--badge-amber-text); }
+    .badge.mock { border-color:var(--mock-border); background:var(--mock-bg); color:var(--mock-text); }
+    .badge.z3-valid { border-color:var(--badge-green-border); background:var(--badge-green-bg); color:var(--badge-green-text); }
+    .badge.z3-invalid { border-color:var(--badge-red-border); background:var(--badge-red-bg); color:var(--badge-red-text); }
+    .badge.fallacy { border-color:var(--badge-red-border); background:var(--badge-red-bg); color:var(--badge-red-text); }
+    .tags { display:flex; flex-wrap:wrap; gap:4px; margin-bottom:10px; }
+    .tag {
+      display:inline-block; border:1px solid var(--badge-red-border);
+      background:var(--card-alt); padding:2px 8px; font-size:10px;
+      color:var(--badge-red-text); letter-spacing:0.03em;
+    }
+    .structure { margin-bottom:10px; }
+    .struct-row { padding:4px 8px; margin-bottom:2px; background:var(--card-alt); font-size:11px; border-left:2px solid var(--border-strong); }
+    .struct-row.premise { border-left-color:var(--badge-blue-border); }
+    .struct-row.conclusion { border-left-color:var(--badge-purple-border); }
+    .struct-label { color:var(--text-muted); font-size:9px; text-transform:uppercase; letter-spacing:0.05em; margin-right:6px; }
+    .correction {
+      background:var(--green-bg); border-left:2px solid var(--green);
+      padding:8px 10px; font-size:11px; color:var(--green);
+      line-height:1.5; max-height:120px; overflow-y:auto;
+    }
+    .foot {
+      margin-top:10px; padding-top:8px; border-top:1px solid var(--border);
+      display:flex; justify-content:space-between; font-size:10px; color:var(--text-muted);
+    }
+    .foot kbd {
+      background:var(--card); border:1px solid var(--border);
+      border-radius:2px; padding:0 4px; font-family:inherit; font-size:9px;
+    }
+    .foot a { color:var(--text-muted); text-decoration:none; }
+    .foot a:hover { color:var(--text-secondary); }
+    .settings { display:flex; gap:12px; margin-top:8px; padding:6px 0; }
+    .setting-row { display:flex; align-items:center; gap:4px; cursor:pointer; font-size:10px; color:var(--text-muted); letter-spacing:0.03em; }
+    .setting-row input { accent-color:var(--text-secondary); cursor:pointer; }
+    .setting-row:hover { color:var(--text); }
+  </style>
+</head>
+<body>
+  <div class="top">
+    <h1>ArgCheck</h1>
+    <span class="ver">v1.3.2</span>
+  </div>
+  <div class="server">
+    <input id="serverUrl" type="text" placeholder="API — http://localhost:8000" spellcheck="false">
+    <span id="healthStatus" class="health">checking</span>
+  </div>
+  <div class="server" style="padding-top:4px;">
+    <input id="dashboardUrl" type="text" placeholder="Dashboard — http://localhost:5173" spellcheck="false" style="font-size:10px;color:var(--text-muted);">
+  </div>
+  <div class="body">
+    <textarea id="inputText" placeholder="Paste an argument or select text on a page, then hit analyze..."></textarea>
+    <button id="analyzeBtn" class="btn">[ analyze ]</button>
+    <div class="settings">
+      <label class="setting-row"><input type="checkbox" id="localizeCheck"><span>localize</span></label>
+      <label class="setting-row"><input type="checkbox" id="fastTrackCheck"><span>fast track</span></label>
+    </div>
+    <div id="loading" class="bar">running</div>
+    <div id="error" class="error"></div>
+    <div id="result" class="result">
+      <div class="score-row">
+        <span id="scorePct" class="score-pct">--</span>
+        <div style="flex:1">
+          <div class="score-track">
+            <div id="scoreFill" class="score-fill" style="width:0%"></div>
+          </div>
+          <div id="scoreLabel" class="score-label"></div>
+        </div>
+      </div>
+      <div id="badgeList" class="badges"></div>
+      <div id="tagList" class="tags"></div>
+      <div id="structure" class="structure"></div>
+      <div id="correction" class="correction"></div>
+      <div id="status" class="bar" style="margin-top:8px;display:block;border-style:dashed"></div>
+    </div>
+    <div class="foot">
+      <span><kbd>Ctrl+Shift+L</kbd> on page</span>
+      <a href="#" id="dashLink">dashboard &rarr;</a>
+    </div>
+  </div>
+  <script src="config.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
