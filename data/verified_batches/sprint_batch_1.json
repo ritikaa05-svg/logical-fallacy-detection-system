@@ -1,0 +1,302 @@
+[
+  {
+    "text": "The VP of Engineering claims that adopting a microservices architecture will reduce deployment failures. But what he's really proposing is to fragment our entire monolith into thousands of unmanageable tiny services that no team can possibly operate. That clearly won't work.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The hospital administrator argues for mandatory flu vaccines for all staff to protect immunocompromised patients. However, her real position is that we should turn every nurse and doctor into a forced medical test subject without any personal autonomy. That's an extreme and unethical stance.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The climate scientist recommends a carbon tax to incentivize renewable energy adoption. But what she's actually saying is that we should bankrupt every family who owns a car and freeze them out of modern life entirely. That kind of radical policy will never gain public support.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Our lead engineer suggests implementing event sourcing to improve auditability. But this really means rewriting every single service from scratch, losing all our existing data, and doubling our cloud costs overnight. No sane tech lead would agree to that.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The product manager proposes a new review aggregation system that filters out fake ratings. But her actual proposal is to censor all negative feedback and only show five-star reviews, turning our platform into a propaganda tool. That's obviously deceptive and illegal.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The CEO argues for a return-to-office mandate to improve collaboration. But what she's really pushing for is total surveillance of employees' every keystroke and eliminating all work-life balance. That extreme vision will trigger mass resignations.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Public health officials recommend targeted subsidies for plant-based food options in schools. Their critics respond: 'They want to force veganism on every child and abolish dairy farming overnight.' That misrepresents the modest pilot program completely.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The energy analyst suggests a phased investment in natural gas as a bridge fuel. Opponents claim: 'He wants to burn coal forever and ignore solar entirely.' That twists a nuanced transitional strategy into an absurd all-or-nothing position.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The software architect advocates for gradually migrating legacy modules to Kubernetes. Another engineer objects: 'So you want to throw away our stable deployment system and spend the next five years in container hell with zero uptime.' That caricature ignores the incremental plan.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The e-commerce director requests A/B testing for a new checkout flow. A skeptical stakeholder responds: 'He's really asking us to confuse customers, abandon our proven design, and tank conversion rates just for academic curiosity.' That distorts a standard optimization method.",
+    "fallacy": "straw_man",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If a database deadlock occurs, the transaction log shows a cyclic lock dependency. The transaction log shows a cyclic lock dependency, therefore a database deadlock occurred.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If a patient's white blood cell count is elevated, then an inflammatory response is active. The patient's inflammatory response is active, therefore their white blood cell count is elevated.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If atmospheric CO2 concentration exceeds 450 ppm, then global average temperature rises above pre-industrial levels by 2°C. Global average temperature has risen by 2°C, therefore atmospheric CO2 concentration exceeds 450 ppm.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If a microservice experiences a memory leak, its response latency increases monotonically over time. The response latency has increased monotonically over time, therefore a memory leak occurred.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If a product listing receives more than 50 one-star reviews in a day, then an external review bombing campaign is underway. An external review bombing campaign is underway, therefore the product listing received more than 50 one-star reviews in a day.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If an employee disables two-factor authentication, then a security incident response is triggered. A security incident response has been triggered, therefore an employee disabled two-factor authentication.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If a hospital reduces nurse-to-patient ratios below 1:6, then post-surgical infection rates rise. Post-surgical infection rates have risen, therefore the hospital reduced nurse-to-patient ratios below 1:6.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If an oil company divests from Arctic drilling leases, then its quarterly profits decline. The oil company's quarterly profits declined, therefore it divested from Arctic drilling leases.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If a distributed system implements a Paxos consensus algorithm, then it achieves strong consistency. The system achieves strong consistency, therefore it implemented Paxos.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "If a seller ships an item within 12 hours, then the buyer leaves a five-star rating. The buyer left a five-star rating, therefore the seller shipped within 12 hours.",
+    "fallacy": "affirming_consequent",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The proposed cloud migration will reduce operational costs because moving to the cloud is inherently more cost-effective than maintaining on-premise servers.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Mandatory annual mental health screenings for healthcare workers are justified because every medical professional should undergo routine psychological assessment to ensure patient safety.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "We must shut down coal-fired power plants immediately because fossil fuel combustion for electricity generation is an unacceptable source of carbon emissions.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Event-driven architectures are superior because they enable asynchronous communication patterns that outperform request-response models.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Verified purchase badges increase consumer trust because shoppers feel more confident when they know a reviewer actually bought the product.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Our four-day workweek pilot succeeded because employees were more productive with reduced hours, and productivity gains prove the policy works.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Single-payer healthcare reduces administrative waste because eliminating private insurance billing complexity necessarily streamlines overhead.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Offshore wind farms are environmentally destructive because any large-scale industrial installation in marine ecosystems causes irreparable harm.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Graph databases are optimal for recommendation engines because relationship-heavy queries run faster when data is stored as connected nodes rather than tables.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Free returns reduce cart abandonment because customers purchase more when they know returns cost nothing, and higher conversion proves free returns work.",
+    "fallacy": "begging_the_question",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The Q3 sales spike occurred right after we launched the chatbot support feature, so the chatbot caused the sales increase.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Teen vaccination rates dropped in the county following the introduction of a new electronic health record system. Therefore, the EHR system caused parents to avoid vaccinating their teenagers.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Solar panel installations surged in California just as a series of wildfires intensified. Clearly, the solar panels are somehow triggering fire weather conditions.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "We switched from a monolithic to a microservices architecture, and then our API response times increased by 30%. The microservices migration must have degraded performance.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Our competitor introduced a loyalty points program, and two weeks later our negative review volume increased. Their loyalty program must be incentivizing customers to smear our brand.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Employee stress levels decreased after the company mandated that all meetings end five minutes early. That five-minute buffer is the direct cause of improved workplace wellness.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Hospital readmission rates dropped immediately after we installed new hand sanitizer dispensers in every hallway. The sanitizer stations must be reducing post-discharge complications.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Global temperatures plateaued for three years following the eruption of Mount Pinatubo. Therefore, volcanic eruptions are the primary driver of long-term climate trends, not industrial emissions.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "We added a caching layer to our database, and then a completely unrelated authentication service crashed. The new cache must have destabilized the entire infrastructure.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Our bestseller item sold out within an hour after a TikTok influencer mentioned it. But we also ran a Google ad that morning, so the ad must have driven the sellout.",
+    "fallacy": "false_cause",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "What would a junior front-end developer know about database indexing strategies? I've been architecting data systems for fifteen years.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The proposal to reduce ICU nurse workloads comes from a hospital administrator who never completed a clinical residency. Why should we listen to someone who hasn't worked a single overnight shift?",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The climate policy expert advocating for carbon capture technology drives a luxury SUV to her speaking engagements. Her hypocrisy completely invalidates her technical arguments.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "That software engineer suggesting we adopt Rust for systems programming couldn't even pass the advanced C++ certification. His opinions on memory safety are worthless.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The customer who left a two-star review about shipping delays has a history of complaining about every purchase. We can safely ignore this feedback as just another rant from a chronic malcontent.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The director of remote work policy was fired from her last job for attendance issues. There's no reason to take her recommendations seriously.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The public health researcher warning about opioid prescribing patterns once had a minor malpractice claim dismissed. Her data on addiction risks is therefore unreliable.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "That renewable energy lobbyist owns shares in a natural gas pipeline company. His entire testimony about wind power's intermittency problems is just self-serving deception.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The developer proposing a GraphQL layer failed to deliver on his last two sprint commitments. Why would anyone implement an API design from someone so unreliable?",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "The reviewer who gave our mattress one star also posts negative comments on every competitor's product page. Clearly she's just a paid shill for another brand.",
+    "fallacy": "ad_hominem",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Picture the exhausted single mother working two jobs just to afford rent and groceries. Do you really want to eliminate the overtime pay that keeps her family fed?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Think of the terrified child in the emergency room, separated from her parents during a COVID surge. Can you vote to cut funding for pediatric ICUs and leave her alone and frightened?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Imagine the coastal farmer whose ancestors tilled the same land for generations, now watching saltwater flood his wheat fields. How can you support policies that accelerate this heartbreaking loss?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Visualize the junior developer working until midnight, sacrificing time with her toddler, just to meet an unreasonable deadline. Don't you care about the human toll of agile death marches?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Think about the elderly grandmother who saved for months to buy a birthday gift for her grandson, only to receive a counterfeit product. Shouldn't we protect vulnerable customers from such cruelty?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Picture the team lead who just received a cancer diagnosis, now fearing she'll be laid off during restructuring. How can you prioritize profit margins over a dying woman's healthcare?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Imagine the parents holding their premature baby in the NICU, praying every second. Do you really want to defund the life-saving equipment that keeps that infant breathing?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Think of the displaced coal miner in Appalachia, his hands calloused from decades underground, now unable to heat his own home. Don't turn your back on the dignity of honest labor.",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Visualize the anxious customer refreshing her tracking page for the tenth time, waiting for a medication delivery for her sick dog. Won't you expedite shipping to ease her distress?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  },
+  {
+    "text": "Picture the blind user struggling with an inaccessible checkout flow, tears of frustration streaming down her face. How can we ignore accessibility when exclusion causes real suffering?",
+    "fallacy": "appeal_to_emotion",
+    "source": "synthetic_boost_sprint"
+  }
+]

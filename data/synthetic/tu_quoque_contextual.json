@@ -1,0 +1,902 @@
+[
+  {
+    "text": "Note that User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787855",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Clearly, User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787870",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787874",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?'",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787877",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Studies suggest User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787880",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787884",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think We should remember that User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787888",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "However, User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787892",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787895",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Note that User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787899",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787903",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787906",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787910",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, User: You should be more polite. Assistant: Why should I listen to you? You're extremely rude.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787914",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Undoubtedly, User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787917",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I believe that User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787921",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787925",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787929",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I read online that User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787932",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is often said that User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787936",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787939",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Furthermore, User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787943",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787946",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787950",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787953",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Consider the case where User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787957",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787961",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I read online that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787965",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787969",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Here's an argument: User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787981",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, In fact, User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787985",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, In fact, User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787989",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787992",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.787996",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Actually, User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788000",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Someone once said, 'User: It's important to be on time. Assistant: You were late to every meeting last week.'",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788003",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788006",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Actually, User: You should be more polite. Assistant: Why should I listen to you? You're extremely rude.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788010",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788014",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Basically, User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788018",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788021",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788025",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Clearly, User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788029",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788032",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788036",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Think about this: User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788039",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788043",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Actually, User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788047",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, In fact, User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788051",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788055",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Someone once said, 'User: It's important to be on time. Assistant: You were late to every meeting last week.'",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788060",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788064",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788069",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788073",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788078",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788083",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It's common knowledge that User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788102",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, For instance, User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788105",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788109",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788112",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788116",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788120",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Here's an argument: User: You should be more polite. Assistant: Why should I listen to you? You're extremely rude.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788123",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788126",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788129",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, We should remember that User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788133",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, We should remember that User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788136",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that We should remember that User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788140",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788143",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Think about this: User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788146",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Wait, User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788150",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788154",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788157",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Studies suggest User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788161",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "We should remember that User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788164",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It seems that User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788168",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788171",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "The data implies that User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788175",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788179",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788182",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788186",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It seems that User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788189",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Wait, User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788193",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788196",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788200",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788203",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788207",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Think about this: User: You should stop smoking. Assistant: But you smoke a pack a day!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788210",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, User: This project needs more effort. Assistant: You haven't done any work on it for days.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788213",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788217",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788220",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, User: You should be more polite. Assistant: Why should I listen to you? You're extremely rude.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788224",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that My friend told me: 'User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?'",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788227",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'User: We need to reduce our carbon footprint. Assistant: Coming from someone who flies private jets?'",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788231",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Wait, User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788234",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It seems that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788238",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that However, User: You shouldn't be so judgmental. Assistant: You're the one judging me right now!",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788241",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, User: It's important to be on time. Assistant: You were late to every meeting last week.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788245",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is often said that User: Your argument is logicially flawed. Assistant: Look who's talking, your last point was a disaster.",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788249",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Experts say User: Cheating is wrong. Assistant: Didn't you cheat on your taxes last year?",
+    "fallacy": "tu_quoque_contextual",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.788252",
+      "verification_status": "template_verified"
+    }
+  }
+]

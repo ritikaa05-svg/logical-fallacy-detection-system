@@ -1,0 +1,1352 @@
+[
+  {
+    "text": "Note that It's common knowledge that Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778518",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It's common knowledge that The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778536",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Someone once said, 'The stock market crashed right after the new law passed. The law caused the crash.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778540",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is often said that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778544",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778547",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think One could argue that I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778551",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778555",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778559",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778563",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Consider the case where The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778566",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I believe that A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778570",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778573",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778577",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778580",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'I wore my lucky socks and we won; therefore, the socks caused the win.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778584",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, I prayed for rain and it rained. Prayer works for the weather!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778587",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778591",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, We should remember that A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778595",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778599",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778602",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Actually, The computer crashed right after you walked into the room. You broke it!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778606",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778609",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Clearly, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778613",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is often said that I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778616",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, We should remember that The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778619",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778623",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778625",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that My friend told me: 'The stock market crashed right after the new law passed. The law caused the crash.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778629",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Generally speaking, The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778632",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778636",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778638",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It seems that Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778642",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Furthermore, I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778646",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Consider the case where I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778649",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778652",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Studies suggest Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778656",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778659",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778663",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, The data implies that Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778666",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778670",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'The sun rose after the rooster crowed, so the rooster made the sun rise.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778673",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is often said that Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778677",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It seems that I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778681",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778684",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Furthermore, I prayed for rain and it rained. Prayer works for the weather!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778688",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778691",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Think about this: He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778695",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, However, Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778699",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Furthermore, I prayed for rain and it rained. Prayer works for the weather!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778703",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, In fact, Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778706",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Here's an argument: The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778710",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778713",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778717",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778721",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778724",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778728",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778732",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778736",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778741",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778745",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Think about this: I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778748",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I believe that The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778752",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778756",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I prayed for rain and it rained. Prayer works for the weather!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778759",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Basically, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778764",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I read online that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778768",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Note that I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778772",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that The computer crashed right after you walked into the room. You broke it!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778775",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, For instance, I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778779",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778783",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, In fact, Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778787",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Actually, The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778790",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is often said that I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778794",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778797",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778801",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Think about this: He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778805",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is often said that I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778808",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778813",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is often said that I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778816",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778820",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I believe that I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778824",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Consider the case where I prayed for rain and it rained. Prayer works for the weather!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778827",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Wait, I prayed for rain and it rained. Prayer works for the weather!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778831",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "My friend told me: 'The computer crashed right after you walked into the room. You broke it!'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778834",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778838",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778841",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778845",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Think about this: I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778849",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778853",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Note that The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778856",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I believe that The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778860",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778864",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778868",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that We should remember that The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778871",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778875",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778879",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that My friend told me: 'The sun rose after the rooster crowed, so the rooster made the sun rise.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778882",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778887",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778891",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that I prayed for rain and it rained. Prayer works for the weather!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778894",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Actually, The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778898",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778901",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Furthermore, I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778904",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Consider the case where A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778908",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Clearly, I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778911",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I believe that Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778915",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Here's an argument: He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778919",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778922",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Generally speaking, I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778926",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Actually, I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778930",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778933",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Clearly, I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778937",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Someone once said, 'The team started losing as soon as I started watching the game.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778940",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778943",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, The team started losing as soon as I started watching the game.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778947",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778951",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think One could argue that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778954",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778958",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is often said that The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778961",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Studies suggest He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778965",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, For instance, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778968",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Someone once said, 'A black cat crossed my path and then I tripped. The cat brought me bad luck.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778972",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778976",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778979",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Think about this: I wore my lucky socks and we won; therefore, the socks caused the win.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778983",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Clearly, Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778986",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778990",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Someone once said, 'I prayed for rain and it rained. Prayer works for the weather!'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778994",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Studies suggest Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.778998",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Experts say He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779001",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Furthermore, A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779005",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779019",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say I took Vitamin C and my cold went away in two days. It cured me!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779023",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Studies suggest Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779026",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that The computer crashed right after you walked into the room. You broke it!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779030",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Furthermore, A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779033",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, The sun rose after the rooster crowed, so the rooster made the sun rise.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779037",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Undoubtedly, He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779041",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779044",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, However, I started eating more kale and then I got promoted. Kale is the secret to success.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779048",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Undoubtedly, The stock market crashed right after the new law passed. The law caused the crash.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779051",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, I saw a shooting star and then I won the lottery. The star gave me the winning numbers.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779054",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is often said that A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779058",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I read online that A black cat crossed my path and then I tripped. The cat brought me bad luck.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779062",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Someone once said, 'I prayed for rain and it rained. Prayer works for the weather!'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779065",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Clearly, Ever since they built that cell tower, my milk has been turning sour faster.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779068",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that He drank a glass of water and his headache vanished. Water is a miracle cure.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779072",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Someone once said, 'A black cat crossed my path and then I tripped. The cat brought me bad luck.'",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779075",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where The computer crashed right after you walked into the room. You broke it!",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779079",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that Crime rose after the new mayor took office; he is clearly to blame for the surge.",
+    "fallacy": "false_cause",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.779083",
+      "verification_status": "template_verified"
+    }
+  }
+]

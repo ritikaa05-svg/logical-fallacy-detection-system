@@ -1,0 +1,252 @@
+[
+  {
+    "text": "user: Wait a minute. [TURN] user: Citizens of this country love their flag. [TURN] assistant: I know many who are indifferent. [TURN] user: Those aren't TRUE citizens then.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831860",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: Citizens of this country love their flag. [TURN] assistant: I know many who are indifferent. [TURN] user: Those aren't TRUE citizens then.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831881",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: A good programmer always writes tests. [TURN] assistant: John is a great programmer but he rarely writes tests. [TURN] user: Well, no TRUE programmer would skip tests.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831884",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: Citizens of this country love their flag. [TURN] assistant: I know many who are indifferent. [TURN] user: Those aren't TRUE citizens then.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831887",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: Citizens of this country love their flag. [TURN] assistant: I know many who are indifferent. [TURN] user: Those aren't TRUE citizens then.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831890",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Citizens of this country love their flag. [TURN] assistant: I know many who are indifferent. [TURN] user: Those aren't TRUE citizens then.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831893",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Vegetarians don't eat meat. [TURN] assistant: My cousin is a vegetarian but eats chicken. [TURN] user: Then he's not a TRUE vegetarian.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831895",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: No honest person would lie. [TURN] assistant: Even honest people tell white lies sometimes. [TURN] user: Then they aren't TRUE honest people.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831898",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: No honest person would lie. [TURN] assistant: Even honest people tell white lies sometimes. [TURN] user: Then they aren't TRUE honest people.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831901",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: No honest person would lie. [TURN] assistant: Even honest people tell white lies sometimes. [TURN] user: Then they aren't TRUE honest people.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831903",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: No honest person would lie. [TURN] assistant: Even honest people tell white lies sometimes. [TURN] user: Then they aren't TRUE honest people.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831906",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: No honest person would lie. [TURN] assistant: Even honest people tell white lies sometimes. [TURN] user: Then they aren't TRUE honest people.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831909",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: A good programmer always writes tests. [TURN] assistant: John is a great programmer but he rarely writes tests. [TURN] user: Well, no TRUE programmer would skip tests.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831912",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: Vegetarians don't eat meat. [TURN] assistant: My cousin is a vegetarian but eats chicken. [TURN] user: Then he's not a TRUE vegetarian.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831914",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: A good programmer always writes tests. [TURN] assistant: John is a great programmer but he rarely writes tests. [TURN] user: Well, no TRUE programmer would skip tests.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831917",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: No scientist would believe in ghosts. [TURN] assistant: Dr. Smith is a scientist and he does. [TURN] user: Well, no TRUE scientist would believe in ghosts.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831919",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: A good programmer always writes tests. [TURN] assistant: John is a great programmer but he rarely writes tests. [TURN] user: Well, no TRUE programmer would skip tests.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831921",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: No scientist would believe in ghosts. [TURN] assistant: Dr. Smith is a scientist and he does. [TURN] user: Well, no TRUE scientist would believe in ghosts.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831924",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: No scientist would believe in ghosts. [TURN] assistant: Dr. Smith is a scientist and he does. [TURN] user: Well, no TRUE scientist would believe in ghosts.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831927",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: No scientist would believe in ghosts. [TURN] assistant: Dr. Smith is a scientist and he does. [TURN] user: Well, no TRUE scientist would believe in ghosts.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831930",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: Vegetarians don't eat meat. [TURN] assistant: My cousin is a vegetarian but eats chicken. [TURN] user: Then he's not a TRUE vegetarian.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831933",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: Vegetarians don't eat meat. [TURN] assistant: My cousin is a vegetarian but eats chicken. [TURN] user: Then he's not a TRUE vegetarian.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831935",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: Vegetarians don't eat meat. [TURN] assistant: My cousin is a vegetarian but eats chicken. [TURN] user: Then he's not a TRUE vegetarian.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831938",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: No scientist would believe in ghosts. [TURN] assistant: Dr. Smith is a scientist and he does. [TURN] user: Well, no TRUE scientist would believe in ghosts.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831941",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: A good programmer always writes tests. [TURN] assistant: John is a great programmer but he rarely writes tests. [TURN] user: Well, no TRUE programmer would skip tests.",
+    "fallacy": "no_true_scotsman",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.831943",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  }
+]

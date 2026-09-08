@@ -1,0 +1,902 @@
+[
+  {
+    "text": "In my opinion, It seems that Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792708",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I read online that Each member of the committee is smart. So the committee will make a smart decision.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792720",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It seems that Each member of the committee is smart. So the committee will make a smart decision.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792724",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, We should remember that All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792728",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "We should remember that Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792731",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Here's an argument: Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792734",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is obvious that Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792737",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792740",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792744",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that However, Each cell in your body is microscopic. So you must be microscopic.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792747",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792751",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792754",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'Every person in the crowd is standing. Therefore, the crowd is standing.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792757",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "However, Every player on the team is excellent. So the team must be excellent.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792760",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'All the atoms in this table are colorless. Therefore, the table is colorless.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792764",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792767",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792770",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Actually, Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792774",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792778",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It seems that Each cell in your body is microscopic. So you must be microscopic.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792782",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Here's an argument: All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792785",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that Each member of the committee is smart. So the committee will make a smart decision.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792789",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792793",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792797",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792801",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792804",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is often said that Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792808",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I read online that Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792812",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Undoubtedly, Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792815",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is obvious that Each cell in your body is microscopic. So you must be microscopic.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792819",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792823",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Wait, Every player on the team is excellent. So the team must be excellent.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792827",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Here's an argument: Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792830",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'Every sentence in this book is well-written. Therefore, the book is a masterpiece.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792834",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "The data implies that Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792838",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say Every player on the team is excellent. So the team must be excellent.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792842",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is often said that All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792845",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Actually, Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792849",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792853",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792857",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, In fact, Every player on the team is excellent. So the team must be excellent.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792861",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Studies suggest Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792864",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792868",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Consider the case where Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792873",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is obvious that Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792876",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792880",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792884",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Clearly, Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792888",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792892",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792895",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792898",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, Every player on the team is excellent. So the team must be excellent.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792902",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, My friend told me: 'Every sentence in this book is well-written. Therefore, the book is a masterpiece.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792906",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Studies suggest Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792910",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is obvious that All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792914",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792917",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, In fact, Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792921",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Clearly, Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792925",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Studies suggest Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792928",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Think about this: Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792932",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792936",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792940",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Wait, Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792943",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, Each cell in your body is microscopic. So you must be microscopic.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792947",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Undoubtedly, Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792951",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is often said that Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792955",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792959",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792963",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that Every player on the team is excellent. So the team must be excellent.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792967",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Actually, Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792971",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792975",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think We should remember that Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792979",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792982",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792987",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Someone once said, 'Every sentence in this book is well-written. Therefore, the book is a masterpiece.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792990",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "My friend told me: 'Each part of this machine is light. So the machine itself must be light.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792994",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.792998",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793002",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793006",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793010",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where Each cell in your body is microscopic. So you must be microscopic.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793014",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793018",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, All the atoms in this table are colorless. Therefore, the table is colorless.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793021",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Basically, Every person in the crowd is standing. Therefore, the crowd is standing.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793025",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, However, Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793029",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I read online that Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793033",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793037",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Actually, Each member of the committee is smart. So the committee will make a smart decision.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793041",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793045",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I believe that Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793049",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793052",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, My friend told me: 'Every brick in this wall is small. So the wall is small.'",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793057",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that Every sentence in this book is well-written. Therefore, the book is a masterpiece.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793060",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, Each cell in your body is microscopic. So you must be microscopic.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793064",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Furthermore, Every scene in the movie is great. So the movie must be great.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793069",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Experts say Each molecule in this glass is invisible. Therefore, the water in the glass is invisible.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793072",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Think about this: Every brick in this wall is small. So the wall is small.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793076",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It seems that Each cell in your body is microscopic. So you must be microscopic.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793080",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793099",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where Each part of this machine is light. So the machine itself must be light.",
+    "fallacy": "composition",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.793102",
+      "verification_status": "template_verified"
+    }
+  }
+]

@@ -1,0 +1,1930 @@
+[
+  {
+    "text": "You're advocating for a four-day work week? So, you expect us to cut productivity by 20% and still hit all our targets, or are you just suggesting we pay people for less work?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Implementing that new CRM system means you want us to completely abandon all our existing client relationships and start from scratch with a rigid, impersonal tool, right?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, by proposing to trim the marketing budget, you're essentially saying we should stop all outreach and just hope customers magically find us?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you push for an Agile framework, what you really mean is that we should ditch all planning, embrace chaos, and deliver half-baked products constantly.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This new diversity training is just about shaming our current employees for their beliefs, rather than genuinely fostering an inclusive environment.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we allow permanent remote work, you're basically saying we should dismantle our entire corporate culture and turn into a collection of isolated freelancers.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Moving everything to the cloud means you want to hand over all our sensitive data to a third party and completely lose control over our own infrastructure.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to introduce peer feedback in performance reviews? So, you're encouraging everyone to just backstab each other to get ahead, instead of focusing on their own work.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your suggestion for an open-plan office is just a way to pack more people into less space and reduce privacy, not actually improve collaboration.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This mandatory two-factor authentication isn't about security; it's just an excuse to make our daily workflow more cumbersome and inefficient.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to allocate a larger budget to 'experimental' R&D? So, you're proposing we just throw money at wild ideas with no guaranteed return?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This 'wellness' program is just a thinly veiled attempt to pry into employees' personal lives and dictate their healthy habits outside of work hours.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your plan to flatten the management hierarchy means you want everyone to be their own boss, leading to confusion and a lack of accountability.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Integrating more direct customer feedback into our product roadmap means we'll just chase every whim of our users, losing our strategic vision completely.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Cross-training employees isn't about skill development; it's just a scheme to make everyone interchangeable and easier to replace.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we prioritize sustainability in our supply chain, you're suggesting we ignore cost-effectiveness and sacrifice profitability for a 'green' image.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Their argument for acquiring that startup isn't about synergy; it's just a desperate attempt to buy market share because their own innovation has stagnated.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This mandatory compliance training isn't about educating us; it's just a bureaucratic checkbox exercise designed to waste our time.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're updating the expense policy? So, you want to micromanage every single purchase we make and treat us like children who can't be trusted.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Introducing more automation into our operations means you want to eliminate all human jobs and run everything with robots, regardless of quality.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Switching to that new project management software implies you think our current team is completely incapable of managing tasks effectively.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're asking for more transparency in decision-making? So, you want every minor disagreement to be debated publicly, paralyzing our ability to act swiftly.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Offering more employee stock options isn't about sharing success; it's just a way to pay people less in salary and tie them down to the company.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your proposal to allow employees to contribute to open-source projects is just an invitation for our intellectual property to be leaked and exploited.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Investing in enhanced data analytics tools means you want to surveil every aspect of our employees' digital lives, not just improve business insights.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you're saying people who want vaccine mandates want the government to control every aspect of our lives and strip away all personal freedom, turning us into a totalitarian state?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're pushing for advanced directives? What you really want is to deny care to the elderly and the terminally ill, effectively euthanizing anyone deemed too expensive to treat.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we give mental health services the same funding as physical health, you're essentially saying that a broken leg is no more serious than feeling a bit sad, trivializing real medical conditions.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to increase funding for basic scientific research? So you think we should just throw money at abstract ideas with no immediate practical application, while people are suffering now?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who advocate for stricter drug regulations clearly want to stifle all innovation and prevent new life-saving medications from ever reaching patients, leaving them without hope.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're promoting public health campaigns to address obesity? So you're blaming individuals for their health problems and shaming them, rather than addressing systemic issues.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we create strict ethical guidelines for AI in diagnostics, you're essentially saying we should prevent any technological progress that could save lives, just to satisfy abstract moral qualms.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You support broader access to reproductive healthcare? So you're advocating for a world where unborn life has no value and we treat human beings as disposable commodities.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They want to change organ donation policies to an opt-out system? So they believe the government owns our bodies and can take our organs without our consent.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You think we should have mandatory health screenings for certain conditions? You're arguing for a surveillance state where personal privacy is nonexistent and the government dictates our medical choices.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're calling for higher nurse-to-patient ratios? So you're saying that hospitals should just ignore budget constraints and go bankrupt, leaving everyone without care.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we legalize medical marijuana, you're essentially opening the floodgates to widespread drug abuse and a complete breakdown of public safety and health.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to make informed consent more rigorous? So you think doctors should be bogged down in endless paperwork and legalities, unable to provide urgent care when needed.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Funding global health initiatives is just throwing money at problems in other countries when we have plenty of issues at home that need attention. It's a waste of our resources.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If you want to regulate direct-to-consumer genetic testing, you're clearly trying to suppress scientific curiosity and prevent people from learning about their own bodies.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting incentives for healthier lifestyles? So you're blaming people for being unhealthy and punishing them for not conforming to your ideal image.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're pushing for more telemedicine? So you want to eliminate human interaction in healthcare and replace compassionate doctors with impersonal screens, eroding the doctor-patient relationship.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we put more public money into addiction treatment, you're essentially rewarding bad choices and enabling people to continue their destructive habits.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to share patient data for research purposes? So you believe that individual privacy is irrelevant and that all our sensitive medical information should be accessible to anyone.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They want to reform medical education to focus more on holistic care? So they think scientific rigor and specialized knowledge are no longer important, and doctors should just be 'feel-good' practitioners.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If you restrict advertising for sugary drinks to children, you're basically saying that parents aren't capable of making their own choices for their kids and the government needs to babysit them.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to increase regulation on new medical devices? So you want to delay life-saving technologies from reaching patients for years, causing unnecessary suffering and death.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who advocate for a single-payer system want to turn our entire healthcare system into a bureaucratic nightmare, with long wait times and no patient choice, just like other failing socialized systems.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for mandatory flu shots for healthcare workers? So you think personal bodily autonomy means nothing and that we should force medical procedures on people against their will, regardless of their beliefs.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to implement stricter policies for medical waste disposal? You're just trying to add unnecessary costs and bureaucracy to hospitals, making healthcare even more expensive for everyone.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who advocate for a carbon tax simply want to punish working families and make everything more expensive, without actually solving any environmental problems.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your solution to climate change is for everyone to stop driving cars, stop flying, and eat only vegetables, effectively sending us back to the Stone Age?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics of the new drilling project just want to halt all industrial progress and leave our nation vulnerable by refusing to develop our own energy resources.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we listen to the climate activists, we'll have to shut down all our factories, abandon our farms, and live in caves just to save a polar bear.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying we should ban all plastic, which means you want to eliminate affordable and hygienic packaging, leading to widespread food spoilage and health risks.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Environmental regulations are just a tactic by the government to control every aspect of our lives, dictating what kind of lightbulbs we can use and how much water we can flush.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "People who push for renewable energy mandates obviously want to destroy our fossil fuel industry, leaving millions jobless and our grid unstable with unreliable power.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you're proposing that we spend trillions on climate initiatives, which will undoubtedly cripple our economy and make us uncompetitive on the global stage, all for a problem that might not even be that bad.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Opponents of the new pipeline project clearly don't care about energy independence or providing affordable fuel; they just want to protest everything.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we follow the advice of these 'green' organizations, we'll have to stop eating meat, give up our private property, and let nature take over our cities.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to protect every single obscure insect, but you don't care about the farmers who need to use their land to feed the country.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who argue for stricter emissions standards are essentially saying that developing countries should remain poor, unable to industrialize and improve their citizens' lives.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your plan for clean air and water involves shutting down every industry, which would mean no jobs, no products, and a complete collapse of society.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Anyone who questions the severity of climate change is just a science-denying flat-earther who wants to see the world burn for profit.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to tear down all the dams because you think every river should run wild, completely ignoring the need for flood control and hydroelectric power.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who demand immediate climate action want to impose a socialist agenda where the government controls all resources and dictates individual consumption.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you believe we should just let global warming happen, destroying coastal cities and causing widespread famine, because you're too selfish to change your lifestyle?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Advocates for banning plastic straws clearly think a tiny piece of plastic is more important than a disabled person's ability to drink easily.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying that if we don't adopt this specific green technology, we're all doomed and should just give up on the future of humanity.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who want to limit livestock farming are just trying to eliminate our traditional agricultural practices and force everyone to eat lab-grown food.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your idea of 'sustainable development' means we stop all economic growth and tell people in poorer countries they can't aspire to a better quality of life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics of genetically modified crops only care about 'natural' purity, even if it means starving millions when we could be growing more resilient food.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to spend billions on 'green' energy projects, but what you're really doing is lining the pockets of a few corporations with taxpayer money, while offering no real solutions.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Anyone who suggests we can't afford these environmental protections is just prioritizing corporate profits over the health of our children and the planet.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your vision for a cleaner environment is to shut down all our national parks and wilderness areas to human access, turning them into untouchable shrines for a select few scientists.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to introduce stricter code review guidelines? So you're saying we should just spend all day nitpicking trivial style issues and never actually ship any features?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you're suggesting we use a NoSQL database for this project. What you really mean is we should throw away all data integrity and just shove everything into a pile without any schema!",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're asking me to refactor this entire module? So you think my code is completely unreadable and trash, and I should waste weeks rewriting something that already works?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our lead architect wants to move to a microservices architecture. He's basically saying we should just have a thousand tiny, unmanageable services with no central control whatsoever.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing to increase our automated test coverage? So you're suggesting we should never manually test anything ever again and just blindly trust machines completely, even for critical user flows?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, we should consider decoupling this module for better maintainability. What you're actually advocating for is breaking it into a dozen tiny microservices, introducing distributed system overhead and making debugging an absolute nightmare for a simple feature.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to switch to a new CI/CD pipeline? So you think our current setup is completely worthless and we should waste months rebuilding everything from scratch, disrupting all current deployments?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're arguing for more robust error handling patterns. So, you're proposing a rigid, one-size-fits-all error handling strategy that stifles developer creativity and doesn't account for specific, nuanced use cases?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The team suggests adopting a more agile approach to project management. So you want us to just have endless meetings, constantly change priorities, and deliver half-baked features without any clear plan or long-term vision?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're recommending that we consider pair programming for complex tasks. So, you're suggesting we effectively halve our development output by having two people do one person's job, just to satisfy some academic ideal?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying we need to document our API endpoints more thoroughly? So you think we should spend all our time writing lengthy documentation that will be outdated the moment the code changes, instead of actually coding?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This database query could be optimized for better performance. So you're telling me to spend days micro-optimizing a query that runs once a week, when there are clearly real, high-impact performance bottlenecks elsewhere?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "We need to address the technical debt in this legacy system. So your solution is to stop all new feature development for six months and just rewrite everything from scratch, wasting all the previous effort and missing market opportunities?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we use a monorepo for our various services. So you're advocating for a massive, unmanageable codebase where every commit triggers a full rebuild of everything, making deployment an absolute nightmare?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This code doesn't follow our established coding style guidelines. So you're saying my code is fundamentally flawed and should be completely rewritten just because it has a different indentation or bracket style, even though it works perfectly?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to introduce a linter to enforce code quality? You're basically saying you want a robot to dictate how we write every single line of code, stifling innovation and turning us into mere typists.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "We should prioritize security reviews for our critical components. So you're suggesting we halt all development to bring in expensive external consultants to nitpick every line of code for a hypothetical vulnerability that might never even materialize?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The build process is too slow; we should investigate ways to speed it up. So you're saying we should abandon all our robust build checks and just push untested, potentially broken code straight to production to save a few minutes?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Consider refactoring this large function into smaller, more focused ones. You're advocating for an arbitrary rule that every function must be tiny, even if it means scattering related logic across multiple files and making it harder to follow?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "We need to ensure our system is resilient to single points of failure. So you want us to spend a fortune on redundant hardware and complex failover mechanisms for every minor component, even if it's not mission-critical and barely used?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Let's review our dependency management strategy to avoid conflicts. You're implying that our current dependency setup is a chaotic mess and we should spend weeks just upgrading versions instead of building new features?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "We should consider a more robust observability stack. So you want to drown us in a flood of irrelevant metrics and logs, making it impossible to find the real issues when something goes wrong, wasting our time?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This user story isn't clearly defined; we need more details from the product owner. You're just trying to delay starting work on this by demanding an impossible level of detail for every tiny requirement, stalling progress?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "We should invest in training for the team on the new framework. So you think our experienced engineers are incompetent and need to go back to school, instead of just learning on the job like we always have and being productive?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying we should adopt a 'you build it, you run it' philosophy for our teams. So you just want developers to be on call 24/7 for operational issues instead of focusing on new feature development?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor claims they offer 'free shipping', but what they really mean is they're just jacking up the product prices to cover the shipping cost, which is hardly 'free' if you're paying for it indirectly.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They say their smart speaker prioritizes privacy, but that's just a fancy way of saying it's too limited to integrate with other devices, making it less useful for a modern smart home.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This customer complains our delivery was 'slow', but what they're really upset about is that they didn't get their item instantaneously, which is an unrealistic expectation for any shipping service.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Brand X says their organic produce is better for you. So they think everyone should just abandon conventional farming and starve the world, just for a fancy label?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor's 'hassle-free returns' policy sounds great, but it actually means they just accept any damaged item back, encouraging misuse and driving up costs for everyone else.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "People who advocate for 'ad-free experiences' on streaming services really just want everything for free and don't understand the costs involved in content creation.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A customer claiming our furniture isn't 'built to last' is essentially saying they expect a handcrafted heirloom quality piece for a mass-produced price point.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When companies promote 'ethically sourced' materials, they're basically just trying to guilt-trip consumers into paying more for the same product.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor boasts about their 'advanced security features', but what they're really doing is creating so many hoops and passwords that users get frustrated and abandon their carts.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They say their customer service is 'always available', but that just means they have a chatbot answering simple FAQs, not real human support for complex issues.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "People who complain about 'dynamic pricing' are essentially arguing that businesses shouldn't be allowed to adapt to market demand, which would stifle innovation.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This brand's 'eco-friendly packaging' simply means they've replaced one type of plastic with another, while still contributing to landfill waste just as much.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying the product arrived 'damaged', but what you're really implying is that our entire packaging and shipping process is fundamentally flawed and we don't care about our customers.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics say our app's interface is 'too simple'. So they want a cluttered, confusing mess that nobody can navigate just to look 'advanced'?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When a brand labels itself 'all-natural', they're really just trying to scare people away from scientifically proven synthetic alternatives that are perfectly safe.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor's 'guaranteed next-day delivery' is just a gimmick; they're essentially saying you should pay extra for something that often happens anyway.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Customers who complain about 'difficult cancellation processes' really just want to sign up for services without any commitment, which isn't how business works.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our algorithm provides 'personalized recommendations', and those who call it 'intrusive' essentially want us to ignore their preferences and show them irrelevant junk.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When influencers disclose 'affiliate links', they're essentially admitting they'll say anything for a commission, regardless of the product's actual quality.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our company collects data to 'improve user experience', and those who call it 'spying' clearly don't understand how modern technology works to serve them better.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor's 'free trial' is just a way to trick people into giving their credit card information, knowing most will forget to cancel.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Some users say our review platform's 'strict content guidelines' are stifling free speech. So they want a free-for-all platform filled with spam and hate speech instead?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A customer complaining our loyalty program is 'too hard to earn points' really just wants instant top-tier benefits without making any significant purchases.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics say our online store doesn't offer 'enough variety'. So they want us to stock every obscure item imaginable, making the shopping experience overwhelming and inefficient?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "People who object to AI customer service bots, claiming they lack 'human touch', essentially want to go back to the days of long phone queues and limited availability.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The mayor says we need to increase the minimum wage, but what he's really proposing is a system where businesses are forced to close their doors and everyone gets a handout, destroying the free market.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent claims that school choice will improve our education system, but what they truly desire is to dismantle public schools entirely and leave disadvantaged students with no options.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The city council is pushing for more bike lanes, which clearly shows they want to ban cars from downtown and make it impossible for anyone to commute or shop conveniently.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They argue for stricter environmental regulations, but their ultimate goal is to shut down every industry in the state and send us back to the Stone Age.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those advocating for less standardized testing just want to lower academic standards across the board, making it impossible to measure student progress or hold schools accountable.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The new affordable housing proposal is nothing more than an attempt to overcrowd our neighborhoods and drastically reduce property values for existing homeowners.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When they talk about universal healthcare, what they really mean is government-controlled medicine where doctors become bureaucrats and patients lose all choice.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The new history curriculum aims to 're-examine' our past, which is just code for tearing down all our national heroes and teaching children to be ashamed of their country.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Expanding the bus system is just a way for the city to force everyone out of their cars, ignoring the fact that many residents need personal vehicles for work and family.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The governor's call for a small tax increase to fund infrastructure means he wants to seize more of your hard-earned money to waste on bloated government projects.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we raise teacher salaries like some suggest, it would mean throwing unlimited money at the problem without ever addressing the actual quality of teaching.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The planning commission's idea to loosen zoning laws means they want to turn our quiet residential areas into commercial districts filled with noisy businesses and traffic.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent's stance on immigration reform is simply an open invitation for anyone to cross our borders without any checks, jeopardizing our national security.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Bringing more tablets and computers into classrooms, as some propose, is just a scheme to replace human teachers with machines and depersonalize learning.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The city's push for water conservation is just an excuse to impose draconian limits on our daily lives, telling us when we can shower or water our lawns.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They talk about 'common-sense gun laws,' but what they really want is to confiscate every firearm from law-abiding citizens, leaving us defenseless.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Expanding free school lunch programs means the government wants to take over parental responsibility and raise children who are dependent on the state.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When the council proposes 'responsible budget cuts,' what they're actually planning is to slash every vital public service and leave our city vulnerable.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who suggest reforming Social Security want to abolish it entirely, leaving our seniors destitute and without any financial safety net.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Advocates for parental rights in education are just trying to censor school libraries and dictate what every child learns, regardless of educational best practices.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Spending money on public art projects, as the cultural committee suggests, is a clear sign they care more about frivolous decorations than fixing our crumbling roads and sewers.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Implementing a carbon tax, as environmentalists demand, would only crush small businesses and make everyday goods unaffordable for the average family.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Prioritizing vocational training means we're giving up on academic excellence and shunting students into trades, denying them opportunities for higher education.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we allow more homeless shelters in our city, we'll just attract more transient populations, leading to increased crime and a decline in neighborhood safety.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The proponents of stricter data privacy laws are essentially advocating for a world where innovation is stifled and businesses can't adapt to consumer needs, creating a stagnant economy.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you're saying everyone should just work from home permanently and never come into the office, completely destroying team cohesion and our office culture, just because we're considering a hybrid model?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we adopt this new CRM system, you're essentially suggesting we throw all our current tools out the window and start from scratch, which will cripple our operations for months, when all I proposed was improving efficiency.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want us to switch to agile, which means we'll have no documentation, no planning, and just ship broken code every week, completely ignoring the structured approach I outlined?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So your proposal is that we halt all development and innovation just to spend six months testing every tiny feature, delaying our product launch indefinitely, when I merely suggested allocating more resources to QA?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for so much red tape with data privacy that our engineers will spend all their time on compliance instead of building product, effectively stifling all innovation, which isn't at all what I meant by ensuring legal compliance.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your idea is to get rid of all formal evaluations and just have informal chats, making it impossible to manage underperformers or reward high achievers, just because I proposed a more continuous feedback system?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want our highly paid engineers to just work on their personal pet projects on company time, giving away our intellectual property for free, when I suggested allowing some open source contributions to boost our brand?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're saying we should just hire people based on quotas, ignoring merit and experience, which will inevitably lower our quality standards, instead of investing in diversity and inclusion initiatives?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we blow our entire IT budget on fancy new servers that will be obsolete in a year, just for a marginal speed increase, when all I said was that upgrading our infrastructure would improve performance?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we allow flexible hours, people will just come and go as they please, and we'll have no idea who's working or when, leading to chaos, rather than improving work-life balance as I suggested.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to dissolve all department structures and have everyone reporting to multiple managers, creating an organizational nightmare, just because I suggested forming cross-functional teams?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing we add so much bureaucracy that simple bug fixes will take days to get approved, completely stifling our development velocity, merely by implementing mandatory code reviews?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you think we should just stop communicating entirely and let everyone work in silos, leading to endless misunderstandings, just because I suggested shorter, more focused meetings?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to spend a fortune sending everyone to expensive seminars, only for them to leave for a better job immediately after, instead of providing professional development opportunities?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're suggesting we force everyone to learn a completely new system overnight, just to replace something that already works, causing massive disruption, when I proposed moving to a better communication tool?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for complete anarchy where no one knows who's in charge, leading to inconsistent decisions and a lack of accountability, just because I suggested empowering teams with more local decision-making?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want us to encourage reckless behavior and failure, essentially telling our employees to ignore best practices and just do whatever they feel like, instead of fostering an innovative culture?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing we put all our sensitive data on the internet where it can be easily hacked, and pay exorbitant monthly fees for something we can host ourselves, just by suggesting cloud migration?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So your brilliant plan is to automate everyone's job away, leading to mass layoffs and a disgruntled workforce, when I merely suggested automating some repetitive tasks?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to give everyone unlimited vacation time, expecting our projects to magically complete themselves while no one is in the office, just by exploring a more flexible PTO policy?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we stop building new features and just spend months polishing old code that already works, falling behind all our competitors, when I merely proposed addressing technical debt?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want our senior engineers to waste their valuable time hand-holding new hires instead of focusing on critical project deliverables, just because I proposed a mentorship program?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing we delay our product launch for another six months just to gather more data, allowing our competitors to beat us to market, when I suggested conducting more thorough market research?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to open the floodgates for endless complaints and grievances, turning our management team into glorified therapists instead of leaders, by implementing a better employee feedback mechanism?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we cram everyone into tiny cubicles and eliminate all communal areas, effectively turning our office into a soulless battery farm, just because I mentioned optimizing office space for hybrid work?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who advocate for a single-payer healthcare system really just want the government to decide every single aspect of your medical treatment, telling you what doctors you can see and what procedures you're allowed to have, effectively eliminating all personal choice.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Opponents of high drug prices are essentially arguing that pharmaceutical companies should give away their life-saving medications for free, completely ignoring the massive research and development costs involved.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you believe in mandatory vaccinations? What you're really saying is that individual bodily autonomy means nothing, and the government should have the power to inject whatever it wants into anyone, regardless of their personal beliefs or medical history.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Advocates for CRISPR technology want to play God, creating designer babies with specific traits, turning human reproduction into a market for custom-made children.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you talk about 'death with dignity' or assisted dying, you're just opening the door to a system where we pressure the elderly and the sick to end their lives early to save healthcare costs.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to increase funding for community mental health programs? So, you think we should just let everyone with any sort of emotional issue roam free without proper institutional oversight, abandoning the seriously ill to fend for themselves?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who call for stricter ethical guidelines in medical research are essentially trying to halt all scientific progress, putting bureaucratic hurdles in the way of finding cures for diseases.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If you support a woman's right to choose, what you're actually saying is that you're in favor of killing babies without any remorse, completely ignoring the sanctity of life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing reforms to our current healthcare system? So you just want to dismantle everything that's working and replace it with some untested, socialist experiment that will inevitably fail.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The government recommending less sugar and more vegetables? They're basically telling us they want to control what we eat for every meal, turning our lives into a joyless existence of bland, mandated foods.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You think nurses and doctors deserve higher wages? So, you're suggesting we just bankrupt our hospitals and clinics by paying exorbitant salaries, making healthcare even more unaffordable for everyone else?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who support public health authorities having powers during a pandemic truly believe that individual liberty should be completely suppressed, giving the state absolute control over every aspect of our lives.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're concerned about medical waste and environmental impact? So you think we should just stop using all disposable medical equipment, even if it means compromising patient safety and increasing infection risks?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Allowing doctors licensed in one state to practice in another more easily? You're basically saying we should lower all medical standards and let unqualified practitioners endanger patients across the country.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Advocates for fully digitized health records want to put all our sensitive medical information into a single, hackable database, making it readily available to anyone who wants to exploit our private lives.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want clearer nutritional labels on food? What you're really pushing for is a nanny state that dictates every bite we take, stripping away our freedom to make our own informed choices.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Implementing an 'opt-out' system for organ donation means the government will just take your organs without your true consent, turning citizens into involuntary organ donors.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you talk about increasing access to palliative care, you're really just advocating for giving up on patients earlier and encouraging them to accept death instead of fighting for life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Proposals to combat childhood obesity are just another way to fat-shame children and make parents feel guilty, rather than addressing the real systemic issues.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want more rigorous testing for new drugs? So you want to delay life-saving medications from reaching patients for years, letting people suffer and die unnecessarily while bureaucrats dither.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Suggesting we invest more in rural healthcare infrastructure means you want to divert all resources from urban hospitals, leaving major cities underserved and underfunded.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Hiring community health workers to help navigate the system? That's just creating more unnecessary bureaucracy and adding layers of intermediaries that prevent patients from accessing real doctors.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Calling for stricter regulations on medical devices implies you think all medical device manufacturers are reckless and don't care about patient safety, completely undermining innovation.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who demand price transparency in healthcare are really just trying to turn medical care into a commodity, forcing doctors to compete on price and compromising quality.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for more careful use of antibiotics? So you want doctors to withhold necessary treatments, letting simple infections become deadly just to save some drugs for later.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Environmentalists want a carbon tax, which really means they want to cripple our economy, drive up prices for everyone, and force us all back into the Stone Age without modern conveniences.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're saying we should shut down all coal plants tomorrow, leave millions without power, and rely solely on intermittent solar panels and wind turbines, even on cloudy, still days?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those advocating for climate action just want to tell us how to live, control every aspect of our lives, and take away our freedom to choose what cars we drive or how much meat we eat.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Banning plastic straws? That's just the first step. Next, they'll ban all plastic, then all packaging, and soon we'll be carrying all our groceries in our hands, dripping wet.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to protect more wilderness areas? So, you're suggesting we just let forests burn and not manage them at all, or worse, prevent people from enjoying nature recreationally?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "These climate change deniers claim that because it snowed in April, global warming is a hoax. They clearly believe a single weather event disproves decades of scientific research.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You support electric vehicles? So you're advocating for everyone to buy a $60,000 car they can't afford, just so they can sit for hours waiting for it to charge on a cross-country trip.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we listen to these environmentalists, they want to ban all meat, make us all vegans, and destroy the livelihoods of every farmer in the country.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They talk about water conservation, but what they really mean is rationing our showers, letting our lawns die, and limiting our ability to fill a pool in the summer.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Opponents of domestic oil drilling want us to be completely dependent on foreign oil, giving up our energy independence and weakening our national security.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When environmental groups oppose nuclear power, it's because they want to go back to the dark ages, ignoring all clean energy solutions that aren't wind or solar.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics of carbon capture just want to keep fossil fuels alive forever, even though the technology is unproven and a distraction from real solutions.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Advocates for public transit basically want to force everyone out of their cars and make them ride a crowded bus or train for hours every day, regardless of their personal needs.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who protest logging operations clearly think we should just let all forests grow wild, never harvest any timber, and import all our wood products from other countries.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The Green New Deal isn't about climate change; it's a socialist plot to take over the economy, guarantee everyone a job they don't have to work, and abolish airplanes.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If you're so keen on recycling, why aren't you going through everyone's trash, meticulously separating every piece of plastic and paper? You clearly don't care that much.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "These new emission standards are just a way to make cars so expensive and underpowered that nobody will want to drive them anymore. They want to eliminate personal transportation.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we ban all pesticides, then our crops will be infested with bugs, our food supply will collapse, and everyone will starve. That's what environmentalists want, apparently.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Signing international climate treaties means we're giving up our national sovereignty and letting other countries dictate our economic policy and way of life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "People who argue against new hydroelectric dams just want to stop all progress and ignore the benefits of clean energy, because they prioritize a few fish over reliable power.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Opponents of fracking believe we should just leave all that natural gas in the ground, even if it means higher energy prices and relying on less reliable sources.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're saying we should just let all wildfires burn unchecked, destroy homes, and endanger lives, all in the name of 'natural forest cycles'?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to protect marine life? So you're going to tell fishermen they can't fish at all, destroying their livelihoods and making seafood impossibly expensive for everyone.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics of geoengineering projects are just Luddites who want to prevent any technological solutions to climate change, preferring to just let the world burn.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we fund more climate research, that just means more scientists inventing scary scenarios to justify bigger grants and control more of our tax dollars.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we refactor this entire module, but what you really want is to rewrite the whole application from scratch, wasting months of development time and introducing new, unnecessary bugs.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you think we should just jump on the microservices bandwagon and turn our stable monolith into a fragmented mess with dozens of services, each with its own database, just because it's 'trendy'?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want us to achieve 100% unit test coverage for every single line of code, completely ignoring feature development and ensuring we never actually ship anything, right?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Adopting agile practices means you want us to completely abandon all planning, documentation, and structure, just have daily chats, and ship whatever we feel like whenever we feel like it.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing a stricter code review process with automated linting, but that really means micromanaging every developer, stifling all creativity, and turning code reviews into a bureaucratic nightmare.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're advocating for throwing out all our relational data integrity, introducing schema-less chaos with a NoSQL database, and making our data impossible to query, just to chase the latest fad?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Are you suggesting we spend countless hours writing exhaustive documentation for every single internal function, instead of actually building features, just so someone *might* read it five years from now?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your plan to address technical debt is to halt all new feature development, completely ignore our product roadmap, and just endlessly refactor old code that's already working, effectively putting our product's future on hold?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want us to rebuild our entire deployment pipeline around Docker and Kubernetes, adding massive complexity and a steep learning curve for the whole team, just so we can say we're 'cloud-native'?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're advocating for over-engineering everything with abstract classes and interfaces, making simple code unnecessarily complex and harder to understand, just to adhere to some academic design pattern principle?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You think we should just rip out the entire core legacy system overnight, risking a complete outage and losing all our historical data, just to replace it with something unproven?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want two developers to sit at one computer for pair programming, effectively cutting our productivity in half, just so they can 'talk about code' instead of writing it?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Enforcing stricter ESLint rules means you want us to become fascists about semicolons and whitespace, making developers fight with the linter all day, instead of letting them focus on actual problem-solving.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want us to rewrite the entire user interface from scratch, introducing a ton of breaking changes and forcing our users to relearn everything, just for a minor framework version bump?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your goal is to make us write tests for getters and setters and every trivial line of code, just to hit an arbitrary 80% coverage number, rather than focusing on testing critical business logic?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we create multiple versions of every API endpoint, bloating our codebase and making maintenance a nightmare, just in case some obscure client from five years ago *might* break?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Implementing dependency injection means you want to add layers of abstraction and a complex framework to every class, making the code harder to trace and debug, just to impress fellow architecture enthusiasts?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So your plan is to hand over all our sensitive data to a third-party cloud provider, incur massive monthly costs, and become completely reliant on a vendor, just to avoid managing a few servers ourselves?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want us to spend weeks building fragile, slow automated UI tests that constantly break, instead of relying on manual QA, which is much faster and more flexible?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying we should bring in an external security team to poke holes in everything we've built, making us look incompetent and delaying releases, just to find minor vulnerabilities that might never be exploited?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to litter our codebase with conditional feature flag logic everywhere, making the system incredibly complex and difficult to understand, just so we can experiment with half-baked features on live users?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we create silos where only one person can touch certain parts of the code, completely destroying team collaboration and making us dependent on a single point of failure for critical components?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So we should spend weeks designing APIs in isolation, without even knowing if they'll meet actual UI requirements, just to have a 'perfect' API contract that might never be used efficiently?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for bypassing all our established CI/CD processes and just pushing untested hotfixes directly to production, effectively throwing away all our quality gates and risking major outages?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want us to spend thousands of dollars on a fancy static analysis tool that just tells us what we already know, instead of actually rolling up our sleeves and fixing the code ourselves, just to have a shiny new toy?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we completely abandon product quality and features and just preach about environmentalism in our marketing campaign.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you think we should just accept any product return, no questions asked, even if it means losing money on every single sale?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want us to completely ignore performance and make a slow, clunky laptop that nobody wants, just for longer battery life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you're implying we don't care about our customers at all and intentionally send out damaged items just because one reviewer received a faulty product?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You just want to devalue our premium brand and turn us into a discount store by offering a more affordable entry-level option.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to strip away all the advanced features from our website and make it look like it's from the 90s, just to simplify navigation?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This customer just wants everything for free, doesn't she? Nobody's forcing her to buy a product she claims is overpriced.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor thinks you should sacrifice user-friendliness for overly complex security protocols that nobody can understand, just because they claim to offer robust security.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're saying our company is completely evil and exploits workers and destroys the planet, just because someone mentioned improving ethical sourcing practices?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're basically saying we should just run out of stock on popular items and disappoint all our customers, simply to reduce carrying costs.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to fire all our human customer service reps and replace them with emotionless robots, destroying all personal connection, just to handle common queries faster?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for a world where businesses can't collect any data, making personalized recommendations impossible and crippling the online shopping experience.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want us to completely overhaul our brand image and alienate our loyal long-term customers, just because this campaign isn't resonating with a younger demographic?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we cram every single product spec onto one tiny screen, making the app cluttered and unusable, just for a comparison feature?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're just trying to delay payments indefinitely and squeeze every penny out of us, simply because you want more flexibility in payment terms?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You think we should stop creating any professional content and just rely on whatever our customers post, even if it's low quality, for our social media strategy?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you expect us to offer free shipping on every single item, regardless of its size or price, and somehow stay in business?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we spend a fortune completely rebuilding the entire site just for a tiny fraction of users with disabilities, when we have more pressing issues?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to abandon influencer marketing entirely and miss out on a huge potential audience, just because some partnerships aren't yielding good ROI?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're asking us to replace products indefinitely, even if they're years old and clearly abused, just because you used it a lot and the warranty doesn't cover wear and tear?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You think we should send you a personalized telegram every month reminding you to renew, even though the auto-renewal for this subscription is clearly stated in the terms?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want our products to look cheap and generic, completely losing their premium appeal on the shelf, just by exploring sustainable, minimalist packaging options?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for such narrow ad targeting that we'd only ever reach ten people and never grow our customer base, just to avoid wasting budget?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to make our loyalty program so complex that no one understands how to earn points and it becomes totally unfair, just by offering personalized rewards?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying we should censor all negative feedback and only allow five-star reviews, completely undermining trust, just by having a clearer policy for moderating offensive content?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent wants to raise the minimum wage, which really means he believes in giving everyone a handout and discouraging hard work, turning our economy into a dependency trap.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we implement a carbon tax, but what you truly want is to bankrupt local businesses and force hardworking families into energy poverty, all for a hypothetical environmental crisis.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The school board's proposal for a revised history curriculum is just an attempt to indoctrinate our children with a biased, unpatriotic view of our nation's past.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you advocate for more bike lanes, you're essentially saying that everyone should give up their cars and rely on bicycles, regardless of their commute or ability, which is completely unrealistic.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our city councilor argues for better public transit, but his real agenda is to eliminate personal vehicles and force everyone onto overcrowded, inefficient buses.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You claim we need to invest more in renewable energy, but what you truly desire is to shut down all traditional power plants, leaving us vulnerable to power outages and economic collapse.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They say they want to reduce class sizes, but that's just a thinly veiled attempt to hire more administrative staff and waste taxpayer money without actually improving education.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The mayor's plan for downtown revitalization isn't about economic growth; it's about pushing out small businesses to make way for luxury condos only the wealthy can afford.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're arguing for more strict gun control, which means you believe in disarming law-abiding citizens and leaving them defenseless against criminals.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Their call for universal healthcare is nothing more than a demand for socialized medicine, where the government controls your health decisions and you wait months for basic treatment.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you talk about increasing vocational training in high schools, you're implying that some students aren't cut out for college and should be steered away from higher education.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The neighborhood association's push for stricter zoning laws is just a way to prevent any new development and keep property values artificially high, stifling growth.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're against privatizing city services, so you must believe that the government is always more efficient and effective than any private company, regardless of cost.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our state representative wants to reform welfare programs, but his real goal is to cut off assistance to struggling families and leave them to fend for themselves.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Proponents of longer school days just want to turn our children into academic robots, stripping them of their free time and creativity.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for a new library, but what you really mean is you want to waste public funds on an outdated institution when everyone uses the internet now.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Their stance on immigration reform is simply a desire for open borders, allowing anyone to enter the country without proper vetting or consideration for national security.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The push for more standardized testing in schools is just an effort to reduce all learning to rote memorization and penalize teachers for factors beyond their control.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You suggest we raise property taxes to fund a new community center, but all you're doing is taxing seniors out of their homes just for a glorified gym.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent wants to increase funding for social programs, which sounds nice, but it's really just a plan to expand government bureaucracy and create more dependency.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you argue for more diverse hiring in municipal departments, you're essentially saying that merit and qualifications no longer matter, only identity politics.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The superintendent's idea to integrate more technology into classrooms is nothing more than an attempt to replace human teachers with screens and apps, devaluing personal interaction.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing stricter environmental regulations for new constructions, which means you want to drive up housing costs and make it impossible for anyone to afford a home.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They're calling for increased police oversight, but what they really want is to undermine law enforcement and make our streets less safe.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're pushing for more public art projects, which is just a frivolous waste of taxpayer money that could be used for essential services like road repair or sanitation.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we move to a fully remote model, which means completely abandoning our office space and any form of in-person collaboration. That would surely destroy our team culture and make onboarding new hires impossible.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your proposal to invest in new AI-powered analytics tools is just about replacing our entire data science team? We value our human experts, not robots.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to implement an 'unlimited' vacation policy? That's just an invitation for everyone to take off whenever they feel like it, leaving projects unfinished and our clients in the lurch.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our lead developer is advocating for a shift to microservices architecture, but what he really wants is to completely rewrite our entire stable codebase from scratch, introducing massive instability and delays for no good reason.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're pushing for more flexible work hours, which essentially means no one will ever be in the office at the same time and we'll lose all sense of team cohesion and accountability.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your solution to improve employee engagement is to spend all our budget on lavish perks like free gourmet meals and nap pods? We're a serious tech company, not a luxury resort.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "She thinks we should adopt a more 'agile' development approach, but what she's really saying is we should throw out all our meticulous planning and documentation and just start coding randomly.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're arguing for increased investment in cybersecurity training for all employees, implying that our current staff are completely clueless and irresponsible with sensitive data. That's a huge insult to their professionalism.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you suggest we consider an open-plan office layout, you're essentially saying we should eliminate all privacy and force our engineers to work in a loud, distracting environment where deep focus is impossible.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your grand idea to 'streamline' our project management process is to just buy the most expensive new software on the market, which will take months to implement and no one will actually use?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "He wants to increase our social media marketing budget, but what he really means is he wants to waste company funds on frivolous online trends that won't generate any real leads or sales.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for more diversity in hiring, which I can only interpret as lowering our hiring standards and bringing in underqualified candidates just to meet arbitrary quotas.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our CEO suggested exploring a four-day work week pilot, but that's just a lazy way to pay people for less work while expecting the same output, completely tanking our productivity and competitiveness.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You believe we should sunset our legacy mainframe system. So, you want to throw away decades of stable, reliable infrastructure and risk catastrophic data loss and system failure just to chase the latest tech fad?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you talk about 'upskilling' our current employees in new programming languages, you're really suggesting we pull them away from their critical projects for weeks to learn things they might never use, wasting valuable time and money.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The HR department's proposal for a new peer feedback system is just a way to encourage anonymous gossip and blame-shifting, creating a toxic work environment instead of fostering constructive criticism.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're recommending we outsource our IT support, which means you want to fire our loyal internal team and replace them with faceless, uncommitted contractors who won't understand our unique systems.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our team lead wants to 'empower' individual contributors, but that just means he wants to abdicate his management responsibilities and let everyone do whatever they want without any direction or accountability.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your idea to 'boost innovation' is to spend millions on an internal startup incubator, essentially burning cash on unproven, risky ventures that will never generate a return?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we implement stricter data privacy regulations, but what you really mean is you want to create so much bureaucratic red tape that our developers can't access the data they need to do their jobs effectively.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When you mention adopting a 'blended' work model, you're just trying to push everyone back into the office full-time, ignoring the benefits and preferences many employees have for remote options.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to 'invest in employee wellness programs,' which sounds like you just want to turn our office into a glorified gym and meditation studio, distracting everyone from their actual work.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, your plan to 'improve cross-departmental collaboration' is to force everyone into endless, unproductive meetings where nothing gets decided and valuable work time is lost?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we move to a new cloud provider to save costs, but you're ignoring the massive disruption, potential data migration failures, and security risks involved in scrapping our perfectly functional existing infrastructure.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The proposal to 'standardize' our software development tools across all teams is really just an attempt to stifle creativity and force everyone to use outdated, inefficient systems they don't like.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Proponents of a single-payer healthcare system claim they want better access for all, but what they truly desire is to eliminate patient choice and put all medical decisions in the hands of faceless government bureaucrats.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who support vaccine mandates aren't interested in public health; they just want to give the government absolute power over our bodies and medical freedom, turning us into a compliant populace.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics of pharmaceutical companies argue for lower drug prices, but their real goal is to destroy innovation, bankrupt research labs, and prevent the development of life-saving medications.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Advocates for reproductive rights claim they're fighting for women's healthcare, but their agenda is really about unrestricted access to late-term abortions without any moral or ethical considerations.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "People pushing for physician-assisted suicide are essentially advocating for a system where we give up on the sick and elderly, deeming their lives worthless and encouraging them to end it all prematurely.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we move to an opt-out organ donation system, as some suggest, it means the government will just take your organs without your true consent, reducing individuals to mere spare parts for others.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Scientists who champion gene editing therapies are just playing God, seeking to create designer babies and erase human individuality in pursuit of some eugenic fantasy.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want more budget for mental health services? So, you think simply throwing more money at therapy sessions will magically cure all societal problems and prevent every single tragedy?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When doctors and hospitals argue for data sharing to improve patient outcomes, what they actually want is to create a massive database of your most personal information, ripe for corporate exploitation.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those calling for increased funding for basic medical research are just asking for a blank check for scientists to pursue obscure projects with no immediate practical benefit to anyone.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Expanding telemedicine, as some policy-makers propose, is just a way to depersonalize healthcare, replace human interaction with screen time, and reduce quality of care for remote patients.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're arguing for higher wages for nurses and doctors? So, you believe that just paying healthcare workers more will instantly solve the staffing crisis, regardless of training or efficiency?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Imposing a sugar tax, as public health advocates suggest, isn't about improving health; it's about the government dictating our diets and punishing ordinary people for their food choices.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "If we relax medical licensing requirements to address physician shortages, as some suggest, we'll just end up with unqualified practitioners endangering patients and lowering healthcare standards across the board.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When people talk about 'advanced directives' and 'palliative care,' what they're really pushing for is a system where we ration care for the elderly and subtly pressure them into giving up on life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're saying we need to address health disparities? So, you want to redistribute medical resources based on race or income, rather than on actual medical need, creating an unfair system.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your solution to emergency room overcrowding is to divert non-urgent cases? So, you're fine with denying immediate care to people who can't distinguish between a minor ailment and a serious condition.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When politicians advocate for 'reforming' health insurance, they really mean they want to abolish private plans and force everyone onto a government-controlled option with no flexibility.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Increasing funding for palliative care, as many propose, is just a thinly veiled attempt to shift resources away from curative treatments, abandoning hope for those with serious illnesses.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who champion access to experimental treatments are essentially arguing for unregulated medical free-for-alls, exposing vulnerable patients to unproven and potentially dangerous interventions.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Some argue for mandatory health screenings for certain conditions, but what they're truly advocating for is a surveillance state where the government constantly monitors our health data.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When public health officials push for more community-based health programs, they're really just trying to expand their bureaucratic reach and interfere with individual lifestyle choices.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Companies calling for less stringent medical device regulation aren't worried about innovation; they just want to fast-track unsafe products to market to maximize their profits at patients' expense.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You think we need more bioethical committees to oversee research? What you actually want is to stifle scientific discovery with endless red tape and moralizing, preventing breakthroughs.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Advocates for rapid adoption of new healthcare technologies are really just promoting expensive, unproven gadgets that will increase costs and create a two-tiered system of care.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to impose a carbon tax? So you're advocating for punishing working families and making everyday necessities unaffordable just to satisfy some abstract environmental goal, while China continues to pollute unchecked?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "These climate activists just want to tear down our entire industrial society and force everyone back into the Stone Age, riding bicycles and eating kale, all while telling us how to live our lives.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your proposal for more environmental regulations means you want to cripple our economy, drive businesses out of the country, and eliminate jobs, all for the sake of a few obscure species of moss.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you think everyone should be forced to buy an expensive electric car that runs out of battery on long trips and takes hours to charge, even if they can't afford it and there's no charging infrastructure in their rural town?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Are you suggesting we all become vegans and completely ban meat, thereby destroying the livelihoods of farmers and forcing everyone to eat flavorless plant-based alternatives, even though we've been eating meat for millennia?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You support international climate treaties? What you really want is to surrender our national sovereignty to global bureaucrats who will dictate our energy policy and redistribute our wealth to other countries.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So your solution to climate change is to build dangerous nuclear reactors everywhere, risking Chernobyl-style disasters and leaving behind radioactive waste that will poison future generations for thousands of years?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to lock up vast tracts of land, preventing any human access or resource extraction, essentially turning our natural heritage into a giant, unusable museum, while people struggle for resources?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your idea of energy efficiency means we all have to live in the dark, turn off our heaters in winter, and stop using any modern conveniences, all so we can save a few watts?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to cut fossil fuel subsidies? That's just a backdoor way to destroy the oil and gas industry, put millions out of work, and make gasoline so expensive that no one can afford to drive anymore.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're advocating for unilaterally messing with the Earth's atmosphere, playing God with our planet, and risking unforeseen ecological catastrophes just because we can't be bothered to reduce emissions?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want more water restrictions? So we're supposed to stop watering our lawns, let our gardens die, and take cold, two-minute showers, while big corporations continue to waste water with impunity?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Your vision of the future is forcing everyone onto crowded, unreliable buses and trains, eliminating personal freedom and making it impossible for families to travel conveniently?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're saying we should ban all plastic, making everything more expensive, less sanitary, and forcing us back to using paper bags that break and glass bottles that shatter, all to save a few turtles?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're just another one of those anti-business zealots who thinks all corporations are evil and should be shut down, ignoring all the jobs they create and the wealth they generate, just to push your radical agenda.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to teach kids about climate change in schools? So you're advocating for indoctrinating our children with alarmist propaganda and making them feel guilty about their lifestyles, instead of teaching them real subjects?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want to stop all logging and timber production, putting countless people out of work and making it impossible to build homes or furniture, just to save some trees in a far-off jungle?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're proposing more government handouts for 'green' tech? That's just a scheme to funnel taxpayer money to your cronies in Silicon Valley, producing unproven gadgets that nobody needs, while ignoring proven industries.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you want everyone to only eat food grown within 50 miles, regardless of seasonality or cost, forcing us to give up bananas and coffee, and making fresh produce unaffordable in winter?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're worried about population growth? So you're suggesting we start dictating how many children people can have, just like some authoritarian regime, all for the sake of some speculative environmental crisis?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to turn even more land into national parks? What you really mean is you want to kick out ranchers, block access for hunters and fishermen, and prevent any economic activity, effectively making these areas useless to humans.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're saying we should spend millions on complicated recycling schemes that often just ship our waste overseas, when it would be simpler and cheaper to just throw everything in the trash, like we always have?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to halt all new offshore drilling? So you're advocating for crippling our domestic energy supply, making us completely reliant on foreign oil, and driving gas prices through the roof, all to protect some fish?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So your idea of sustainable agriculture means forcing farmers to use outdated methods, drastically reducing crop yields, and making food production so inefficient that everyone will starve, just to satisfy your organic ideals?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So you're saying we should just throw endless taxpayer money at unreliable solar panels and wind turbines, even if it bankrupts the nation and leaves us without power whenever the wind doesn't blow?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Sarah proposed we add more logging to improve debugging, but what she really wants is to drown us in so much log data that we can't find anything useful ever again.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we adopt a new CI/CD pipeline, which means you think our current system is completely broken and all our engineers are incompetent.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "John recommended we explore a serverless approach for the new microservice, but he's basically saying we should abandon all our existing infrastructure and rewrite everything to chase a buzzword.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "During the code review, David mentioned making the function more generic. What he's really advocating for is a monstrously complex abstraction that no one will understand or maintain.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, because I suggested we consider pairing on this complex feature, you think I'm implying that no one can work independently and we should all just sit together all day?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're arguing that we should enforce stricter linting rules, which is just an excuse to turn our code into unreadable, over-engineered academic exercises.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our architect suggested we look into eventual consistency for the new data store, but what he's pushing for is a system where data is always wrong and users are constantly confused.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When I said we might need to increase our test coverage for critical paths, you immediately jumped to 'so you want us to spend 80% of our time writing tests instead of features?'",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to use GraphQL for the new API? So you're saying REST is dead and we should immediately rewrite all our existing services to this new, untested technology?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The product owner asked if we could prioritize performance optimizations. Clearly, she thinks our application is currently unusable and she's demanding we halt all new features to solely focus on micro-optimizations.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My colleague suggested we break down this monolithic service. He's essentially arguing for a distributed monolith that will complicate deployments and increase operational overhead by an order of magnitude.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're advocating for a more granular microservice boundary, which just means you want to create dozens of tiny services that communicate over a network, introducing latency and failure points everywhere.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, because I pointed out a potential security vulnerability in the authentication flow, you're accusing me of saying the entire application is insecure and we should scrap it?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When I proposed adding more detailed documentation for the API, you heard 'let's write a novel for every single function call that no one will ever read.'",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You think we should spend more time on upfront design for this new system. What you're really suggesting is endless analysis paralysis, ensuring we never actually ship anything.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "He suggested we adopt a 'you build it, you run it' model. He's practically saying developers should become full-time operations engineers and completely abandon coding.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The team lead recommended we introduce peer programming for complex tasks, but he's just trying to micromanage everyone and stifle individual creativity.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're arguing for more frequent deployments, which means you want to push untested code to production multiple times a day and introduce constant instability.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When I brought up the idea of experimenting with a new framework, you immediately assumed I wanted to completely abandon our established tech stack and rewrite the whole product from scratch using unproven tools.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we use feature flags for the upcoming release. So you want to add a layer of complexity to our codebase just to toggle features on and off haphazardly?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our CTO mentioned optimizing database queries. What he's implying is that every query is currently terrible and he expects us to hand-optimize every single SQL statement, ignoring ORM benefits.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, because I said we should consider accessibility standards in our UI, you're thinking I want to redesign the entire interface to cater only to edge cases, making it less intuitive for most users?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You want to automate more of our testing process? So you're saying manual testers are obsolete and we should fire them all to replace them with robots?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "I suggested we implement stricter code review checklists for critical modules. You're interpreting that as me wanting to turn code reviews into bureaucratic roadblocks that stifle innovation and trust.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When I asked if we could explore event-driven architecture for the new payment system, you retorted with 'so you want to introduce a massive messaging infrastructure that will be impossible to debug and maintain?'",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A customer complained our shipping was too slow, implying we should defy the laws of physics and deliver instantly. We offer standard shipping options and clearly state delivery times.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor claims their budget phone offers 'good value for money.' So, what they're really saying is that quality doesn't matter, only the lowest possible price, which is ridiculous.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A reviewer suggested adding a dark mode to our app for better night viewing. They must think our current interface blinds users and is unusable after sunset, which is simply untrue.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Some people complain about our return policy being 'too strict' for opened items. What they're really advocating for is a system where anyone can use a product for weeks and then return it for a full refund, effectively getting free rentals. That's not sustainable.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our ad mentioned our clothing is 'sustainably sourced,' and a critic immediately jumped to: 'So, they think we should all go live in caves and wear hemp sacks!' No, we're promoting ethical production, not rejecting modern life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When we launched our premium subscription tier, some said it was 'overpriced.' They clearly believe that any added features or exclusive content should be given away for free, which ignores the cost of development and service.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "We got a one-star review claiming our product was 'flimsy.' This user must think we should be building items out of solid steel and making them completely indestructible, which is neither practical nor affordable for our target market.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our latest marketing campaign emphasized the 'handmade quality' of our jewelry. A competitor then tried to dismiss us by saying, 'They're just saying machines are evil and mass production is inherently bad.' That's not our stance at all.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A customer asked for more detailed nutritional information on our food products, implying we're hiding something or trying to mislead them. We already provide standard labeling; they're asking for a full scientific dissertation for every item.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our new AI chatbot for customer service was criticized for 'lacking a personal touch.' The critics must believe every single customer interaction requires a human to hand-hold them through every query, regardless of complexity or urgency. It's about efficiency.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The influencer said our gadget had a 'steep learning curve.' They're essentially saying our product is impossible to use unless you're a rocket scientist, which insults our users' intelligence.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our ad highlighted our commitment to 'ethical sourcing' for coffee beans. A detractor then claimed we were implying all other coffee brands exploit farmers. We simply state our own practices.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "After our website redesign, a few users complained it was 'too minimalist.' They seem to want us to revert to a cluttered, busy interface from the early 2000s, which would hinder user experience for the majority.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A customer mentioned that a competitor's product had a certain feature our product lacks. They're basically saying our product is totally inferior and should be avoided at all costs, ignoring all its unique strengths.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our marketing stated our product is 'designed for longevity.' A cynical comment suggested we're claiming it will last literally forever, which is an impossible standard for any manufactured good.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A review criticized our product's packaging for being 'excessive.' They must think we should just toss items into a cardboard box with no protection, leading to damage during transit. Our priority is safe delivery.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When we raised prices slightly due to increased material costs, some customers reacted by saying we're just 'greedy' and trying to 'gouge them.' They're ignoring all economic realities and implying we're simply trying to get rich at their expense.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our competitor claims their delivery is 'faster.' What they really mean is they rush everything, leading to damaged goods and poor service. We prioritize careful handling.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A customer asked if we could offer a specific, niche payment option like a certain cryptocurrency. They're acting as if we should cater to every single obscure payment method, no matter how few people use it, rather than focusing on mainstream accessibility.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our ad highlighted our 'family-friendly' products. A cynical online comment said, 'So, they're saying anything not from their brand is inappropriate for kids?' That's not what 'family-friendly' means.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A reviewer suggested that our product could be 'more customizable.' They seem to believe we should offer infinite options for every single component, turning a simple purchase into a complex engineering project.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our marketing team used the phrase 'industry-leading innovation.' A competitor then twisted this, claiming we think we're the 'only smart people in the industry' and everyone else is backward. That's a gross distortion.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "We received feedback that our product photos could be 'more diverse.' This doesn't mean we only use one type of model; it implies we should feature every single demographic imaginable in every single shot, which is logistically impossible for a small business.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Some customers voiced concerns about the environmental impact of our product's manufacturing process. They're acting as if we're single-handedly destroying the planet and have no regard for sustainability, despite our ongoing efforts to reduce our footprint.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "A competitor's ad for their new smart home device stated it's 'easy to integrate with existing systems.' Our marketing director immediately retorted, 'So they're saying their product is magic and will work with literally anything, even ancient tech from the 90s? That's just false advertising.'",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent argues for stricter environmental regulations, but what he really wants is to shut down all our industries, destroy jobs, and force everyone back into some pre-industrial utopia.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They say we need to increase the education budget, but all that means is pouring more taxpayer money into a bottomless pit without any real plan for how it will actually improve student outcomes.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent's vision for our city's transportation future is one where private car ownership is discouraged, and everyone is crammed onto inconvenient public transit routes, stripping away our personal freedom.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The push for universal healthcare isn't about helping people; it's about giving the government total control over your health decisions, leading to endless waits and generic treatments.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those advocating for more vocational training in schools clearly want to abandon academic rigor altogether and pigeonhole our children into specific trades before they even have a chance to explore their full potential.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They claim relaxing zoning laws will solve the housing crisis, but what they really mean is destroying the character of our neighborhoods by allowing developers to build massive, ugly complexes everywhere, ruining our quality of life.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The proposal for higher taxes on the wealthy isn't about fairness; it's about punishing success and implementing a socialist agenda that would stifle innovation and economic growth.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent believes that simply hiking teacher salaries will magically solve all our educational woes, ignoring the need for real reforms in curriculum and accountability.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The proposal for an 'expanded recycling program' is just a scheme to burden residents with endless sorting rules and intrusive inspections, all for a minimal return on environmental benefit.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When they talk about a more 'humane' immigration system, what they really mean is open borders, no vetting, and a free pass for anyone to enter, regardless of the consequences for our safety and resources.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Proponents of standardized testing fundamentally believe that our children are just numbers, reducing their complex learning journeys to a single, high-stakes score and ignoring their individual talents.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The call for 'community policing' is just a thinly veiled attempt to defund our police department, leaving our streets unsafe and emboldening criminals.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Their argument for expanding social safety nets isn't about helping the truly needy; it's about fostering a culture of dependency where nobody has an incentive to work or contribute.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When advocates push for 'school choice,' what they're really doing is trying to privatize our public education system, draining resources from neighborhood schools and leaving the majority of students with fewer options.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent's plan to 'prioritize infrastructure' means completely neglecting our city's cultural institutions and green spaces, leaving us with great roads but no community spirit.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This grand plan for 'infrastructure spending' is just a thinly disguised slush fund for political allies and special interest groups, with little real benefit for the average taxpayer.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The push for 'accessible higher education' really means demanding free college for all, a policy that would bankrupt the nation and devalue a college degree.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They say 'mixed-use development' will revitalize our downtown, but what they truly desire is to transform our historic city center into a concrete jungle filled with soulless chain stores and unbearable traffic.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When they talk about 'common-sense gun laws,' what they actually mean is taking away the Second Amendment rights of every responsible gun owner, leaving us vulnerable.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The push for 'parental rights' in education is really an attempt to micromanage every classroom, imposing personal beliefs on all students and undermining professional educators.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent's call for more 'park funding' is just an excuse to neglect critical services like police and fire protection, so we can have fancier flowerbeds that nobody truly prioritizes.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "They claim we need to 'invest in renewables,' but their real agenda is to completely shut down our reliable energy sector, leaving us with no power and thousands jobless, all for a distant, unproven future.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When teacher unions claim to be fighting for 'better conditions,' what they're actually doing is protecting underperforming educators and blocking any meaningful reforms that could actually benefit our students.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "This proposal to 'upgrade water infrastructure' is nothing more than a blank check for construction companies, piling debt onto our children for a problem that isn't even critical right now.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those who advocate for 'foreign aid' are essentially asking us to ignore the suffering in our own communities and instead funnel billions of our hard-earned dollars to governments that actively work against our interests.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, John, you're advocating for a fully remote setup. What you're really saying is that you want to dismantle our office culture entirely and make collaboration impossible.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Sarah wants to invest in this expensive new AI tool. Essentially, she's proposing we throw money at every shiny new gadget without any clear ROI.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The scrum master keeps pushing for more agile practices. He just wants to eliminate all documentation and let developers do whatever they want with no oversight.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we move to a peer-feedback system? So, you think we should just let employees review each other without any managerial guidance, leading to chaos and favoritism?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our HR team wants to diversify our hiring sources. What they really mean is they want to lower our hiring standards just to meet some quota.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The engineering lead keeps bringing up technical debt. He's just looking for an excuse to delay new features and spend months refactoring old code.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we look into more open-source solutions? So, you want to compromise our security and rely on unsupported community projects for critical infrastructure?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Marketing is pushing for a more flexible project management approach. They just want to avoid deadlines and deliver projects whenever they feel like it.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The employee committee is asking for expanded mental health benefits. Are they saying everyone here is stressed and incapable of handling their jobs?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our CTO wants to accelerate our cloud migration. He's basically saying we should abandon all our on-premise investments and become completely reliant on a third-party vendor, regardless of cost.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Legal is proposing stricter data privacy protocols. All they want to do is bog down our development process with endless compliance checks and make innovation impossible.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we standardize on Linux for all developer workstations? So you want to force everyone to learn a complicated new OS and deal with incompatible software?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Facilities wants to move to an open-plan office. They just want to eliminate all personal space and force everyone into noisy, distracting environments.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Management is making this 'unconscious bias' training mandatory. They're basically implying that we're all inherently discriminatory and need to be re-educated.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Product management is pushing for a new customer feedback platform. They just want to collect more complaints and overwhelm us with feature requests we can't build.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The sustainability committee is proposing we reduce our data center's energy consumption. So, they want us to sacrifice performance and reliability just to save a few bucks on electricity?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we create more cross-functional teams? So, you want to eliminate all specialized departments and make everyone a generalist, losing all our deep expertise?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Our dev ops team wants to switch from Git to Perforce. They just want to make it harder for developers to manage their code and introduce more friction into our workflow.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "HR wants to expand our intern program significantly. They're essentially advocating for cheap labor to do menial tasks, rather than investing in experienced hires.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The AI ethics committee is proposing strict guidelines for our new AI product. They just want to stifle innovation and prevent us from launching anything truly groundbreaking.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we revise our employee stock option plan? Are you saying our current employees aren't motivated enough and need more incentives to work hard?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The new architect is advocating for a microservices approach. He's basically saying our current monolithic application is garbage and needs to be completely rewritten, regardless of the effort.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Management wants to launch a 'fun at work' initiative. So, they just want to distract us with games and pizza parties instead of addressing the real issues like workload and compensation.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "IT is proposing a new, more frequent data backup strategy. What they're really saying is that our current system is completely unreliable and we're constantly on the verge of losing everything.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "You're suggesting we roll out updates more frequently? So you want to introduce more bugs and instability into our production systems just to get new features out faster?",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My opponent claims we need to implement a single-payer healthcare system to ensure universal access, but what he really wants is to turn our entire medical industry into a bloated government bureaucracy where innovation grinds to a halt and patients face endless waitlists, just like in some failing socialist states.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Those advocating for stricter regulations on pharmaceutical advertising are essentially arguing that patients aren't intelligent enough to make their own healthcare choices, and that we should block all information about potentially life-saving drugs from the public.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "The push for mandatory flu vaccinations for all healthcare workers isn't about public health; it's about stripping away individual autonomy and forcing medical procedures on people against their will, turning personal medical decisions into state mandates.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "When bioethicists express concerns about the implications of widespread genetic editing, they're not really worried about ethical boundaries; they just want to stop all scientific progress and prevent humanity from ever curing diseases like cancer and Alzheimer's.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "My colleague believes that by simply throwing unlimited tax dollars at mental health programs, we can solve all of society's problems. They envision a world where every citizen is in constant therapy, which is financially unsustainable and ignores the root causes of distress.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "Critics of this new medical policy claim we're trying to create 'death panels' that will ration care and deny treatment to the elderly. This completely misrepresents our goal, which is to empower patients with more choices for end-of-life planning.",
+    "fallacy": "straw_man"
+  },
+  {
+    "text": "So, you're saying that by allowing individuals to opt out of certain public health screenings for religious reasons, we're basically creating a free-for-all where dangerous infectious diseases will run rampant and wipe out entire communities? That's an extreme distortion of religious freedom.",
+    "fallacy": "straw_man"
+  }
+]

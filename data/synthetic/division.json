@@ -1,0 +1,902 @@
+[
+  {
+    "text": "In my opinion, For instance, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794397",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794417",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794421",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, My friend told me: 'The university is prestigious. So every student there must be prestigious.'",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794425",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is often said that The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794428",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794431",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794435",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "However, The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794438",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Undoubtedly, The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794442",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794446",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794449",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794453",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, However, The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794457",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'The cake is sweet. So every ingredient in it must be sweet.'",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794461",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, The building is made of metal. So every window in it must be made of metal.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794465",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Furthermore, The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794469",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, In fact, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794473",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794477",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794480",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Here's an argument: This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794483",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794487",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794491",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Undoubtedly, The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794495",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Basically, The wall is huge. So every brick in the wall must be huge.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794499",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794503",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Studies suggest The wall is huge. So every brick in the wall must be huge.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794506",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794510",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that The wall is huge. So every brick in the wall must be huge.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794514",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Generally speaking, The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794518",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is often said that The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794522",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is obvious that The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794526",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794530",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Basically, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794534",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Undoubtedly, The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794537",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It's common knowledge that The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794541",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Studies suggest The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794545",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Clearly, The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794549",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, My friend told me: 'The cake is sweet. So every ingredient in it must be sweet.'",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794553",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794556",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, The data implies that The building is made of metal. So every window in it must be made of metal.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794560",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794564",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is often said that The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794568",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Think about this: This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794572",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Basically, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794576",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794580",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Clearly, The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794584",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794588",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794592",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794596",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Furthermore, The building is made of metal. So every window in it must be made of metal.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794600",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794604",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794608",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The building is made of metal. So every window in it must be made of metal.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794611",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I read online that This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794615",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think However, The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794619",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794623",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, The data implies that The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794627",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, In fact, The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794631",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794635",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Someone once said, 'The cake is sweet. So every ingredient in it must be sweet.'",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794639",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Think about this: This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794643",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, However, This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794647",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, For instance, The building is made of metal. So every window in it must be made of metal.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794650",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, One could argue that The building is made of metal. So every window in it must be made of metal.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794654",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I believe that The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794658",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It seems that The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794662",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, My friend told me: 'The building is made of metal. So every window in it must be made of metal.'",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794666",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794670",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794674",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'The building is made of metal. So every window in it must be made of metal.'",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794678",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794682",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Generally speaking, The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794687",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, For instance, The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794691",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Consider the case where The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794694",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is often said that The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794699",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794702",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Note that The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794706",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Here's an argument: The cake is sweet. So every ingredient in it must be sweet.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794710",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794714",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Undoubtedly, This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794717",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Consider the case where The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794721",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Consider the case where The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794725",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794729",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794734",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Generally speaking, The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794738",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I believe that The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794741",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Clearly, The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794745",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794749",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794753",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I read online that The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794757",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794761",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is often said that The forest is thick. So every tree in it must be thick.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794765",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where The company is wealthy. So every employee must be wealthy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794769",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, However, The university is prestigious. So every student there must be prestigious.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794774",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is obvious that The movie is long. So every scene in it must be long.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794778",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794782",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It seems that The choir sounds beautiful. So every singer in it must have a beautiful voice.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794786",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Note that The team is great. Therefore, every player on the team is great.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794790",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that The building is made of metal. So every window in it must be made of metal.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794793",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Generally speaking, This machine is very heavy. So every part of it must be heavy.",
+    "fallacy": "division",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.794799",
+      "verification_status": "template_verified"
+    }
+  }
+]
