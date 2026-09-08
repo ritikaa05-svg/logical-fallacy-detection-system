@@ -1,0 +1,283 @@
+[
+  {
+    "id": "prod_desc_01",
+    "type": "non-argument",
+    "subtype": "product_description",
+    "text": "LogiScan uses a 4-stage neuro-symbolic pipeline to detect logical fallacies in text.",
+    "expected_is_argument": false,
+    "expected_fallacy": "factual_statement"
+  },
+  {
+    "id": "tech_spec_01",
+    "type": "non-argument",
+    "subtype": "technical_specification",
+    "text": "The model utilizes DeBERTa-v3 architecture with 12 hidden layers and a hidden size of 768 tokens.",
+    "expected_is_argument": false,
+    "expected_fallacy": "factual_statement"
+  },
+  {
+    "id": "doc_01",
+    "type": "non-argument",
+    "subtype": "documentation",
+    "text": "To deploy the container, use the docker-compose up command with the --build flag to ensure fresh images.",
+    "expected_is_argument": false,
+    "expected_fallacy": "factual_statement"
+  },
+  {
+    "id": "news_01",
+    "type": "non-argument",
+    "subtype": "news",
+    "text": "The local council approved the construction of three new parks in the downtown area yesterday afternoon.",
+    "expected_is_argument": false,
+    "expected_fallacy": "factual_statement"
+  },
+  {
+    "id": "wiki_01",
+    "type": "non-argument",
+    "subtype": "wikipedia",
+    "text": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy.",
+    "expected_is_argument": false,
+    "expected_fallacy": "factual_statement"
+  },
+  {
+    "id": "straw_man_01",
+    "type": "argument",
+    "subtype": "straw_man",
+    "text": "Person A: We should increase funding for public schools. Person B: So you're saying you want to leave our defense systems vulnerable by taking money away from the military?",
+    "expected_is_argument": true,
+    "expected_fallacy": "straw_man",
+    "expected_quote": "So you're saying you want to leave our defense systems vulnerable by taking money away from the military?"
+  },
+  {
+    "id": "ad_hominem_01",
+    "type": "argument",
+    "subtype": "ad_hominem",
+    "text": "I was presenting my research on climate change at the conference. You said my argument is invalid because you are a high-school dropout with no scientific background.",
+    "expected_is_argument": true,
+    "expected_fallacy": "ad_hominem",
+    "expected_quote": "You said my argument is invalid because you are a high-school dropout with no scientific background."
+  },
+  {
+    "id": "red_herring_01",
+    "type": "argument",
+    "subtype": "red_herring",
+    "text": "The reporter asked the politician about his stance on healthcare. The politician replied, 'What we really need to focus on is the pride of our nation and our heritage.'",
+    "expected_is_argument": true,
+    "expected_fallacy": "red_herring",
+    "expected_quote": "The politician replied, 'What we really need to focus on is the pride of our nation and our heritage.'"
+  },
+  {
+    "id": "false_cause_01",
+    "type": "argument",
+    "subtype": "false_cause",
+    "text": "Every time I wear my lucky blue shirt, our team wins the game. I think the shirt causes us to win.",
+    "expected_is_argument": true,
+    "expected_fallacy": "false_cause",
+    "expected_quote": "I think the shirt causes us to win."
+  },
+  {
+    "id": "appeal_emotion_01",
+    "type": "argument",
+    "subtype": "appeal_to_emotion",
+    "text": "My opponent is proposing budget cuts. If you don't support this tax increase, you clearly don't care about the starving children in our streets who rely on these programs.",
+    "expected_is_argument": true,
+    "expected_fallacy": "appeal_to_emotion",
+    "expected_quote": "If you don't support this tax increase, you clearly don't care about the starving children in our streets who rely on these programs."
+  },
+  {
+    "id": "false_dilemma_01",
+    "type": "argument",
+    "subtype": "false_dilemma",
+    "text": "The city is debating transportation policy. We must either ban all cars or accept permanent traffic gridlock in our cities.",
+    "expected_is_argument": true,
+    "expected_fallacy": "false_dilemma",
+    "expected_quote": "We must either ban all cars or accept permanent traffic gridlock in our cities."
+  },
+  {
+    "id": "false_dilemma_02",
+    "type": "argument",
+    "subtype": "false_dilemma",
+    "text": "The senator gave a passionate speech. She said you are either with us or against us in this fight for justice.",
+    "expected_is_argument": true,
+    "expected_fallacy": "false_dilemma",
+    "expected_quote": "She said you are either with us or against us in this fight for justice."
+  },
+  {
+    "id": "appeal_authority_01",
+    "type": "argument",
+    "subtype": "appeal_to_authority",
+    "text": "This new supplement is gaining popularity. Leading biologists agree that this supplement extends lifespan, so you should take it every morning.",
+    "expected_is_argument": true,
+    "expected_fallacy": "appeal_to_authority",
+    "expected_quote": "Leading biologists agree that this supplement extends lifespan, so you should take it every morning."
+  },
+  {
+    "id": "appeal_authority_02",
+    "type": "argument",
+    "subtype": "appeal_to_authority",
+    "text": "I was unsure about which diet to follow. My doctor said this diet works, so it must be the best way to lose weight.",
+    "expected_is_argument": true,
+    "expected_fallacy": "appeal_to_authority",
+    "expected_quote": "My doctor said this diet works, so it must be the best way to lose weight."
+  },
+  {
+    "id": "slippery_slope_01",
+    "type": "argument",
+    "subtype": "slippery_slope",
+    "text": "The school board is considering a new grading policy. If we allow students to redo assignments, soon they will expect to redo every exam, and eventually the entire education system will collapse into chaos.",
+    "expected_is_argument": true,
+    "expected_fallacy": "slippery_slope",
+    "expected_quote": "If we allow students to redo assignments, soon they will expect to redo every exam, and eventually the entire education system will collapse into chaos."
+  },
+  {
+    "id": "slippery_slope_02",
+    "type": "argument",
+    "subtype": "slippery_slope",
+    "text": "The senator argued against legalization. If we legalize marijuana, then people will start using harder drugs, and soon our society will face a public health disaster.",
+    "expected_is_argument": true,
+    "expected_fallacy": "slippery_slope",
+    "expected_quote": "If we legalize marijuana, then people will start using harder drugs, and soon our society will face a public health disaster."
+  },
+  {
+    "id": "composition_01",
+    "type": "argument",
+    "subtype": "composition",
+    "text": "Our basketball team just finished the season undefeated. Every player on this team is excellent. Therefore, the team as a whole must be excellent at every aspect of the game.",
+    "expected_is_argument": true,
+    "expected_fallacy": "composition",
+    "expected_quote": "Therefore, the team as a whole must be excellent at every aspect of the game."
+  },
+  {
+    "id": "equivocation_01",
+    "type": "argument",
+    "subtype": "equivocation",
+    "text": "The philosopher argued about the nature of reality. The argument had no substance. A thing without substance cannot be physically touched. Therefore, the argument cannot be physically touched.",
+    "expected_is_argument": true,
+    "expected_fallacy": "equivocation",
+    "expected_quote": "Therefore, the argument cannot be physically touched."
+  },
+  {
+    "id": "denying_antecedent_01",
+    "type": "argument",
+    "subtype": "denying_antecedent",
+    "text": "My friend believes diesel cars have good fuel economy. If the car runs on diesel, it has good fuel economy. This car does not run on diesel. Therefore, it does not have good fuel economy.",
+    "expected_is_argument": true,
+    "expected_fallacy": "denying_antecedent",
+    "expected_quote": "Therefore, it does not have good fuel economy."
+  },
+  {
+    "id": "hasty_generali_01",
+    "type": "argument",
+    "subtype": "hasty_generalization",
+    "text": "I visited a small town last weekend. I met two people from that town and they were rude. Everyone from that town must be rude.",
+    "expected_is_argument": true,
+    "expected_fallacy": "hasty_generalization",
+    "expected_quote": "Everyone from that town must be rude."
+  },
+  {
+    "id": "bandwagon_01",
+    "type": "argument",
+    "subtype": "bandwagon",
+    "text": "I was thinking about investing in cryptocurrency. Millions of people are buying this cryptocurrency. It must be a good investment.",
+    "expected_is_argument": true,
+    "expected_fallacy": "bandwagon",
+    "expected_quote": "Millions of people are buying this cryptocurrency."
+  },
+  {
+    "id": "appeal_nature_01",
+    "type": "argument",
+    "subtype": "appeal_to_nature",
+    "text": "I need to choose between two medications for my condition. This herbal remedy is all-natural and organic, so it is safer and healthier than any pharmaceutical drug.",
+    "expected_is_argument": true,
+    "expected_fallacy": "appeal_to_nature",
+    "expected_quote": "This herbal remedy is all-natural and organic, so it is safer and healthier than any pharmaceutical drug."
+  },
+  {
+    "id": "appeal_tradition_01",
+    "type": "argument",
+    "subtype": "appeal_to_tradition",
+    "text": "The HR department is considering changing the review process. We have always done performance reviews this way, so there is no reason to change the process now.",
+    "expected_is_argument": true,
+    "expected_fallacy": "appeal_to_tradition",
+    "expected_quote": "We have always done performance reviews this way, so there is no reason to change the process now."
+  },
+  {
+    "id": "begging_question_01",
+    "type": "argument",
+    "subtype": "begging_the_question",
+    "text": "The senator defended the new bill during the hearing. Obviously the law is just because it is based on principles of justice, which are inherently fair and just.",
+    "expected_is_argument": true,
+    "expected_fallacy": "begging_the_question",
+    "expected_quote": "Obviously the law is just because it is based on principles of justice"
+  },
+  {
+    "id": "no_true_scotsman_01",
+    "type": "argument",
+    "subtype": "no_true_scotsman",
+    "text": "The professor was discussing fringe theories in class. He argued that no real scientist would accept that theory because it contradicts established principles.",
+    "expected_is_argument": true,
+    "expected_fallacy": "no_true_scotsman",
+    "expected_quote": "He argued that no real scientist would accept that theory because it contradicts established principles."
+  },
+  {
+    "id": "educational_text_01",
+    "type": "argument",
+    "subtype": "educational_mixed",
+    "text": "A false dilemma presents a complex situation as if there are only two possible options when more exist. For example: 'We either need to ban cars or accept permanent gridlock.' This fallacy limits the available choices to force a particular conclusion.",
+    "expected_is_argument": true,
+    "expected_fallacy": "false_dilemma",
+    "expected_quote": "'We either need to ban cars or accept permanent gridlock.' This fallacy limits the available choices to force a particular conclusion."
+  },
+  {
+    "id": "salient_tokens_01",
+    "type": "argument",
+    "subtype": "salient_tokens_test",
+    "text": "The ice cream vendor made a surprising claim. The correlation between ice cream sales and crime rates proves that ice cream causes criminal behavior.",
+    "expected_is_argument": true,
+    "expected_fallacy": "false_cause",
+    "expected_quote": "The correlation between ice cream sales and crime rates proves that ice cream causes criminal behavior.",
+    "salient_tokens": [
+      {"token": "ice", "score": 0.45, "start": 76, "end": 79},
+      {"token": "cream", "score": 0.55, "start": 80, "end": 85},
+      {"token": "causes", "score": 0.85, "start": 92, "end": 98},
+      {"token": "criminal", "score": 0.70, "start": 99, "end": 107},
+      {"token": "behavior", "score": 0.60, "start": 108, "end": 116}
+    ]
+  },
+  {
+    "id": "tu_quoque_01",
+    "type": "argument",
+    "subtype": "tu_quoque",
+    "text": "My friend lectured me about healthy living. You tell me to stop smoking, but you smoked for twenty years yourself.",
+    "expected_is_argument": true,
+    "expected_fallacy": "tu_quoque",
+    "expected_quote": "You tell me to stop smoking, but you smoked for twenty years yourself."
+  },
+  {
+    "id": "affirming_consequent_01",
+    "type": "argument",
+    "subtype": "affirming_consequent",
+    "text": "The mechanic inspected the car this morning. If the battery is dead, the engine won't start. The engine won't start. Therefore, the battery is dead.",
+    "expected_is_argument": true,
+    "expected_fallacy": "affirming_consequent",
+    "expected_quote": "Therefore, the battery is dead."
+  },
+  {
+    "id": "division_01",
+    "type": "argument",
+    "subtype": "division",
+    "text": "The CEO bragged about the company's success during the quarterly meeting. This company is extremely profitable. Therefore, every employee in the company must be extremely rich.",
+    "expected_is_argument": true,
+    "expected_fallacy": "division",
+    "expected_quote": "Therefore, every employee in the company must be extremely rich."
+  },
+  {
+    "id": "moving_goalposts_01",
+    "type": "argument",
+    "subtype": "moving_goalposts",
+    "text": "User: I ran three successful clinical trials that prove efficacy. Assistant: That's not enough, you need to prove it works for every age group separately.",
+    "expected_is_argument": true,
+    "expected_fallacy": "moving_goalposts",
+    "expected_quote": "Assistant: That's not enough, you need to prove it works for every age group separately."
+  }
+]

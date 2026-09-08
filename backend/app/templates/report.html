@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Logical Fallacy Analysis — {{ document.filename }}</title>
+  <style>
+    /* --- Page Setup (A4) --- */
+    @page {
+      size: A4;
+      margin: 22mm 20mm 25mm 20mm;
+      @bottom-center {
+        content: "Page " counter(page) " of " counter(pages);
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 7.5pt;
+        color: #9ca3af;
+      }
+      @top-right {
+        content: "LogiScan  |  Logical Fallacy Analysis";
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 7pt;
+        color: #9ca3af;
+        letter-spacing: 0.4pt;
+      }
+    }
+    @page cover {
+      @top-right { content: none; }
+      @bottom-center { content: none; }
+    }
+
+    /* --- Reset --- */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 10pt;
+      color: #1f2937;
+      background: #ffffff;
+      line-height: 1.55;
+    }
+
+    /* --- Macro --- */
+    :root {
+      --rule: #d1d5db;
+      --muted: #9ca3af;
+      --quiet: #6b7280;
+      --body: #1f2937;
+      --head: #111827;
+      --accent: #2563eb;
+      --score-high: #16a34a;
+      --score-med: #d97706;
+      --score-low: #dc2626;
+    }
+
+    h2 {
+      font-size: 13pt;
+      font-weight: 700;
+      color: var(--head);
+      border-bottom: 1.5pt solid var(--accent);
+      padding-bottom: 5pt;
+      margin-top: 14pt;
+      margin-bottom: 10pt;
+      letter-spacing: 0.3pt;
+      page-break-after: avoid;
+    }
+    h3 {
+      font-size: 11pt;
+      font-weight: 600;
+      color: var(--head);
+      margin-top: 8pt;
+      margin-bottom: 4pt;
+      page-break-after: avoid;
+    }
+    p { margin-bottom: 6pt; }
+
+    /* --- Cover --- */
+    .cover-page {
+      page: cover;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40pt 30pt;
+      height: 100vh;
+      page-break-after: always;
+    }
+    .cover-wordmark {
+      font-size: 32pt;
+      font-weight: 800;
+      letter-spacing: 2pt;
+      color: var(--head);
+    }
+    .cover-accent {
+      display: inline-block;
+      width: 42pt;
+      height: 2.5pt;
+      background: var(--accent);
+      margin: 18pt 0 24pt 0;
+    }
+    .cover-label {
+      font-size: 9pt;
+      letter-spacing: 1.2pt;
+      text-transform: uppercase;
+      color: var(--quiet);
+      margin-bottom: 10pt;
+    }
+    .cover-filename {
+      font-size: 15pt;
+      font-weight: 600;
+      color: var(--head);
+      text-align: center;
+      margin-bottom: 8pt;
+      word-break: break-word;
+    }
+    .cover-date {
+      font-size: 9pt;
+      color: var(--muted);
+      margin-bottom: 32pt;
+    }
+    .cover-score-row {
+      display: flex;
+      align-items: baseline;
+      gap: 8pt;
+    }
+    .cover-score-num {
+      font-size: 44pt;
+      font-weight: 800;
+      line-height: 1;
+    }
+    .cover-score-label {
+      font-size: 9pt;
+      color: var(--muted);
+      letter-spacing: 0.8pt;
+      text-transform: uppercase;
+      line-height: 1.3;
+    }
+    .cover-score-sub {
+      font-size: 12pt;
+      font-weight: 600;
+      color: var(--quiet);
+    }
+    .score-high { color: var(--score-high); }
+    .score-med  { color: var(--score-med); }
+    .score-low  { color: var(--score-low); }
+
+    /* --- Summary (two-column rule-between layout) --- */
+    .summary-grid {
+      margin-bottom: 4pt;
+    }
+    .srow {
+      display: flex;
+      border-bottom: 0.5pt solid var(--rule);
+      padding: 4pt 0;
+    }
+    .srow:last-child { border-bottom: none; }
+    .slabel {
+      width: 42%;
+      font-weight: 400;
+      color: var(--quiet);
+      padding-right: 10pt;
+    }
+    .svalue {
+      width: 58%;
+      font-weight: 500;
+      color: var(--body);
+    }
+
+    /* --- Fallacy listing --- */
+    .fallacy-block {
+      margin-bottom: 10pt;
+      padding-left: 10pt;
+      border-left: 2pt solid var(--rule);
+      page-break-inside: avoid;
+    }
+    .fallacy-head {
+      display: flex;
+      align-items: baseline;
+      margin-bottom: 2pt;
+    }
+    .fallacy-name {
+      font-weight: 700;
+      font-size: 10.5pt;
+      color: var(--head);
+      text-transform: capitalize;
+    }
+    .fallacy-conf {
+      font-size: 8pt;
+      color: var(--quiet);
+      font-weight: 500;
+      margin-left: 8pt;
+      white-space: nowrap;
+    }
+    .fallacy-quote {
+      font-style: italic;
+      color: var(--quiet);
+      font-size: 9.5pt;
+      margin-bottom: 2pt;
+    }
+    .fallacy-explain {
+      font-size: 9.5pt;
+      color: var(--body);
+      line-height: 1.45;
+    }
+
+    /* --- Per-page blocks --- */
+    .page-block {
+      margin-bottom: 10pt;
+      padding-bottom: 6pt;
+      border-bottom: 0.5pt solid var(--rule);
+      page-break-inside: avoid;
+    }
+    .page-header {
+      display: flex;
+      align-items: center;
+      gap: 10pt;
+      margin-bottom: 4pt;
+    }
+    .page-label {
+      font-weight: 700;
+      font-size: 10.5pt;
+      color: var(--head);
+    }
+    .page-score-dot {
+      width: 7pt;
+      height: 7pt;
+      border-radius: 50%;
+      display: inline-block;
+      margin-right: 3pt;
+    }
+    .page-score {
+      font-weight: 600;
+      font-size: 9.5pt;
+    }
+    .page-meta {
+      font-size: 8.5pt;
+      color: var(--quiet);
+      margin-bottom: 4pt;
+    }
+    .dot-high { background: var(--score-high); }
+    .dot-med  { background: var(--score-med); }
+    .dot-low  { background: var(--score-low); }
+
+    /* --- Contradiction rows --- */
+    .contra-row {
+      display: flex;
+      gap: 10pt;
+      padding: 5pt 0;
+      border-bottom: 0.5pt solid var(--rule);
+      page-break-inside: avoid;
+      align-items: flex-start;
+    }
+    .contra-left {
+      width: 30%;
+      font-size: 8.5pt;
+      color: var(--quiet);
+      white-space: nowrap;
+      font-weight: 500;
+    }
+    .contra-right {
+      width: 70%;
+      font-size: 9pt;
+      color: var(--body);
+    }
+    .contra-sev {
+      display: inline-block;
+      font-size: 7pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding: 1pt 4pt;
+      border-radius: 3pt;
+      margin-right: 4pt;
+      letter-spacing: 0.4pt;
+    }
+    .sev-critical { background: #fecaca; color: #991b1b; }
+    .sev-moderate { background: #fed7aa; color: #9a3412; }
+    .sev-minor    { background: #bfdbfe; color: #1e40af; }
+
+    /* --- Metadata appendix --- */
+    .appendix {
+      font-size: 8pt;
+      color: var(--quiet);
+      line-height: 1.6;
+      border-top: 1pt solid var(--rule);
+      padding-top: 8pt;
+    }
+    .appendix-title {
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5pt;
+      margin-bottom: 4pt;
+    }
+    .appendix-row {
+      display: inline;
+    }
+    .appendix-row::after { content: " · "; }
+    .appendix-row:last-child::after { content: none; }
+
+    /* --- Empty --- */
+    .none {
+      text-align: center;
+      font-style: italic;
+      color: var(--muted);
+      padding: 12pt 0;
+      font-size: 9pt;
+    }
+
+    /* --- Utilities --- */
+    .mt-4 { margin-top: 10pt; }
+    .fw-500 { font-weight: 500; }
+    .page-break { page-break-before: always; }
+    .avoid-break { page-break-inside: avoid; }
+  </style>
+</head>
+<body>
+
+<!-- ======== COVER PAGE ======== -->
+<div class="cover-page">
+  <div class="cover-wordmark">LogiScan</div>
+  <div class="cover-accent"></div>
+  <div class="cover-label">Logical Fallacy Analysis Report</div>
+  <div class="cover-filename">{{ document.filename }}</div>
+  <div class="cover-date">{{ generated_at }}</div>
+
+  {% set s = overall.logic_score %}
+  {%- if s >= 0.7 -%}
+    {% set sc = "score-high" %}
+  {%- elif s >= 0.4 -%}
+    {% set sc = "score-med" %}
+  {%- else -%}
+    {% set sc = "score-low" %}
+  {%- endif -%}
+  <div class="cover-score-row">
+    <span class="cover-score-num {{ sc }}">{{ "%.0f"|format(s * 100) }}</span>
+    <div>
+      <div class="cover-score-sub">/ 100</div>
+      <div class="cover-score-label">Logic Score</div>
+    </div>
+  </div>
+</div>
+
+<!-- ======== EXECUTIVE SUMMARY ======== -->
+<div class="page-break">
+<h2>Executive Summary</h2>
+
+<p style="margin-bottom:10pt; font-size:9.5pt; color:var(--quiet);">
+  Automated logical-fallacy analysis of <strong style="color:var(--head);">{{ document.filename }}</strong>
+  across {{ document.page_count }} page{% if document.page_count != 1 %}s{% endif %}
+  ({{ document.char_count | int }} characters). The document was processed through a four-stage
+  neuro-symbolic pipeline combining transformer-based classification with formal logical verification.
+</p>
+
+<div class="summary-grid">
+  <div class="srow"><span class="slabel">Filename</span><span class="svalue">{{ document.filename }}</span></div>
+  <div class="srow"><span class="slabel">Pages analysed</span><span class="svalue">{{ document.page_count }}</span></div>
+  <div class="srow"><span class="slabel">Extracted text</span><span class="svalue">{{ document.char_count | int }} characters</span></div>
+  <div class="srow"><span class="slabel">Overall logic score</span><span class="svalue fw-500" style="color:{% if s >= 0.7 %}var(--score-high){% elif s >= 0.4 %}var(--score-med){% else %}var(--score-low){% endif %};">{{ "%.0f"|format(s * 100) }}% &mdash; {% if s >= 0.7 %}Sound{% elif s >= 0.4 %}Questionable{% else %}Problematic{% endif %}</span></div>
+  <div class="srow"><span class="slabel">Coarse classification</span><span class="svalue">{{ overall.coarse_category or "Not assessed" }}</span></div>
+  <div class="srow"><span class="slabel">Fallacies detected</span><span class="svalue">{{ overall.fallacies | length }}</span></div>
+  <div class="srow"><span class="slabel">Formal logic (Z3)</span><span class="svalue">{{ overall.z3_status or "&mdash;" }}</span></div>
+  <div class="srow"><span class="slabel">Total analysis time</span><span class="svalue">{{ "%.0f"|format(overall.total_latency_ms) }} ms</span></div>
+
+  {% if overall.cross_segment_contradictions %}
+  {% set ccount = overall.cross_segment_contradictions.contradictions | length %}
+  <div class="srow"><span class="slabel">Cross-segment contradictions</span><span class="svalue">{{ ccount }} found across {{ overall.cross_segment_contradictions.total_pairs_checked }} pairs</span></div>
+  {% endif %}
+</div>
+
+{% if overall.correction_strategy %}
+<div class="mt-4 no-break">
+  <h3>Correction Guidance</h3>
+  <p>{{ overall.correction_strategy }}</p>
+</div>
+{% endif %}
+</div>
+
+<!-- ======== FALLACIES (OVERALL) ======== -->
+<div class="page-break">
+<h2>Fallacies Identified</h2>
+
+{% if overall.fallacies %}
+  {% for f in overall.fallacies %}
+  <div class="fallacy-block">
+    <div class="fallacy-head">
+      <span class="fallacy-name">{{ f.name.replace("_", " ") }}</span>
+      <span class="fallacy-conf">{{ "%.0f"|format(f.confidence * 100) }}% confidence</span>
+    </div>
+    {% if f.quote %}
+    <div class="fallacy-quote">&ldquo;{{ f.quote }}&rdquo;</div>
+    {% endif %}
+    <div class="fallacy-explain">{{ f.explanation }}</div>
+  </div>
+  {% endfor %}
+{% else %}
+  <p class="none">No logical fallacies were identified in this document.</p>
+{% endif %}
+</div>
+
+<!-- ======== ARGUMENT STRUCTURE ======== -->
+{% if overall.argument_structure and overall.argument_structure.is_argument %}
+<div class="page-break">
+<h2>Argument Structure</h2>
+<p style="font-size:9.5pt; color:var(--quiet); margin-bottom:8pt;">
+  This document contains a recognisable argument
+  {% if overall.argument_structure.reasoning_type %}
+  of type <strong>{{ overall.argument_structure.reasoning_type.replace("_", " ") }}</strong>
+  {% endif %}
+  with the following components extracted by the structural parser.
+</p>
+
+{% if overall.argument_structure.premises %}
+<h3>Premises</h3>
+{% for p in overall.argument_structure.premises %}
+<div class="fallacy-block" style="border-left-color:var(--accent);">
+  <div class="fallacy-quote" style="color:var(--body); font-style:normal;">{{ p }}</div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if overall.argument_structure.conclusion %}
+<h3>Conclusion</h3>
+<div class="fallacy-block" style="border-left-color:var(--score-low);">
+  <div class="fallacy-quote" style="color:var(--body); font-style:normal;">{{ overall.argument_structure.conclusion }}</div>
+</div>
+{% endif %}
+</div>
+{% endif %}
+
+<!-- ======== PER-PAGE BREAKDOWN ======== -->
+{% if per_page %}
+<div class="page-break">
+<h2>Page Analysis</h2>
+<p style="font-size:9.5pt; color:var(--quiet); margin-bottom:10pt;">
+  Results for each page or text chunk processed independently by the pipeline.
+</p>
+
+{% for page_result in per_page %}
+{% set r = page_result.result %}
+{% set ps = r.logic_score %}
+<div class="page-block">
+
+  <div class="page-header">
+    <span class="page-label">Page {{ page_result.page_number }}</span>
+    {% if ps >= 0.7 %}
+      <span class="page-score-dot dot-high"></span><span class="page-score" style="color:var(--score-high);">{{ "%.0f"|format(ps * 100) }}%</span>
+    {% elif ps >= 0.4 %}
+      <span class="page-score-dot dot-med"></span><span class="page-score" style="color:var(--score-med);">{{ "%.0f"|format(ps * 100) }}%</span>
+    {% else %}
+      <span class="page-score-dot dot-low"></span><span class="page-score" style="color:var(--score-low);">{{ "%.0f"|format(ps * 100) }}%</span>
+    {% endif %}
+  </div>
+
+  <div class="page-meta">
+    {{ r.fallacies | length }} fallac{% if r.fallacies | length == 1 %}y{% else %}ies{% endif %} &nbsp;&middot;&nbsp;
+    {{ r.coarse_category or "Unclassified" }} &nbsp;&middot;&nbsp;
+    Formal: {{ r.z3_status or "skipped" }}
+  </div>
+
+  {% for f in r.fallacies %}
+  <div class="fallacy-block" style="margin-left:8pt; padding-left:8pt;">
+    <div class="fallacy-head">
+      <span class="fallacy-name" style="font-size:9.5pt;">{{ f.name.replace("_", " ") }}</span>
+      <span class="fallacy-conf">{{ "%.0f"|format(f.confidence * 100) }}%</span>
+    </div>
+    {% if f.quote %}
+    <div class="fallacy-quote">&ldquo;{{ f.quote }}&rdquo;</div>
+    {% endif %}
+    <div class="fallacy-explain" style="font-size:8.5pt;">{{ f.explanation }}</div>
+  </div>
+  {% endfor %}
+
+</div>
+{% endfor %}
+</div>
+{% endif %}
+
+<!-- ======== CROSS-SEGMENT CONTRADICTIONS ======== -->
+<div class="page-break">
+<h2>Cross-Segment Contradictions</h2>
+
+{% if overall.cross_segment_contradictions and overall.cross_segment_contradictions.contradictions %}
+  <p style="font-size:9pt; color:var(--quiet); margin-bottom:8pt;">
+    {{ overall.cross_segment_contradictions.total_pairs_checked }} segment pairs analysed
+    in {{ "%.1f"|format(overall.cross_segment_contradictions.latency_ms) }} ms.
+  </p>
+  {% for c in overall.cross_segment_contradictions.contradictions %}
+  <div class="contra-row">
+    <div class="contra-left">
+      {% if c.segment_a_page and c.segment_b_page %}
+        Page {{ c.segment_a_page }} &harr; Page {{ c.segment_b_page }}
+      {% else %}
+        Segment {{ c.segment_a_index + 1 }} &harr; Segment {{ c.segment_b_index + 1 }}
+      {% endif %}
+    </div>
+    <div class="contra-right">
+      <span class="contra-sev sev-{{ c.severity }}">{{ c.severity }}</span>
+      {{ c.description }}
+      <span style="font-size:7.5pt; color:var(--muted);">({{ c.type }}, {{ "%.0f"|format(c.confidence * 100) }}%)</span>
+    </div>
+  </div>
+  {% endfor %}
+{% else %}
+  <p class="none">No cross-segment logical contradictions were detected.</p>
+{% endif %}
+</div>
+
+<!-- ======== APPENDIX ======== -->
+<div class="appendix page-break">
+  <div class="appendix-title">Pipeline Metadata</div>
+  <p>
+    <span class="appendix-row">Version {{ overall.version }}</span>
+    <span class="appendix-row">Analysed {{ overall.timestamp }}</span>
+    <span class="appendix-row">Device: {{ overall.device_info }}</span>
+    {% for stage, lat in overall.stage_latencies.items() %}
+    <span class="appendix-row">{{ stage }}: {{ "%.0f"|format(lat) }} ms</span>
+    {% endfor %}
+    {% if overall.cached %}<span class="appendix-row">Result served from cache</span>{% endif %}
+    {% if overall.reranked %}<span class="appendix-row">Labels verified by LLM reranker</span>{% endif %}
+  </p>
+  <p style="margin-top:10pt;">
+    LogiScan Logical Fallacy Detection Engine.
+    Report generated {{ generated_at }}.
+  </p>
+</div>
+
+</body>
+</html>
