@@ -1,0 +1,252 @@
+[
+  {
+    "text": "assistant: I see. [TURN] user: Prove that this engine is efficient. [TURN] assistant: It has 40% thermal efficiency. [TURN] user: That's not enough, prove it can run for 100 hours without maintenance.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830330",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: Is this supplement safe? [TURN] assistant: It passed all FDA safety trials. [TURN] user: Trials can be biased, show me a person who has taken it for 50 years with zero issues.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830369",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Is this supplement safe? [TURN] assistant: It passed all FDA safety trials. [TURN] user: Trials can be biased, show me a person who has taken it for 50 years with zero issues.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830373",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: Prove that this engine is efficient. [TURN] assistant: It has 40% thermal efficiency. [TURN] user: That's not enough, prove it can run for 100 hours without maintenance.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830377",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Prove that this engine is efficient. [TURN] assistant: It has 40% thermal efficiency. [TURN] user: That's not enough, prove it can run for 100 hours without maintenance.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830380",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Show me evidence of climate change. [TURN] assistant: Here are the global temperature records for 100 years. [TURN] user: Those are just averages, show me specific data for my backyard only.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830383",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: Show me evidence of climate change. [TURN] assistant: Here are the global temperature records for 100 years. [TURN] user: Those are just averages, show me specific data for my backyard only.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830390",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: Evidence for evolution? [TURN] assistant: The fossil record shows clear transitions. [TURN] user: Those are just 'gaps', show me a video of a species changing instantly.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830393",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: Is this supplement safe? [TURN] assistant: It passed all FDA safety trials. [TURN] user: Trials can be biased, show me a person who has taken it for 50 years with zero issues.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830396",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: Can you prove you are a human? [TURN] assistant: I can pass a Turing test. [TURN] user: A machine could do that, prove you have a soul.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830400",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: Show me evidence of climate change. [TURN] assistant: Here are the global temperature records for 100 years. [TURN] user: Those are just averages, show me specific data for my backyard only.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830402",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: Can you prove you are a human? [TURN] assistant: I can pass a Turing test. [TURN] user: A machine could do that, prove you have a soul.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830406",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Evidence for evolution? [TURN] assistant: The fossil record shows clear transitions. [TURN] user: Those are just 'gaps', show me a video of a species changing instantly.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830409",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: Can you prove you are a human? [TURN] assistant: I can pass a Turing test. [TURN] user: A machine could do that, prove you have a soul.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830412",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: Evidence for evolution? [TURN] assistant: The fossil record shows clear transitions. [TURN] user: Those are just 'gaps', show me a video of a species changing instantly.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830416",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: Is this supplement safe? [TURN] assistant: It passed all FDA safety trials. [TURN] user: Trials can be biased, show me a person who has taken it for 50 years with zero issues.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830419",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Can you prove you are a human? [TURN] assistant: I can pass a Turing test. [TURN] user: A machine could do that, prove you have a soul.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830422",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: Evidence for evolution? [TURN] assistant: The fossil record shows clear transitions. [TURN] user: Those are just 'gaps', show me a video of a species changing instantly.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830426",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: Prove that this engine is efficient. [TURN] assistant: It has 40% thermal efficiency. [TURN] user: That's not enough, prove it can run for 100 hours without maintenance.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830429",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: Can you prove you are a human? [TURN] assistant: I can pass a Turing test. [TURN] user: A machine could do that, prove you have a soul.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830432",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: I see. [TURN] user: Show me evidence of climate change. [TURN] assistant: Here are the global temperature records for 100 years. [TURN] user: Those are just averages, show me specific data for my backyard only.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830435",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Wait a minute. [TURN] user: Prove that this engine is efficient. [TURN] assistant: It has 40% thermal efficiency. [TURN] user: That's not enough, prove it can run for 100 hours without maintenance.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830439",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "user: Actually... [TURN] user: Evidence for evolution? [TURN] assistant: The fossil record shows clear transitions. [TURN] user: Those are just 'gaps', show me a video of a species changing instantly.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830442",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: Is this supplement safe? [TURN] assistant: It passed all FDA safety trials. [TURN] user: Trials can be biased, show me a person who has taken it for 50 years with zero issues.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830450",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "assistant: Let's consider this. [TURN] user: Show me evidence of climate change. [TURN] assistant: Here are the global temperature records for 100 years. [TURN] user: Those are just averages, show me specific data for my backyard only.",
+    "fallacy": "moving_goalposts",
+    "source": "template_multiturn_v1",
+    "metadata": {
+      "generation_date": "2026-05-27T12:39:45.830452",
+      "is_multiturn": true,
+      "verification_status": "template_verified"
+    }
+  }
+]

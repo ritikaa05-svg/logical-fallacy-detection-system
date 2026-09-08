@@ -1,0 +1,5402 @@
+[
+  {
+    "text": "Well, Furthermore, The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802060",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802117",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802123",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It seems that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802128",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It's common knowledge that If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802133",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I read online that If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802138",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, We should remember that Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802143",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is often said that If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802147",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802151",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Furthermore, Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802156",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It's common knowledge that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802160",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802164",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802169",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Undoubtedly, If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802174",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'If the power is cut, the lights go out. The lights are out because the power was cut.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802179",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802184",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802188",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Someone once said, 'If the light is red, you must stop. The light is red, so you stop.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802193",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802199",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802203",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Think about this: All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802208",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802213",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I believe that The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802218",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802224",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Someone once said, 'Since the match was cancelled, no one played.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802230",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802235",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It's common knowledge that All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802242",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802247",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Studies suggest Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802254",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802259",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I believe that If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802264",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I believe that If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802268",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'If the oven is on, it is cooking. The oven is on, so it is cooking.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802272",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, In fact, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802277",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802282",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802287",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Undoubtedly, Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802290",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802293",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802298",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Undoubtedly, All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802303",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I read online that Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802308",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802312",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I believe that Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802315",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802321",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802325",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Here's an argument: Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802329",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802334",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Actually, According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802338",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802343",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, However, If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802347",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Experts say Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802351",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802356",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802360",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802366",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802369",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802372",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is obvious that If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802376",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Here's an argument: If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802380",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802383",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Here's an argument: According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802387",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Someone once said, 'If the water is boiling, it is hot. The water is boiling, so it is hot.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802391",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802396",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Furthermore, If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802400",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, In fact, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802404",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Basically, The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802408",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, We should remember that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802413",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Generally speaking, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802417",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802421",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that We should remember that Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802425",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It's common knowledge that All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802430",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802433",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802438",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Wait, If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802441",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is obvious that If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802446",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "My friend told me: 'If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802450",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I believe that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802454",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Consider the case where If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802457",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802463",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, Because it is night, the stars are visible.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802467",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802471",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is obvious that The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802475",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is often said that The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802479",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Think about this: All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802484",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802488",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Basically, If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802492",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, Since the match was cancelled, no one played.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802496",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802500",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I read online that Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802504",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Generally speaking, Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802508",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that Since the match was cancelled, no one played.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802513",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Undoubtedly, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802517",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802521",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Basically, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802524",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802529",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802533",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think We should remember that All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802537",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802541",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802545",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'If you are over 18, you can vote. You are over 18, so you can vote.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802550",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Basically, All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802554",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802558",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I believe that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802562",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, My friend told me: 'Research shows that exercise improves heart health, so regular jogging is beneficial.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802566",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I believe that All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802570",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I believe that If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802576",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802580",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Clearly, Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802585",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I believe that Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802588",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802593",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It's common knowledge that Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802597",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Consider the case where If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802601",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Here's an argument: The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802605",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802609",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802613",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802617",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802622",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802626",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802630",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802635",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Experts say If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802639",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802643",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Here's an argument: Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802648",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802652",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802656",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Note that If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802661",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Studies suggest The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802664",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802668",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Clearly, All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802672",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I believe that If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802676",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802681",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, All birds have feathers. An eagle is a bird. So it has feathers.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802685",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802690",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Generally speaking, All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802694",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802699",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802703",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Studies suggest Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802708",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802711",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Basically, If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802716",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802720",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802724",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802728",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802732",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, In fact, If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802736",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Here's an argument: If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802741",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Undoubtedly, If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802745",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802749",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'The evidence supports the conclusion that the suspect was present.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802754",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Here's an argument: The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802758",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Consider the case where The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802762",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802767",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802772",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that All birds have feathers. An eagle is a bird. So it has feathers.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802776",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Actually, The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802780",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802785",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think However, If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802789",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802793",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802797",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802802",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802806",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Generally speaking, All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802810",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I read online that All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802814",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "My friend told me: 'Because she studied hard, she passed the exam.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802819",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802822",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802827",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802831",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'All fruits have seeds. An apple is a fruit. So it has seeds.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802835",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802839",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802843",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802847",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Think about this: Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802851",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802856",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, In fact, If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802860",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, In fact, If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802865",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Wait, All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802870",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Someone once said, 'Because the sun set, it got dark.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802874",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802878",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I read online that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802882",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Experts say If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802886",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802890",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Here's an argument: Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802895",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802899",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Actually, Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802904",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802908",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802912",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802916",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802920",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say Since the match was cancelled, no one played.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802924",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802928",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, However, All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802932",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802936",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Basically, If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802940",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'All birds have feathers. An eagle is a bird. So it has feathers.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802944",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802948",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Someone once said, 'All planets orbit stars. Mars is a planet. So it orbits a star.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802953",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802958",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Note that If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802961",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I read online that Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802966",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Here's an argument: Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802970",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I read online that If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802974",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802978",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Think about this: If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802982",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think We should remember that The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802987",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802992",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802995",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is obvious that If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.802999",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803003",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Note that The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803008",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Studies suggest If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803013",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Experts say Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803017",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think One could argue that If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803022",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Generally speaking, If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803027",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It seems that If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803031",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803035",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Generally speaking, If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803040",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'If the water is boiling, it is hot. The water is boiling, so it is hot.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803044",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I believe that If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803048",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, Since the match was cancelled, no one played.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803052",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Someone once said, 'If the light is red, you must stop. The light is red, so you stop.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803057",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It's common knowledge that Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803061",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Think about this: Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803065",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803069",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I read online that Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803073",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, My friend told me: 'Because the sun set, it got dark.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803077",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "One could argue that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803081",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803102",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803106",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803110",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803114",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803119",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is obvious that Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803124",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'If it rains, the ground is wet. It is raining, so the ground is wet.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803128",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I believe that Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803132",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803136",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Someone once said, 'If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803142",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Think about this: If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803146",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Consider the case where Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803150",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803155",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It seems that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803158",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is obvious that If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803163",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is often said that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803167",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, My friend told me: 'If A is greater than B, and B is greater than C, then A is greater than C.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803170",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803174",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Note that If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803178",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I believe that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803182",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "One could argue that If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803185",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Actually, If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803189",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Experts say If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803193",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Wait, If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803197",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803201",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803206",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It seems that If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803211",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Consider the case where The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803215",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803219",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803224",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803229",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803233",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that All birds have feathers. An eagle is a bird. So it has feathers.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803236",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "One could argue that If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803241",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803244",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, The data implies that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803248",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Consider the case where If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803252",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I believe that Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803257",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Undoubtedly, Because it is night, the stars are visible.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803260",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803265",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803269",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Someone once said, 'Because the sun set, it got dark.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803273",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803277",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'All insects have six legs. An ant is an insect. Therefore, it has six legs.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803281",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803285",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, For instance, If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803289",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803293",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Note that Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803298",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is often said that If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803302",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, One could argue that The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803306",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I read online that If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803310",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803313",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I read online that Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803317",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803321",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "We should remember that If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803326",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'Because he was tired, he went to sleep.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803330",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Think about this: All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803334",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is obvious that All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803338",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, In fact, Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803342",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803346",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, However, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803350",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803354",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It seems that If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803358",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that My friend told me: 'The evidence supports the conclusion that the suspect was present.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803372",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where Since the match was cancelled, no one played.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803376",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Furthermore, If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803381",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, In fact, If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803385",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think However, If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803389",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803393",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803397",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803401",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is often said that Since the match was cancelled, no one played.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803405",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803408",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, My friend told me: 'All birds have feathers. An eagle is a bird. So it has feathers.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803412",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803416",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803421",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803424",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, One could argue that If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803428",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, My friend told me: 'Either the file exists or it does not. It does not exist, so the operation failed.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803431",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803435",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803439",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803443",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803448",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that However, If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803453",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803456",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "The data implies that All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803461",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Basically, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803465",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, In fact, If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803469",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I read online that If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803473",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803476",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Furthermore, If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803480",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Furthermore, If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803484",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803487",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803491",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Note that If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803495",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803499",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803503",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It seems that Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803507",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803511",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803516",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Furthermore, If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803520",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803524",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803529",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803533",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is often said that The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803538",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803541",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Clearly, The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803545",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Undoubtedly, All birds have feathers. An eagle is a bird. So it has feathers.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803549",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that My friend told me: 'If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803554",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "My friend told me: 'All squares are rectangles. This shape is a square. Therefore, it is a rectangle.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803558",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803562",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Experts say If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803565",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803569",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, My friend told me: 'The witness was elsewhere at the time of the crime, so they could not have committed it.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803573",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "However, Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803577",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803581",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It seems that Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803585",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I read online that All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803589",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Basically, The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803593",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803597",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803601",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Note that If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803606",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803610",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803613",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803617",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, In fact, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803621",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Studies suggest Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803625",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803629",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Clearly, If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803633",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803638",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It's common knowledge that Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803641",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Basically, Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803645",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803649",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Studies suggest If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803653",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Clearly, Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803657",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803662",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Furthermore, The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803665",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803669",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Note that If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803673",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Studies suggest All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803677",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It's common knowledge that If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803681",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803685",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'Because the sun set, it got dark.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803689",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Studies suggest Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803693",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Actually, All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803697",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I read online that If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803701",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Wait, If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803705",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is often said that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803709",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803713",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Experts say If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803717",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803720",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803724",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Think about this: If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803729",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803733",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is often said that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803736",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803741",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803745",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803748",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803752",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It's common knowledge that If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803756",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803761",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803765",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Note that If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803769",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803773",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Wait, Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803777",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Wait, The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803782",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Note that The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803785",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Generally speaking, Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803790",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is obvious that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803793",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is obvious that All birds have feathers. An eagle is a bird. So it has feathers.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803797",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803801",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803806",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Furthermore, If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803810",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Furthermore, The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803813",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Studies suggest The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803818",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "However, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803822",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803826",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, We should remember that All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803830",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I believe that All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803834",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Actually, If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803839",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "The data implies that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803843",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that My friend told me: 'If the law is passed, it must be followed. The law was passed, so follow it.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803847",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, My friend told me: 'Since the match was cancelled, no one played.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803851",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Actually, If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803854",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It's common knowledge that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803859",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Here's an argument: If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803862",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Undoubtedly, If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803867",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803871",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803875",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think However, If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803879",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803883",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It seems that If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803887",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, One could argue that All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803891",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It seems that Research shows that exercise improves heart health, so regular jogging is beneficial.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803895",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Wait, All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803899",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Wait, The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803903",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803907",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Furthermore, All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803911",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Furthermore, If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803915",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803919",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803923",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is often said that Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803927",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803931",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803934",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803939",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, All birds have feathers. An eagle is a bird. So it has feathers.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803943",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Studies suggest Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803947",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, Because it is night, the stars are visible.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803951",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803955",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, For instance, Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803959",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803963",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It seems that Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803967",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803971",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803975",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Wait, The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803979",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Generally speaking, If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803983",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that Research shows that exercise improves heart health, so regular jogging is beneficial.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803986",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803991",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803995",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.803999",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that However, If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804003",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Studies suggest Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804007",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Furthermore, Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804011",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: Because it is night, the stars are visible.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804015",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that Because she studied hard, she passed the exam.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804019",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Experts say If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804024",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804027",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, My friend told me: 'Since the gate is locked, we cannot enter.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804032",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that We should remember that All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804035",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804040",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Clearly, All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804043",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Here's an argument: According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804048",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804052",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804057",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that We should remember that If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804061",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that However, If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804065",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804069",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Generally speaking, If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804073",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804077",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'All insects have six legs. An ant is an insect. Therefore, it has six legs.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804081",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Undoubtedly, If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804095",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Think about this: If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804099",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804103",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804107",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I read online that If the light is red, you must stop. The light is red, so you stop.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804111",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "We should remember that The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804114",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that All birds have feathers. An eagle is a bird. So it has feathers.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804118",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804122",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804126",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, My friend told me: 'If the plant gets water, it grows. The plant got water, so it grew.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804130",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804134",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804138",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804142",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804145",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, One could argue that The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804150",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Experts say If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804153",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I read online that The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804158",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say All humans are mortal. Socrates is a human. Therefore, Socrates is mortal.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804162",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804166",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Undoubtedly, All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804170",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804173",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, Because the store was closed, I couldn't buy bread.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804178",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, In fact, Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804182",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Generally speaking, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804186",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Studies suggest All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804190",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Actually, Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804194",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804197",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Think about this: Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804202",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, For instance, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804205",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804209",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Generally speaking, Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804213",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Actually, The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804217",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Wait, Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804221",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that According to the latest census, the population has increased; therefore, we need more housing.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804225",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Someone once said, 'If it rains, the ground is wet. It is raining, so the ground is wet.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804229",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'If it rains, the ground is wet. It is raining, so the ground is wet.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804234",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, We should remember that If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804237",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Wait, All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804241",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804245",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804249",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Think about this: All mammals are warm-blooded. A dog is a mammal. Therefore, it is warm-blooded.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804253",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, Since it is a holiday, the office is closed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804257",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Wait, If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804261",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, We should remember that Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804266",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804269",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "We should remember that All squares are rectangles. This shape is a square. Therefore, it is a rectangle.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804273",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is obvious that If you use a map, you won't get lost. You used a map, so you didn't get lost.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804277",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804281",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804285",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Generally speaking, If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804289",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Here's an argument: The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804293",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Someone once said, 'Since the match was cancelled, no one played.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804297",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Note that Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804300",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804304",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Wait, Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804308",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is obvious that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804313",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804316",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804321",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, We should remember that If the team wins, they get a trophy. They won, so they got a trophy.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804325",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Studies suggest The data shows a strong correlation between education and income; thus, investing in schools is wise.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804328",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804332",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Studies suggest If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804336",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Clearly, If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804340",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804344",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Note that The witness was elsewhere at the time of the crime, so they could not have committed it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804348",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where All cars need fuel. This is a car. Therefore, it needs fuel.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804352",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, My friend told me: 'Because the sun set, it got dark.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804355",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, My friend told me: 'Either the file exists or it does not. It does not exist, so the operation failed.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804359",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804363",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804367",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'Because he was tired, he went to sleep.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804373",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It's common knowledge that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804377",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is often said that Because the sun set, it got dark.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804381",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804385",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804389",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Clearly, Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804393",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804397",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804400",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In fact, Research shows that exercise improves heart health, so regular jogging is beneficial.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804405",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is obvious that If you press the button, the machine starts. You pressed the button, so it started.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804408",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Basically, The evidence supports the conclusion that the suspect was present.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804412",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I read online that The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804416",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It's common knowledge that If the price of a good rises, the quantity demanded usually falls. The price rose, so demand fell.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804420",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Clearly, All mammals have lungs. A dolphin is a mammal. Therefore, a dolphin has lungs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804424",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is obvious that The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804428",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is often said that Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804432",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Experts say Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804436",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804440",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is often said that If you have a valid ticket, you can enter. You have a valid ticket, so you can enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804444",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I believe that All planets orbit stars. Mars is a planet. So it orbits a star.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804448",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Actually, Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804452",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It is often said that Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804456",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It seems that Either the file exists or it does not. It does not exist, so the operation failed.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804459",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, If you save money, you will have it later. You saved money, so you have it now.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804463",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804468",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that If the phone rings, answer it. The phone is ringing, so answer it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804471",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Research shows that exercise improves heart health, so regular jogging is beneficial.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804475",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, Because the road was blocked, we took a detour.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804479",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804483",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804487",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I believe that The experiment was repeated three times with the same result, confirming the hypothesis.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804491",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804495",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Wait, All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804499",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Clearly, All insects have six legs. An ant is an insect. Therefore, it has six legs.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804503",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that Either he is at home or at work. He is not at home, so he is at work.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804507",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It's common knowledge that If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804511",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I believe that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804515",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that My friend told me: 'All insects have six legs. An ant is an insect. Therefore, it has six legs.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804519",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Undoubtedly, Since the book was written in English, I can read it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804524",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that Because he was tired, he went to sleep.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804529",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, I read online that If the server is down, users cannot log in. The server is down, so users cannot log in.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804532",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804537",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that Since the battery is full, the device will run for hours.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804542",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that For instance, If the milk is expired, do not drink it. The milk is expired, so do not drink it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804545",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Wait, Since the gate is locked, we cannot enter.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804549",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It's common knowledge that If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804553",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Someone once said, 'Since the gate is locked, we cannot enter.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804557",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say If the power is cut, the lights go out. The lights are out because the power was cut.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804561",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Experts say If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804565",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Generally speaking, If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804569",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "We should remember that If the alarm sounds, evacuate the building. The alarm is sounding, so evacuate.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804573",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Someone once said, 'The witness was elsewhere at the time of the crime, so they could not have committed it.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804576",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: The project is under budget and ahead of schedule, which indicates good management.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804581",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'The evidence supports the conclusion that the suspect was present.'",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804585",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, In fact, If you are over 18, you can vote. You are over 18, so you can vote.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804589",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is obvious that If the plant gets water, it grows. The plant got water, so it grew.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804592",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, In fact, If the oven is on, it is cooking. The oven is on, so it is cooking.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804596",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, All fruits have seeds. An apple is a fruit. So it has seeds.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804600",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, The data implies that Either we take the bus or the train. We are not taking the bus, so we must take the train.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804604",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Here's an argument: Research shows that exercise improves heart health, so regular jogging is beneficial.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804609",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It seems that If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804613",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is obvious that If A is greater than B, and B is greater than C, then A is greater than C.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804617",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, If it rains, the ground is wet. It is raining, so the ground is wet.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804621",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Furthermore, If the law is passed, it must be followed. The law was passed, so follow it.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804625",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Clearly, If the water is boiling, it is hot. The water is boiling, so it is hot.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804629",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, Since the temperature is below freezing, the water will turn to ice.",
+    "fallacy": "valid_reasoning",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.804633",
+      "verification_status": "template_verified"
+    }
+  }
+]

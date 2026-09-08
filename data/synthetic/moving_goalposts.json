@@ -1,0 +1,902 @@
+[
+  {
+    "text": "Actually, The data implies that User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789482",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789495",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Someone once said, 'User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.'",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789499",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789504",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think We should remember that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789507",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789513",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Studies suggest User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789516",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789520",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Note that User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789525",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think One could argue that User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789529",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I believe that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789533",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, The data implies that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789537",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, For instance, User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789541",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789544",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789548",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Note that User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789552",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, I believe that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789556",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It's common knowledge that User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789560",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Consider the case where The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789563",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Experts say The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789567",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Basically, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789571",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Studies suggest User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789575",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789579",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It's common knowledge that User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789583",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789586",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Undoubtedly, User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789589",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I believe that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789593",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789597",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It seems that User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789601",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.'",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789604",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think However, User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789608",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Studies suggest User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789612",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, The data implies that User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789616",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that However, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789620",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Here's an argument: User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789623",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Think about this: The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789627",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that We should remember that User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789631",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789635",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Note that User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789638",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Consider the case where User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789643",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Clearly, User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789646",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Consider the case where User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789650",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789654",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think I believe that The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789658",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789662",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789665",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Studies suggest User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789669",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789673",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789677",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789681",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789685",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Experts say User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789689",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Basically, User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789693",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, My friend told me: 'The car passed the safety test. Assistant: But can it survive a fall from a plane?'",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789696",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "My friend told me: 'The car passed the safety test. Assistant: But can it survive a fall from a plane?'",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789700",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I believe that The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789704",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Furthermore, User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789708",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Wait, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789712",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Here's an argument: User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789715",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789720",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789724",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Generally speaking, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789727",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789731",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, For instance, User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789735",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Studies suggest The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789739",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789744",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, My friend told me: 'User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.'",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789747",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Generally speaking, User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789751",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Wait, User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789755",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, We should remember that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789758",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is often said that User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789762",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Clearly, The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789766",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789770",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789774",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It seems that The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789777",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It's common knowledge that User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789781",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Wait, User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789785",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'User: I've proven X. Assistant: Okay, but now you have to prove Y too.'",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789789",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Actually, User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789793",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789797",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789800",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It's common knowledge that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789804",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Here's an argument: User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789808",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is often said that User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789812",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, The data implies that The car passed the safety test. Assistant: But can it survive a fall from a plane?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789816",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It seems that User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789820",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, In fact, User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789823",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789827",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It's common knowledge that User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789831",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, The data implies that User: Here is the evidence you asked for. Assistant: That's not good enough, I need a different type of proof.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789835",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, We should remember that User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789838",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Wait, User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789842",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Someone once said, 'User: I finished the task. Assistant: I actually wanted you to finish two tasks.'",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789846",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Here's an argument: User: I've proven X. Assistant: Okay, but now you have to prove Y too.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789850",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, One could argue that User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789854",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Studies suggest User: Here is a peer-reviewed source. Assistant: Peer-review is biased; find me a source that isn't from a university.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789858",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, For instance, User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789862",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It is often said that User: The study shows the medicine works. Assistant: Sure, but does it work for people over 90?",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789865",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Wait, User: I finished the task. Assistant: I actually wanted you to finish two tasks.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789869",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Here's an argument: User: I met all your criteria. Assistant: Well, I've decided the criteria are now more strict.",
+    "fallacy": "moving_goalposts",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.789873",
+      "verification_status": "template_verified"
+    }
+  }
+]

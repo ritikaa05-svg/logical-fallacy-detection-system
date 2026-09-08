@@ -1,0 +1,902 @@
+[
+  {
+    "text": "Basically, The data implies that If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797757",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Furthermore, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797776",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Think about this: If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797781",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Experts say If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797786",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Basically, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797791",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Wait, If I win the lottery, I'll be rich. I didn't win the lottery. So I'm not rich.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797796",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Furthermore, If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797799",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Consider the case where If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797804",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797809",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is obvious that If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797814",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, We should remember that If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797817",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Furthermore, If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797822",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It's common knowledge that If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797827",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797831",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, For instance, If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797836",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Furthermore, If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797840",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Someone once said, 'If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797844",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It's common knowledge that If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797849",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797853",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Someone once said, 'If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797858",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Generally speaking, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797861",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Someone once said, 'If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797865",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Experts say If I win the lottery, I'll be rich. I didn't win the lottery. So I'm not rich.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797870",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Actually, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797876",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797880",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797884",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that I read online that If you study hard, you'll pass. You didn't study hard. So you won't pass.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797889",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797894",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797899",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Note that If you study hard, you'll pass. You didn't study hard. So you won't pass.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797904",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797908",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Undoubtedly, If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797913",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think However, If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797919",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Studies suggest If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797924",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If you're a professional athlete, you're fit. You're not a professional athlete. So you're not fit.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797929",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Someone once said, 'If it rains, the ground is wet. It's not raining. So the ground isn't wet.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797934",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797938",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, It is obvious that If you study hard, you'll pass. You didn't study hard. So you won't pass.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797943",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Someone once said, 'If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797948",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797952",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It is obvious that If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797956",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I read online that If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797962",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Experts say If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797967",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think The data implies that If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797971",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797977",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Basically, If you're a professional athlete, you're fit. You're not a professional athlete. So you're not fit.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797982",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, For instance, If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797987",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797991",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, However, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.797996",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Studies suggest If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798001",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, However, If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798006",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It seems that If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798011",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Generally speaking, If I win the lottery, I'll be rich. I didn't win the lottery. So I'm not rich.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798016",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It's common knowledge that If you're a professional athlete, you're fit. You're not a professional athlete. So you're not fit.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798021",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that Undoubtedly, If you study hard, you'll pass. You didn't study hard. So you won't pass.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798025",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, If you're a professional athlete, you're fit. You're not a professional athlete. So you're not fit.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798030",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Undoubtedly, If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798036",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Wait, If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798040",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798045",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Clearly, If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798051",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798056",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Think about this: If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798061",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, My friend told me: 'If I win the lottery, I'll be rich. I didn't win the lottery. So I'm not rich.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798068",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, It seems that If I win the lottery, I'll be rich. I didn't win the lottery. So I'm not rich.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798073",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, I believe that If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798078",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798123",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Consider the case where If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798129",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "We should remember that If you're a professional athlete, you're fit. You're not a professional athlete. So you're not fit.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798134",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Actually, If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798140",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798145",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, Here's an argument: If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798150",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798155",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that One could argue that If you eat too much, you'll get a stomach ache. You didn't eat too much. So you won't get a stomach ache.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798161",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Generally speaking, If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798166",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, Basically, If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798171",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that In fact, If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798176",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, In fact, If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798182",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Think about this: If I win the lottery, I'll be rich. I didn't win the lottery. So I'm not rich.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798189",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It's common knowledge that If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798194",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, Someone once said, 'If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798199",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Think about this: If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798205",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "However, If it rains, the ground is wet. It's not raining. So the ground isn't wet.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798209",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think In fact, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798216",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "In my opinion, My friend told me: 'If the battery is dead, the car won't start. The battery isn't dead. So the car will start.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798221",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, It seems that If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798225",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Generally speaking, If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798232",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798237",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Generally speaking, If the battery is dead, the car won't start. The battery isn't dead. So the car will start.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798242",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "For instance, If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798247",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think My friend told me: 'If it's a square, it's a rectangle. It's not a square. Therefore, it's not a rectangle.'",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798252",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think For instance, If you study hard, you'll pass. You didn't study hard. So you won't pass.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798257",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Basically, Here's an argument: If you're a professional athlete, you're fit. You're not a professional athlete. So you're not fit.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798263",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, One could argue that If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798268",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that The data implies that If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798275",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "It is obvious that If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798280",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think It is obvious that If she lives in Paris, she lives in France. She doesn't live in Paris. Therefore, she doesn't live in France.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798285",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Well, It is obvious that If I win the lottery, I'll be rich. I didn't win the lottery. So I'm not rich.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798290",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Actually, I read online that If he's a doctor, he went to medical school. He's not a doctor. So he didn't go to medical school.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798295",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "Note that It's common knowledge that If you're a professional athlete, you're fit. You're not a professional athlete. So you're not fit.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798301",
+      "verification_status": "template_verified"
+    }
+  },
+  {
+    "text": "I think Consider the case where If it's a dog, it has four legs. It's not a dog. So it doesn't have four legs.",
+    "fallacy": "denying_antecedent",
+    "source": "template_generator_v1",
+    "metadata": {
+      "generation_date": "2026-06-07T14:55:20.798306",
+      "verification_status": "template_verified"
+    }
+  }
+]

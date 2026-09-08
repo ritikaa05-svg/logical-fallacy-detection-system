@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Premise A about causal. Premise B about causal. Therefore, conclusion about causal.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "causal",
+      "premise_1": "Premise A about causal.",
+      "premise_2": "Premise B about causal.",
+      "conclusion": "Therefore, conclusion about causal.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about scientific. Premise B about scientific. Therefore, conclusion about scientific.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "scientific",
+      "premise_1": "Premise A about scientific.",
+      "premise_2": "Premise B about scientific.",
+      "conclusion": "Therefore, conclusion about scientific.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about practical. Premise B about practical. Therefore, conclusion about practical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "practical",
+      "premise_1": "Premise A about practical.",
+      "premise_2": "Premise B about practical.",
+      "conclusion": "Therefore, conclusion about practical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about statistical. Premise B about statistical. Therefore, conclusion about statistical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "statistical",
+      "premise_1": "Premise A about statistical.",
+      "premise_2": "Premise B about statistical.",
+      "conclusion": "Therefore, conclusion about statistical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about statistical. Premise B about statistical. Therefore, conclusion about statistical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "statistical",
+      "premise_1": "Premise A about statistical.",
+      "premise_2": "Premise B about statistical.",
+      "conclusion": "Therefore, conclusion about statistical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about practical. Premise B about practical. Therefore, conclusion about practical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "practical",
+      "premise_1": "Premise A about practical.",
+      "premise_2": "Premise B about practical.",
+      "conclusion": "Therefore, conclusion about practical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about practical. Premise B about practical. Therefore, conclusion about practical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "practical",
+      "premise_1": "Premise A about practical.",
+      "premise_2": "Premise B about practical.",
+      "conclusion": "Therefore, conclusion about practical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about causal. Premise B about causal. Therefore, conclusion about causal.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "causal",
+      "premise_1": "Premise A about causal.",
+      "premise_2": "Premise B about causal.",
+      "conclusion": "Therefore, conclusion about causal.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about causal. Premise B about causal. Therefore, conclusion about causal.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "causal",
+      "premise_1": "Premise A about causal.",
+      "premise_2": "Premise B about causal.",
+      "conclusion": "Therefore, conclusion about causal.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about causal. Premise B about causal. Therefore, conclusion about causal.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "causal",
+      "premise_1": "Premise A about causal.",
+      "premise_2": "Premise B about causal.",
+      "conclusion": "Therefore, conclusion about causal.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about policy. Premise B about policy. Therefore, conclusion about policy.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "policy",
+      "premise_1": "Premise A about policy.",
+      "premise_2": "Premise B about policy.",
+      "conclusion": "Therefore, conclusion about policy.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about policy. Premise B about policy. Therefore, conclusion about policy.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "policy",
+      "premise_1": "Premise A about policy.",
+      "premise_2": "Premise B about policy.",
+      "conclusion": "Therefore, conclusion about policy.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about causal. Premise B about causal. Therefore, conclusion about causal.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "causal",
+      "premise_1": "Premise A about causal.",
+      "premise_2": "Premise B about causal.",
+      "conclusion": "Therefore, conclusion about causal.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about statistical. Premise B about statistical. Therefore, conclusion about statistical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "statistical",
+      "premise_1": "Premise A about statistical.",
+      "premise_2": "Premise B about statistical.",
+      "conclusion": "Therefore, conclusion about statistical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about scientific. Premise B about scientific. Therefore, conclusion about scientific.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "scientific",
+      "premise_1": "Premise A about scientific.",
+      "premise_2": "Premise B about scientific.",
+      "conclusion": "Therefore, conclusion about scientific.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about causal. Premise B about causal. Therefore, conclusion about causal.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "causal",
+      "premise_1": "Premise A about causal.",
+      "premise_2": "Premise B about causal.",
+      "conclusion": "Therefore, conclusion about causal.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about statistical. Premise B about statistical. Therefore, conclusion about statistical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "statistical",
+      "premise_1": "Premise A about statistical.",
+      "premise_2": "Premise B about statistical.",
+      "conclusion": "Therefore, conclusion about statistical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about policy. Premise B about policy. Therefore, conclusion about policy.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "policy",
+      "premise_1": "Premise A about policy.",
+      "premise_2": "Premise B about policy.",
+      "conclusion": "Therefore, conclusion about policy.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about practical. Premise B about practical. Therefore, conclusion about practical.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "practical",
+      "premise_1": "Premise A about practical.",
+      "premise_2": "Premise B about practical.",
+      "conclusion": "Therefore, conclusion about practical.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  },
+  {
+    "text": "Premise A about causal. Premise B about causal. Therefore, conclusion about causal.",
+    "fallacy": "none",
+    "source": "simulator_v1",
+    "metadata": {
+      "reasoning_type": "causal",
+      "premise_1": "Premise A about causal.",
+      "premise_2": "Premise B about causal.",
+      "conclusion": "Therefore, conclusion about causal.",
+      "validity_explanation": "Valid deductive logic."
+    }
+  }
+]
