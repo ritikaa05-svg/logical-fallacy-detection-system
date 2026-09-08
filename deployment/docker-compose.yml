@@ -1,0 +1,76 @@
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: logiscan-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  logiscan:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    container_name: logiscan
+    ports:
+      - "8000:8000"
+      - "8501:8501"
+    environment:
+      - LOGISCAN_ENV=production
+      - LOG_LEVEL=INFO
+      - REDIS_URL=redis://redis:6379/0
+      - SALIENCE_THRESHOLD=0.6
+      - MAX_INPUT_TOKENS=2000
+      - STAGE1_MODEL_PATH=./models/stage1_v13_classifier
+      - STAGE2_MODEL_PATH=./models/stage3_v13_classifier
+      - STAGE3_MODEL_PATH=./models/stage3_v13_classifier
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    deploy:
+      update_config:
+        order: start-first
+        parallelism: 1
+        delay: 10s
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: 3
+
+  nginx:
+    image: nginx:1.27-alpine
+    container_name: logiscan-nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      logiscan:
+        condition: service_healthy
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: 3
+
+volumes:
+  redis-data:
