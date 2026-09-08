@@ -1,0 +1,10 @@
+# Expansion Configuration
+model:
+  name: "google/gemma-2-9b-it" # Recommended for Colab T4
+  temperature: 0.7
+  top_p: 0.95
+  max_tokens: 512
+  batch_size: 20
+  retry_policy:
+    max_retries: 3
+    backoff: 2.0

@@ -1,0 +1,18 @@
+{
+  "hard_negatives": {
+    "target": 1500,
+    "status": "pending"
+  },
+  "counterfactuals": {
+    "target": 500,
+    "status": "pending"
+  },
+  "domain_expansion": {
+    "target": 1000,
+    "status": "pending"
+  },
+  "multi_turn": {
+    "target": 500,
+    "status": "pending"
+  }
+}
