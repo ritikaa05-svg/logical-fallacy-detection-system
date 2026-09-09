@@ -1,0 +1,6 @@
+{
+  "agreement_rate": 0.08,
+  "avg_shadow_latency_ms": 100.66578979998212,
+  "avg_production_latency_ms": 458.24330907997137,
+  "total_samples": 50
+}
