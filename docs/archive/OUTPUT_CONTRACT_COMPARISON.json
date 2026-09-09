@@ -1,0 +1,27 @@
+{
+  "input_text": "If it rains, the ground gets wet. The ground is wet, therefore it rained.",
+  "production_structure": {
+    "coarse_label": "Formal",
+    "coarse_confidence": 0.95,
+    "fine_labels": [
+      "affirming_consequent"
+    ],
+    "fine_confidences": [
+      0.89
+    ],
+    "salient_tokens": []
+  },
+  "phase4_raw_structure": {
+    "fine_labels": [
+      "affirming_consequent",
+      "denying_antecedent",
+      "hasty_generalization"
+    ],
+    "fine_confidences": [
+      0.9619141221046448,
+      0.012444175779819489,
+      0.008705672807991505
+    ],
+    "salient_tokens": []
+  }
+}

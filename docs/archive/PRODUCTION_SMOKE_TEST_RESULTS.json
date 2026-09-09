@@ -1,0 +1,372 @@
+{
+  "Case A - Product Description": {
+    "version": "1.1.0-robust-xai",
+    "input_text": "LogiScan uses a 4-stage neuro-symbolic pipeline to detect logical fallacies in text.",
+    "is_logical_claim": false,
+    "salience_score": 0.1,
+    "coarse_category": "Non-Fallacious",
+    "fine_labels": [
+      "factual_statement"
+    ],
+    "confidence_scores": [
+      1.0
+    ],
+    "salient_tokens": [],
+    "fallacies": [],
+    "argument_structure": {
+      "status": "skipped",
+      "is_argument": false,
+      "premises": [],
+      "conclusion": "",
+      "reasoning_type": "unknown",
+      "fallacy": null,
+      "confidence": 0.0,
+      "explanation": "",
+      "latency_ms": 0.0018849968910217285
+    },
+    "annotations": [],
+    "z3_status": "skipped",
+    "correction_strategy": "This text has been identified as a factual description or statement rather than a structured argument.",
+    "logic_score": 1.0,
+    "total_latency_ms": 510.379017010564,
+    "stage_latencies": {
+      "stage1": 510.2257860125974,
+      "structural_parser": 0.0018849968910217285
+    },
+    "cached": false,
+    "reranked": false,
+    "device_info": {
+      "device_string": "cuda",
+      "execution_target": "ONNX_CPU",
+      "api_fallback": false,
+      "vram_gb": 3.6,
+      "cuda_available": true,
+      "mps_available": false
+    },
+    "timestamp": "2026-06-20T09:11:39.327446+00:00"
+  },
+  "Case B - Definition": {
+    "version": "1.1.0-robust-xai",
+    "input_text": "A logical fallacy is a flaw in reasoning that weakens an argument.",
+    "is_logical_claim": false,
+    "salience_score": 0.1,
+    "coarse_category": "Non-Fallacious",
+    "fine_labels": [
+      "factual_statement"
+    ],
+    "confidence_scores": [
+      1.0
+    ],
+    "salient_tokens": [],
+    "fallacies": [],
+    "argument_structure": {
+      "status": "skipped",
+      "is_argument": false,
+      "premises": [],
+      "conclusion": "",
+      "reasoning_type": "unknown",
+      "fallacy": null,
+      "confidence": 0.0,
+      "explanation": "",
+      "latency_ms": 0.0018849968910217285
+    },
+    "annotations": [],
+    "z3_status": "skipped",
+    "correction_strategy": "This text has been identified as a factual description or statement rather than a structured argument.",
+    "logic_score": 1.0,
+    "total_latency_ms": 177.8449649864342,
+    "stage_latencies": {
+      "stage1": 177.44072401546873,
+      "structural_parser": 0.0018849968910217285
+    },
+    "cached": false,
+    "reranked": false,
+    "device_info": {
+      "device_string": "cuda",
+      "execution_target": "ONNX_CPU",
+      "api_fallback": false,
+      "vram_gb": 3.6,
+      "cuda_available": true,
+      "mps_available": false
+    },
+    "timestamp": "2026-06-20T09:11:39.505489+00:00"
+  },
+  "Case C - Straw Man": {
+    "version": "1.1.0-robust-xai",
+    "input_text": "Person A: We should build more bike lanes. Person B: So you want to ban all cars and force everyone to walk?",
+    "is_logical_claim": true,
+    "salience_score": 0.9979861080646515,
+    "coarse_category": "Informal (Relevance)",
+    "fine_labels": [
+      "straw_man"
+    ],
+    "confidence_scores": [
+      0.9903563857078552
+    ],
+    "salient_tokens": [],
+    "fallacies": [
+      {
+        "name": "straw_man",
+        "quote": "Person A: We should build more bike lanes.\"\n\nStraw man fallacy:\nPerson A: We should build more bike lanes.",
+        "explanation": "Distorting or oversimplifying an opponent's position to make it easier to refute or mock.",
+        "confidence": 0.5513110160827637
+      },
+      {
+        "name": "straw_man",
+        "quote": "Person A: I think we should invest more in public transportation.\nPerson B: So you want to ban all cars and force everyone to walk",
+        "explanation": "Distorting or oversimplifying an opponent's position to make it easier to refute or mock.",
+        "confidence": 0.9903563857078552
+      }
+    ],
+    "argument_structure": {
+      "status": "success_llm",
+      "is_argument": false,
+      "premises": [],
+      "conclusion": "",
+      "reasoning_type": "inductive",
+      "fallacy": null,
+      "confidence": 0.0,
+      "explanation": "",
+      "latency_ms": 14284.417827002471
+    },
+    "annotations": [
+      {
+        "type": "straw_man",
+        "label": "Straw Man",
+        "confidence": 0.5513110160827637,
+        "definition": "Misrepresenting an argument to make it easier to attack.",
+        "explanation": "Distorting or oversimplifying an opponent's position to make it easier to refute or mock.",
+        "sentence": "Person A: We should build more bike lanes.",
+        "sentence_start": 0,
+        "sentence_end": 42,
+        "spans": [
+          {
+            "text": "Person A: We should build more bike lanes.",
+            "start": 0,
+            "end": 42,
+            "saliency": 1.0
+          }
+        ]
+      },
+      {
+        "type": "straw_man",
+        "label": "Straw Man",
+        "confidence": 0.9903563857078552,
+        "definition": "Misrepresenting an argument to make it easier to attack.",
+        "explanation": "Distorting or oversimplifying an opponent's position to make it easier to refute or mock.",
+        "sentence": "Person B: So you want to ban all cars and force everyone to walk?",
+        "sentence_start": 43,
+        "sentence_end": 108,
+        "spans": [
+          {
+            "text": "Person B: So you want to ban all cars and force everyone to walk?",
+            "start": 43,
+            "end": 108,
+            "saliency": 1.0
+          }
+        ]
+      }
+    ],
+    "z3_status": "skipped",
+    "correction_strategy": "Analysis complete across multiple segments. Detected 2 potential fallacies: straw_man.",
+    "logic_score": 0.2038667907611017,
+    "total_latency_ms": 34481.301685009385,
+    "stage_latencies": {
+      "stage1": 646.2423150078394,
+      "structural_parser": 14284.527059004176,
+      "stage2": 1164.6907239919528,
+      "stage3": 50.988606992177665,
+      "stage4_symbolic": 0.0,
+      "stage4_synthesis": 7309.0975180093665
+    },
+    "cached": false,
+    "reranked": false,
+    "device_info": {
+      "device_string": "cuda",
+      "execution_target": "ONNX_CPU",
+      "api_fallback": false,
+      "vram_gb": 3.6,
+      "cuda_available": true,
+      "mps_available": false
+    },
+    "timestamp": "2026-06-20T09:12:13.986869+00:00"
+  },
+  "Case D - Ad Hominem": {
+    "version": "1.1.0-robust-xai",
+    "input_text": "You're wrong because you're an idiot.",
+    "is_logical_claim": true,
+    "salience_score": 0.997794508934021,
+    "coarse_category": "Informal (Relevance)",
+    "fine_labels": [
+      "ad_hominem"
+    ],
+    "confidence_scores": [
+      0.9725244641304016
+    ],
+    "salient_tokens": [],
+    "fallacies": [
+      {
+        "name": "ad_hominem",
+        "quote": "You're wrong because you're an idiot.",
+        "explanation": "Rather than addressing the argument's logic or evidence, the speaker attacks the character, motive, or personal attributes of the person making it.",
+        "confidence": 0.9725244641304016
+      }
+    ],
+    "argument_structure": {
+      "status": "success_llm",
+      "is_argument": false,
+      "premises": [],
+      "conclusion": "",
+      "reasoning_type": "inductive",
+      "fallacy": null,
+      "confidence": 0.0,
+      "explanation": "",
+      "latency_ms": 10782.009716000175
+    },
+    "annotations": [
+      {
+        "type": "ad_hominem",
+        "label": "Ad Hominem",
+        "confidence": 0.9725244641304016,
+        "definition": "Attacks the person, not their argument.",
+        "explanation": "Rather than addressing the argument's logic or evidence, the speaker attacks the character, motive, or personal attributes of the person making it.",
+        "sentence": "You're wrong because you're an idiot.",
+        "sentence_start": 0,
+        "sentence_end": 37,
+        "spans": [
+          {
+            "text": "You're wrong because you're an idiot.",
+            "start": 0,
+            "end": 37,
+            "saliency": 1.0
+          }
+        ]
+      }
+    ],
+    "z3_status": "skipped",
+    "correction_strategy": "",
+    "logic_score": 0.309683415073999,
+    "total_latency_ms": 18374.765918997582,
+    "stage_latencies": {
+      "stage1": 170.8478450018447,
+      "structural_parser": 10782.009716000175,
+      "stage2": 35.179055004846305,
+      "stage3": 21.777908987132832,
+      "stage4_symbolic": 0.0,
+      "stage4_synthesis": 4256.6447029821575
+    },
+    "cached": false,
+    "reranked": false,
+    "device_info": {
+      "device_string": "cuda",
+      "execution_target": "ONNX_CPU",
+      "api_fallback": false,
+      "vram_gb": 3.6,
+      "cuda_available": true,
+      "mps_available": false
+    },
+    "timestamp": "2026-06-20T09:12:32.362444+00:00"
+  },
+  "Case E - Valid Reasoning": {
+    "version": "1.1.0-robust-xai",
+    "input_text": "If it rains, the ground gets wet. It is raining. Therefore the ground gets wet.",
+    "is_logical_claim": true,
+    "salience_score": 0.6422229011853536,
+    "coarse_category": "Formal",
+    "fine_labels": [
+      "false_cause",
+      "affirming_consequent"
+    ],
+    "confidence_scores": [
+      0.4715057611465454,
+      0.4513435363769531
+    ],
+    "salient_tokens": [],
+    "fallacies": [
+      {
+        "name": "false_cause",
+        "quote": "Therefore the ground gets wet.",
+        "explanation": "Assuming that because one event followed another, the first must have caused the second (Post Hoc Ergo Propter Hoc).",
+        "confidence": 0.4715057611465454
+      },
+      {
+        "name": "affirming_consequent",
+        "quote": "Therefore the ground gets wet.\"\n\nThe exact short phrase that is a affirming consequent fallacy is:\n\"Therefore the ground gets wet.",
+        "explanation": "If A implies B, and B is true, this fallacy incorrectly concludes A must be true. Many causes can produce the same effect.",
+        "confidence": 0.4513435363769531
+      }
+    ],
+    "argument_structure": {
+      "status": "success_llm",
+      "is_argument": false,
+      "premises": [],
+      "conclusion": "",
+      "reasoning_type": "inductive",
+      "fallacy": null,
+      "confidence": 0.0,
+      "explanation": "",
+      "latency_ms": 10823.523011000361
+    },
+    "annotations": [
+      {
+        "type": "false_cause",
+        "label": "False Cause",
+        "confidence": 0.4715057611465454,
+        "definition": "Assuming a relationship between two things that doesn't exist.",
+        "explanation": "Assuming that because one event followed another, the first must have caused the second (Post Hoc Ergo Propter Hoc).",
+        "sentence": "Therefore the ground gets wet.",
+        "sentence_start": 49,
+        "sentence_end": 79,
+        "spans": [
+          {
+            "text": "Therefore the ground gets wet.",
+            "start": 49,
+            "end": 79,
+            "saliency": 1.0
+          }
+        ]
+      },
+      {
+        "type": "affirming_consequent",
+        "label": "Affirming Consequent",
+        "confidence": 0.4513435363769531,
+        "definition": "Assumes a result proves its cause.",
+        "explanation": "If A implies B, and B is true, this fallacy incorrectly concludes A must be true. Many causes can produce the same effect.",
+        "sentence": "Therefore the ground gets wet.",
+        "sentence_start": 49,
+        "sentence_end": 79,
+        "spans": [
+          {
+            "text": "Therefore the ground gets wet.",
+            "start": 49,
+            "end": 79,
+            "saliency": 1.0
+          }
+        ]
+      }
+    ],
+    "z3_status": "skipped",
+    "correction_strategy": "Analysis complete across multiple segments. Detected 2 potential fallacies: false_cause, affirming_consequent.",
+    "logic_score": 0.0,
+    "total_latency_ms": 55340.585784986615,
+    "stage_latencies": {
+      "stage1": 341.1190109909512,
+      "structural_parser": 10823.545849008951,
+      "stage2": 23.026601993478835,
+      "stage3": 14.557718008290976,
+      "stage4_symbolic": 32910.86652100785,
+      "stage4_synthesis": 3681.0413859784603
+    },
+    "cached": false,
+    "reranked": false,
+    "device_info": {
+      "device_string": "cuda",
+      "execution_target": "ONNX_CPU",
+      "api_fallback": false,
+      "vram_gb": 3.6,
+      "cuda_available": true,
+      "mps_available": false
+    },
+    "timestamp": "2026-06-20T09:13:27.703141+00:00"
+  }
+}

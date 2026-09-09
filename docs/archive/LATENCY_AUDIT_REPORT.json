@@ -1,0 +1,44 @@
+{
+  "legacy_model_status": "NOT LOADED",
+  "shadow_mode_active": true,
+  "latency_breakdown": [
+    {
+      "component": "Tokenization",
+      "latency_ms": 13.905447000070126,
+      "percentage": 0.2669487816909349,
+      "cumulative_ms": 13.905447000070126
+    },
+    {
+      "component": "Model Inference",
+      "latency_ms": 803.8772390000304,
+      "percentage": 15.432373341112182,
+      "cumulative_ms": 817.7826860001005
+    },
+    {
+      "component": "Attribution/Explainability",
+      "latency_ms": 4387.689336999756,
+      "percentage": 84.23233880539645,
+      "cumulative_ms": 5205.472022999857
+    },
+    {
+      "component": "Post-processing",
+      "latency_ms": 3.3269539999309927,
+      "percentage": 0.0638689512835425,
+      "cumulative_ms": 5208.798976999788
+    },
+    {
+      "component": "Pipeline Orchestration",
+      "latency_ms": 0,
+      "percentage": 0.0,
+      "cumulative_ms": 5208.798976999788
+    },
+    {
+      "component": "API Serialization",
+      "latency_ms": 0.23285000042960746,
+      "percentage": 0.004470120516881184,
+      "cumulative_ms": 5209.031827000217
+    }
+  ],
+  "largest_contributor": "Attribution/Explainability",
+  "total_measured_latency_ms": 5209.031827000217
+}

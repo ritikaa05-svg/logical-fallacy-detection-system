@@ -1,0 +1,54 @@
+{
+  "production": {
+    "name": "Production (Current)",
+    "mem_mb": 3496.31640625,
+    "avg_latency": 750.0294037574869,
+    "p95_latency": 848.2228249777108,
+    "num_labels": 2,
+    "logits_shape": [
+      1,
+      2
+    ],
+    "labels": [
+      "LABEL_0",
+      "LABEL_1"
+    ]
+  },
+  "phase4": {
+    "name": "Phase 4 (New)",
+    "mem_mb": 286.80078125,
+    "avg_latency": 76.40202038414178,
+    "p95_latency": 81.34142798371613,
+    "num_labels": 24,
+    "logits_shape": [
+      1,
+      24
+    ],
+    "labels": [
+      "ad_hominem",
+      "affirming_consequent",
+      "appeal_to_authority",
+      "appeal_to_emotion",
+      "appeal_to_nature",
+      "appeal_to_tradition",
+      "bandwagon",
+      "begging_the_question",
+      "composition",
+      "denying_antecedent",
+      "division",
+      "equivocation",
+      "factual_statement",
+      "false_cause",
+      "false_dilemma",
+      "hasty_generalization",
+      "moving_goalposts",
+      "no_true_scotsman",
+      "red_herring",
+      "slippery_slope",
+      "straw_man",
+      "tu_quoque",
+      "tu_quoque_contextual",
+      "valid_reasoning"
+    ]
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "ad_hominem": {
+    "total": 537,
+    "ratio_human": 0.7206703910614525,
+    "lexical_diversity": 0.23643714136671884,
+    "structural_diversity": 0.13966480446927373,
+    "duplicate_rate": 0.0,
+    "avg_length": 17.960893854748605,
+    "discourse_marker_dependence": 0.3202979515828678,
+    "top_markers": [
+      [
+        "note that",
+        32
+      ],
+      [
+        "i think",
+        30
+      ],
+      [
+        "well",
+        30
+      ]
+    ]
+  },
+  "affirming_consequent": {
+    "total": 288,
+    "ratio_human": 0.4791666666666667,
+    "lexical_diversity": 0.2208732197058137,
+    "structural_diversity": 0.14930555555555555,
+    "duplicate_rate": 0.0,
+    "avg_length": 21.381944444444443,
+    "discourse_marker_dependence": 0.5347222222222222,
+    "top_markers": [
+      [
+        "basically",
+        32
+      ],
+      [
+        "note that",
+        28
+      ],
+      [
+        "actually",
+        24
+      ]
+    ]
+  },
+  "appeal_to_authority": {
+    "total": 774,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.16183534868312074,
+    "structural_diversity": 0.40568475452196384,
+    "duplicate_rate": 0.0,
+    "avg_length": 49.75710594315245,
+    "discourse_marker_dependence": 0.16795865633074936,
+    "top_markers": [
+      [
+        "i think",
+        51
+      ],
+      [
+        "well",
+        45
+      ],
+      [
+        "actually",
+        18
+      ]
+    ]
+  },
+  "appeal_to_emotion": {
+    "total": 541,
+    "ratio_human": 0.722735674676525,
+    "lexical_diversity": 0.2231717871051493,
+    "structural_diversity": 0.1866913123844732,
+    "duplicate_rate": 0.0,
+    "avg_length": 21.626617375231053,
+    "discourse_marker_dependence": 0.3142329020332717,
+    "top_markers": [
+      [
+        "well",
+        31
+      ],
+      [
+        "actually",
+        30
+      ],
+      [
+        "i think",
+        28
+      ]
+    ]
+  },
+  "appeal_to_nature": {
+    "total": 627,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.14247898881609425,
+    "structural_diversity": 0.5629984051036683,
+    "duplicate_rate": 0.0,
+    "avg_length": 62.400318979266345,
+    "discourse_marker_dependence": 0.15151515151515152,
+    "top_markers": [
+      [
+        "i think",
+        45
+      ],
+      [
+        "well",
+        30
+      ],
+      [
+        "actually",
+        11
+      ]
+    ]
+  },
+  "appeal_to_tradition": {
+    "total": 607,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.1395023483561507,
+    "structural_diversity": 0.5683690280065898,
+    "duplicate_rate": 0.0,
+    "avg_length": 62.344316309719936,
+    "discourse_marker_dependence": 0.2026359143327842,
+    "top_markers": [
+      [
+        "well",
+        54
+      ],
+      [
+        "i think",
+        46
+      ],
+      [
+        "basically",
+        13
+      ]
+    ]
+  },
+  "bandwagon": {
+    "total": 704,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.13426193307287243,
+    "structural_diversity": 0.5,
+    "duplicate_rate": 0.0,
+    "avg_length": 53.34090909090909,
+    "discourse_marker_dependence": 0.17897727272727273,
+    "top_markers": [
+      [
+        "i think",
+        71
+      ],
+      [
+        "actually",
+        28
+      ],
+      [
+        "well",
+        25
+      ]
+    ]
+  },
+  "begging_the_question": {
+    "total": 311,
+    "ratio_human": 0.5176848874598071,
+    "lexical_diversity": 0.21401657874905802,
+    "structural_diversity": 0.1382636655948553,
+    "duplicate_rate": 0.0,
+    "avg_length": 17.884244372990352,
+    "discourse_marker_dependence": 0.5144694533762058,
+    "top_markers": [
+      [
+        "well",
+        36
+      ],
+      [
+        "note that",
+        35
+      ],
+      [
+        "actually",
+        24
+      ]
+    ]
+  },
+  "composition": {
+    "total": 100,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.07193675889328063,
+    "structural_diversity": 0.02,
+    "duplicate_rate": 0.0,
+    "avg_length": 17.19,
+    "discourse_marker_dependence": 1.09,
+    "top_markers": [
+      [
+        "well",
+        21
+      ],
+      [
+        "basically",
+        19
+      ],
+      [
+        "note that",
+        18
+      ]
+    ]
+  },
+  "denying_antecedent": {
+    "total": 100,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.06341789052069426,
+    "structural_diversity": 0.06,
+    "duplicate_rate": 0.0,
+    "avg_length": 22.04,
+    "discourse_marker_dependence": 1.02,
+    "top_markers": [
+      [
+        "actually",
+        22
+      ],
+      [
+        "note that",
+        20
+      ],
+      [
+        "basically",
+        14
+      ]
+    ]
+  },
+  "division": {
+    "total": 100,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.07755474452554745,
+    "structural_diversity": 0.02,
+    "duplicate_rate": 0.0,
+    "avg_length": 16.4,
+    "discourse_marker_dependence": 1.07,
+    "top_markers": [
+      [
+        "actually",
+        25
+      ],
+      [
+        "basically",
+        19
+      ],
+      [
+        "in my opinion",
+        17
+      ]
+    ]
+  },
+  "equivocation": {
+    "total": 100,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.04503464203233257,
+    "structural_diversity": 0.01,
+    "duplicate_rate": 0.0,
+    "avg_length": 21.39,
+    "discourse_marker_dependence": 1.19,
+    "top_markers": [
+      [
+        "well",
+        26
+      ],
+      [
+        "basically",
+        24
+      ],
+      [
+        "actually",
+        23
+      ]
+    ]
+  },
+  "factual_statement": {
+    "total": 599,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.04428442844284428,
+    "structural_diversity": 0.005008347245409015,
+    "duplicate_rate": 0.0,
+    "avg_length": 11.592654424040067,
+    "discourse_marker_dependence": 1.0400667779632722,
+    "top_markers": [
+      [
+        "basically",
+        110
+      ],
+      [
+        "actually",
+        103
+      ],
+      [
+        "note that",
+        99
+      ]
+    ]
+  },
+  "false_cause": {
+    "total": 446,
+    "ratio_human": 0.6636771300448431,
+    "lexical_diversity": 0.23476410962332625,
+    "structural_diversity": 0.16367713004484305,
+    "duplicate_rate": 0.002242152466367713,
+    "avg_length": 22.64798206278027,
+    "discourse_marker_dependence": 0.36771300448430494,
+    "top_markers": [
+      [
+        "note that",
+        31
+      ],
+      [
+        "basically",
+        25
+      ],
+      [
+        "well",
+        24
+      ]
+    ]
+  },
+  "false_dilemma": {
+    "total": 672,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.14490589624279465,
+    "structural_diversity": 0.5565476190476191,
+    "duplicate_rate": 0.0,
+    "avg_length": 54.666666666666664,
+    "discourse_marker_dependence": 0.18303571428571427,
+    "top_markers": [
+      [
+        "i think",
+        52
+      ],
+      [
+        "well",
+        45
+      ],
+      [
+        "actually",
+        18
+      ]
+    ]
+  },
+  "hasty_generalization": {
+    "total": 1044,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.1477389224285226,
+    "structural_diversity": 0.3448275862068966,
+    "duplicate_rate": 0.0,
+    "avg_length": 42.73275862068966,
+    "discourse_marker_dependence": 0.1446360153256705,
+    "top_markers": [
+      [
+        "well",
+        76
+      ],
+      [
+        "i think",
+        46
+      ],
+      [
+        "actually",
+        23
+      ]
+    ]
+  },
+  "moving_goalposts": {
+    "total": 125,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.06717687074829932,
+    "structural_diversity": 0.024,
+    "duplicate_rate": 0.0,
+    "avg_length": 23.208,
+    "discourse_marker_dependence": 1.104,
+    "top_markers": [
+      [
+        "actually",
+        36
+      ],
+      [
+        "well",
+        23
+      ],
+      [
+        "note that",
+        19
+      ]
+    ]
+  },
+  "no_true_scotsman": {
+    "total": 125,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.08403869407496976,
+    "structural_diversity": 0.048,
+    "duplicate_rate": 0.0,
+    "avg_length": 16.552,
+    "discourse_marker_dependence": 1.048,
+    "top_markers": [
+      [
+        "well",
+        36
+      ],
+      [
+        "actually",
+        21
+      ],
+      [
+        "basically",
+        20
+      ]
+    ]
+  },
+  "red_herring": {
+    "total": 928,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.1305414598784364,
+    "structural_diversity": 0.4040948275862069,
+    "duplicate_rate": 0.0,
+    "avg_length": 48.62823275862069,
+    "discourse_marker_dependence": 0.16163793103448276,
+    "top_markers": [
+      [
+        "i think",
+        70
+      ],
+      [
+        "well",
+        52
+      ],
+      [
+        "actually",
+        22
+      ]
+    ]
+  },
+  "slippery_slope": {
+    "total": 685,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.13412365695882728,
+    "structural_diversity": 0.6525547445255474,
+    "duplicate_rate": 0.0,
+    "avg_length": 66.51824817518248,
+    "discourse_marker_dependence": 0.11970802919708029,
+    "top_markers": [
+      [
+        "well",
+        38
+      ],
+      [
+        "i think",
+        30
+      ],
+      [
+        "basically",
+        8
+      ]
+    ]
+  },
+  "straw_man": {
+    "total": 599,
+    "ratio_human": 1.0,
+    "lexical_diversity": 0.22012320328542095,
+    "structural_diversity": 0.1419031719532554,
+    "duplicate_rate": 0.0,
+    "avg_length": 29.315525876460768,
+    "discourse_marker_dependence": 0.08848080133555926,
+    "top_markers": [
+      [
+        "actually",
+        20
+      ],
+      [
+        "i think",
+        15
+      ],
+      [
+        "basically",
+        15
+      ]
+    ]
+  },
+  "tu_quoque": {
+    "total": 50,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.17005813953488372,
+    "structural_diversity": 0.08,
+    "duplicate_rate": 0.0,
+    "avg_length": 18.42,
+    "discourse_marker_dependence": 0.14,
+    "top_markers": [
+      [
+        "someone once said",
+        3
+      ],
+      [
+        "actually",
+        2
+      ],
+      [
+        "basically",
+        1
+      ]
+    ]
+  },
+  "tu_quoque_contextual": {
+    "total": 124,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.07365299060800791,
+    "structural_diversity": 0.024193548387096774,
+    "duplicate_rate": 0.0,
+    "avg_length": 19.443548387096776,
+    "discourse_marker_dependence": 0.8790322580645161,
+    "top_markers": [
+      [
+        "note that",
+        23
+      ],
+      [
+        "well",
+        23
+      ],
+      [
+        "actually",
+        23
+      ]
+    ]
+  },
+  "valid_reasoning": {
+    "total": 600,
+    "ratio_human": 0.0,
+    "lexical_diversity": 0.03757560159567623,
+    "structural_diversity": 0.021666666666666667,
+    "duplicate_rate": 0.0,
+    "avg_length": 17.87,
+    "discourse_marker_dependence": 1.07,
+    "top_markers": [
+      [
+        "note that",
+        115
+      ],
+      [
+        "actually",
+        107
+      ],
+      [
+        "basically",
+        103
+      ]
+    ]
+  }
+}

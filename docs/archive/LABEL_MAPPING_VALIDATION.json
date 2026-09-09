@@ -1,0 +1,31 @@
+{
+  "full_mapping": {
+    "ad_hominem": "Informal (Relevance)",
+    "affirming_consequent": "Formal",
+    "appeal_to_authority": "Informal (Relevance)",
+    "appeal_to_emotion": "Informal (Relevance)",
+    "appeal_to_nature": "Informal (Presumption)",
+    "appeal_to_tradition": "Informal (Presumption)",
+    "bandwagon": "Informal (Relevance)",
+    "begging_the_question": "Informal (Presumption)",
+    "composition": "Informal (Presumption)",
+    "denying_antecedent": "Formal",
+    "division": "Informal (Presumption)",
+    "equivocation": "Informal (Ambiguity)",
+    "factual_statement": "Non-Fallacious",
+    "false_cause": "Informal (Presumption)",
+    "false_dilemma": "Formal",
+    "hasty_generalization": "Informal (Relevance)",
+    "moving_goalposts": "Informal (Relevance)",
+    "no_true_scotsman": "Informal (Presumption)",
+    "red_herring": "Informal (Relevance)",
+    "slippery_slope": "Informal (Presumption)",
+    "straw_man": "Informal (Relevance)",
+    "tu_quoque": "Informal (Relevance)",
+    "tu_quoque_contextual": "Informal (Relevance)",
+    "valid_reasoning": "Non-Fallacious"
+  },
+  "unmapped": [],
+  "total_labels": 24,
+  "mapped_count": 24
+}

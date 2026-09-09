@@ -1,0 +1,148 @@
+{
+  "If it rains, the ground is wet. The ground is wet, therefore it rained.": {
+    "coarse_label": "Formal",
+    "coarse_confidence": 0.85,
+    "fine_labels": [
+      "affirming_consequent",
+      "denying_antecedent"
+    ],
+    "fine_confidences": [
+      0.8,
+      0.4
+    ],
+    "salient_tokens": [
+      {
+        "token": "If",
+        "score": 0.8,
+        "start": 0,
+        "end": 2
+      },
+      {
+        "token": "the",
+        "score": 0.4,
+        "start": 13,
+        "end": 16
+      },
+      {
+        "token": "wet.",
+        "score": 0.4,
+        "start": 27,
+        "end": 31
+      },
+      {
+        "token": "is",
+        "score": 0.4,
+        "start": 43,
+        "end": 45
+      },
+      {
+        "token": "it",
+        "score": 0.4,
+        "start": 61,
+        "end": 63
+      }
+    ]
+  },
+  "You are wrong because you are a bad person.": {
+    "coarse_label": "Informal (Relevance)",
+    "coarse_confidence": 0.85,
+    "fine_labels": [
+      "ad_hominem",
+      "tu_quoque"
+    ],
+    "fine_confidences": [
+      0.8,
+      0.4
+    ],
+    "salient_tokens": [
+      {
+        "token": "You",
+        "score": 0.8,
+        "start": 0,
+        "end": 3
+      },
+      {
+        "token": "because",
+        "score": 0.4,
+        "start": 14,
+        "end": 21
+      },
+      {
+        "token": "a",
+        "score": 0.4,
+        "start": 30,
+        "end": 31
+      }
+    ]
+  },
+  "I enjoy eating apples in the morning.": {
+    "coarse_label": "Informal (Presumption)",
+    "coarse_confidence": 0.85,
+    "fine_labels": [
+      "hasty_generalization",
+      "false_cause"
+    ],
+    "fine_confidences": [
+      0.8,
+      0.4
+    ],
+    "salient_tokens": [
+      {
+        "token": "I",
+        "score": 0.8,
+        "start": 0,
+        "end": 1
+      },
+      {
+        "token": "apples",
+        "score": 0.4,
+        "start": 15,
+        "end": 21
+      },
+      {
+        "token": "morning.",
+        "score": 0.4,
+        "start": 29,
+        "end": 37
+      }
+    ]
+  },
+  "All men are mortal. Socrates is a man. Therefore Socrates is mortal.": {
+    "coarse_label": "Formal",
+    "coarse_confidence": 0.85,
+    "fine_labels": [
+      "affirming_consequent",
+      "denying_antecedent"
+    ],
+    "fine_confidences": [
+      0.8,
+      0.4
+    ],
+    "salient_tokens": [
+      {
+        "token": "All",
+        "score": 0.8,
+        "start": 0,
+        "end": 3
+      },
+      {
+        "token": "mortal.",
+        "score": 0.4,
+        "start": 12,
+        "end": 19
+      },
+      {
+        "token": "a",
+        "score": 0.4,
+        "start": 32,
+        "end": 33
+      },
+      {
+        "token": "Socrates",
+        "score": 0.4,
+        "start": 49,
+        "end": 57
+      }
+    ]
+  }
+}
