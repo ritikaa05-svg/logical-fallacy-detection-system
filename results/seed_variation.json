@@ -1,0 +1,11 @@
+{
+  "data": "data/unified_training_data_v1.3.json",
+  "seeds": {
+    "42": 0.8927,
+    "2024": 0.8792,
+    "7": 0.8832
+  },
+  "status": "complete",
+  "macro_f1_mean": 0.885,
+  "macro_f1_std": 0.0069
+}
