@@ -1,0 +1,50 @@
+{
+  "device": "cpu",
+  "date": "2026-08-05",
+  "results": {},
+  "stage1_val": {
+    "samples": 1155,
+    "old_stage1_v12": {
+      "macro_f1": 0.4954,
+      "accuracy": 0.9818
+    },
+    "new_stage1_v13": {
+      "macro_f1": 0.9272,
+      "accuracy": 0.9948
+    }
+  },
+  "stage23_val": {
+    "samples": 1695,
+    "n_classes": 29,
+    "old_stage3_v12": {
+      "macro_f1": 0.9134,
+      "accuracy": 0.8985
+    },
+    "new_stage3_v13": {
+      "macro_f1": 0.8971,
+      "accuracy": 0.8796
+    }
+  },
+  "phase4_subset": {
+    "samples": 1445,
+    "n_classes": 24,
+    "excluded_formal_classes": [
+      "exclusive_premises",
+      "existential_fallacy",
+      "illicit_major",
+      "illicit_minor",
+      "undistributed_middle"
+    ],
+    "old_phase4_24": {
+      "macro_f1": 0.8024,
+      "accuracy": 0.8048
+    },
+    "new_stage3_v13": {
+      "macro_f1": 0.8756,
+      "accuracy": 0.8588
+    }
+  },
+  "verification": {
+    "new_beats_old": false
+  }
+}

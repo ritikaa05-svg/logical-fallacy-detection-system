@@ -1,0 +1,20 @@
+{
+  "model": "models/stage1_v13_classifier",
+  "note": "Retrained stage 1 gatekeeper (DistilBERT, binary argument/non-argument), measured locally on the stage1_splits.json splits used by the Kaggle notebook",
+  "splits": {
+    "train": 10584,
+    "val": 1155,
+    "test": 1155
+  },
+  "val": {"accuracy": 0.9948, "precision": 0.9974, "recall": 0.9974, "f1": 0.9974},
+  "test": {"accuracy": 0.9983, "precision": 0.9991, "recall": 0.9991, "f1": 0.9991},
+  "old_model_reference": {
+    "model": "models/stage1_v12",
+    "finding": "degenerate - constant salience 1.000 on every input, macro F1 0.4954 (equals majority baseline)"
+  },
+  "salience_sanity": {
+    "argument_example": 0.999,
+    "non_argument_example": 0.004,
+    "argument_example_2": 0.999
+  }
+}

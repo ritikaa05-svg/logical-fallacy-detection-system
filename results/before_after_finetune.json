@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "stage23": {
+    "val_samples": 1695,
+    "n_classes": 29,
+    "majority_class_baseline": 0.0056,
+    "tfidf_logreg_from_scratch": 0.8708,
+    "deberta_zero_shot": 0.0012,
+    "deberta_finetuned": 0.8971
+  },
+  "stage1": {
+    "val_samples": 1155,
+    "majority_class_baseline": 0.4954,
+    "distilbert_zero_shot": 0.0179,
+    "distilbert_finetuned": 0.4954
+  },
+  "device": "cpu"
+}
