@@ -1,0 +1,7 @@
+{
+  "suite_a": {"f1": 0.9388, "name": "Argument Detection"},
+  "suite_b": {"avg_iou": 1.0, "name": "Evidence Extraction"},
+  "suite_c": {"span_alignment_accuracy": 1.0, "name": "Highlight Alignment"},
+  "suite_d": {"macro_f1": 0.5275, "exact_match_accuracy": 0.6774, "name": "Classification"},
+  "classification": {"macro_f1": 0.912, "micro_f1": 0.8994, "name": "29-Class Evaluation"}
+}
