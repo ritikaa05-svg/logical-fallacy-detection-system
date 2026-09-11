@@ -1,0 +1,42 @@
+# LogiScan Unified Training Configuration — SYNCED TO PRODUCTION
+# Production training run: cloud_training/scripts/train_stage3_v13.py (v1.3)
+# Last synced: 2026-08-03 (defense preparation, supervisor feedback)
+# NOTE: Values here are the production facts. Earlier versions of this file
+# (LR 3e-5 / BS 8 / 3 epochs) were CPU prototype settings and are deprecated.
+
+model:
+  base_model: "microsoft/deberta-v3-small"   # off-the-shelf HuggingFace backbone, fine-tuned
+  num_epochs: 6
+  learning_rate: 1.0e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.1                          # linear warmup, 10% of total steps
+  grad_clip_norm: 1.0
+  batch_size: 16                             # effective per-GPU (x2 under DataParallel on Kaggle T4x2)
+  max_length: 256
+  mixed_precision: true                      # torch.amp autocast + GradScaler on CUDA
+  loss: "cross_entropy"                      # single-head; production model is 24/29-label single head
+  loss_weighting:
+    enabled: true
+    strategy: 'sqrt_inverse_frequency'       # Options: inverse_frequency, sqrt_inverse_frequency, effective_num_samples
+  freeze_layers: 0                           # full fine-tune (0% frozen)
+  callbacks:
+    checkpoint: "best_val_macro_f1"          # manual save-when-best-F1 checkpoint
+    early_stopping: false
+    reduce_lr_on_plateau: false
+    scheduler: "linear_warmup_linear_decay"
+
+data:
+  core_path: "data/unified_training_data_v1.3.json"
+  synthetic_dir: "data/synthetic"
+  multiturn_dir: "data/synthetic_multiturn"
+  val_split: 0.1                             # stratified; seed configurable (--seed), default 42
+  split_strategy: "stratified_random"
+  split_seed: 42
+
+hyperparameter_tuning:
+  method: "manual"                           # heuristic, informed by HF recommended ranges; no grid/Bayesian search
+  rationale: "LR 1e-5 within HF AdamW range; 6 epochs chosen via val F1 plateau; BS 16 from 6GB VRAM constraint"
+
+paths:
+  output_dir: "models/stage3_v13_classifier"
+  logs_dir: "cloud_training/logs"
