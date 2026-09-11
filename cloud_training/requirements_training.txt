@@ -1,0 +1,8 @@
+# LogiScan Training Dependencies
+pandas>=2.2.0
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+ipykernel>=6.29.0
+notebook>=7.2.0
+tqdm>=4.66.0
