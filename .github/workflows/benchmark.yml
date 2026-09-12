@@ -1,0 +1,88 @@
+name: Benchmark Gate
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Run benchmarks
+        run: python3 backend/tests/benchmarks/run_benchmarks.py
+
+      - name: Evaluate model
+        run: python3 scripts/evaluate.py --data-path data/unified_training_data_v1.2.json --model-path models/stage3_v12
+
+      - name: Ensure compare script exists
+        run: test -f scripts/compare_benchmarks.py
+
+      - name: Compare against baseline
+        run: python3 scripts/compare_benchmarks.py --current benchmark_results/latest_report.json --baseline benchmark_results/baseline.json --threshold 0.02
+
+      - name: Post benchmark results as PR comment
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { execSync } = require('child_process');
+
+            const reportPath = 'benchmark_results/latest_report.json';
+            const baselinePath = 'benchmark_results/baseline.json';
+
+            const report = fs.existsSync(reportPath) ? JSON.parse(fs.readFileSync(reportPath, 'utf8')) : null;
+            const baseline = fs.existsSync(baselinePath) ? JSON.parse(fs.readFileSync(baselinePath, 'utf8')) : null;
+
+            let body = '## Benchmark Results\n\n';
+
+            const keyMap = {
+              'suite_a':        { 'f1': 'f1' },
+              'suite_b':        { 'avg_iou': 'avg_iou' },
+              'suite_c':        { 'span_alignment_accuracy': 'span_alignment_accuracy' },
+              'suite_d':        { 'macro_f1': 'macro_f1', 'exact_match_accuracy': 'exact_match' },
+              'classification': { 'macro_f1': 'macro_f1', 'micro_f1': 'micro_f1' },
+            };
+
+            body += '| Suite | Metric | Baseline | Current | Delta |\n';
+            body += '|---|---|---|---|---|\n';
+
+            for (const [suite, mapping] of Object.entries(keyMap)) {
+              for (const [currKey, baseKey] of Object.entries(mapping)) {
+                const baseVal = baseline?.[suite]?.[baseKey];
+                const currVal = report?.[suite]?.[currKey];
+                if (baseVal !== undefined && currVal !== undefined) {
+                  const delta = (currVal - baseVal).toFixed(4);
+                  const sign = delta >= 0 ? '+' : '';
+                  body += `| ${suite} | ${baseKey} | ${baseVal.toFixed(4)} | ${currVal.toFixed(4)} | ${sign}${delta} |\n`;
+                }
+              }
+            }
+
+            body += '\n### Per-Class F1 (Suite D)\n\n';
+            if (report?.suite_d?.per_class) {
+              body += '| Class | Current F1 |\n';
+              body += '|---|---|\n';
+              for (const [cls, vals] of Object.entries(report.suite_d.per_class)) {
+                body += `| ${cls} | ${vals.f1.toFixed(4)} |\n`;
+              }
+            }
+
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });
